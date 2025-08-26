@@ -1,0 +1,531 @@
+{
+    "dataset": "NLP Maternal Health Dataset",
+    "language": "Tonga",
+    "authors": ["Angela S Chikambwe", "Mercy Musonda", "Judy Mweemba"],
+    "license": "CC-BY-4.0",
+  }
+
+{
+  "pregnancy_tonga_data": [
+    {
+      "week": 1,
+      "baby_development": {
+        "length": null,
+        "weight": null,
+        "summary": "Muciindi echo inga mwanataninga talika ku komena. [cite: 13]"
+      },
+      "maternal_changes": {
+        "body_changes": "Muntu watalika kumwezi wakwe, ulatalika kuzwa bulowa kubu kaintu, kuchisa mwida, inkolo kuzimba, kuluka akusomona. [cite: 11]",
+        "tips": "Kuyandika kuchincha mukalile kutengwa zyindi zyakuba daa hyibe zyinji akuba amwana ulikabotu. [cite: 15] Kulya zyakulwa zyinjisi busane. [cite: 16] Kumwa misamu njobapa ciindi muntu Mali adaa. [cite: 17] Kucita ma exercises. [cite: 18] HINTU ZYITELEDE KUCITWA CIINDI MUNTU NALA DAA Bukoko [cite: 20] Kufweba [cite: 21] Misamu yacimuntu [cite: 22]",
+        "plan": "Kulya zyakulwa zyinjisi busane Kucita ma exercises [cite: 24]"
+      }
+    },
+    {
+      "week": 2,
+      "baby_development": {
+        "length": null,
+        "weight": null,
+        "summary": "Muciindi echo inga mwana taninga talika ku komena. [cite: 42]"
+      },
+      "maternal_changes": {
+        "body_changes": "Kuchisa munsi yada [cite: 36] Nkolo kuchisa [cite: 37] Kuzwa zyitezemuka kubukaintu zyituba. [cite: 38] Kupya mubili [cite: 39] Bamakaintu bamwi bazwa tubulowa tushonto kubukaintu [cite: 40]",
+        "tips": "Ciindi choyelede kuchisa awa weelede kucicita nozyikale kuti daa nkoyili. [cite: 44] Inga zyaba nhwiiki kotana zyiba kuti uladaa, echo inga changwashilizya mwana abanyina kuli zyintu zyinga zyaleta mapenzi. [cite: 45]",
+        "plan": "Kulya kabotu [cite: 47] Ma exercises [cite: 48]"
+      }
+    },
+    {
+      "week": 3,
+      "baby_development": {
+        "length": null,
+        "weight": null,
+        "summary": "Kaana mwiinda na kashonto, kalibonya kucheya maningi inga muntu wakabona alinsyo nikatali mwiinda. [cite: 60]"
+      },
+      "maternal_changes": {
+        "body_changes": "Bamakaintu banji tababoni zyichita Pele bamakaintu bamwi balanhya zyichisa akuzwa Hintu kubu kaintu ida nolichitika. [cite: 55] Ibamwi bamakaintu balanhya zyichisa mwida akuzwa tubulowa tushonto iciindi iji nolikala muchizyalilo. [cite: 56] Mwelede kuzyibya basilisi kuti mwabona ibulowa mbuji na kuchisa kwaindilizya. [cite: 57] Echo inga chalangizya kuti daa yaliboka kunze yachi zyalilo (ectopic pregnancy. [cite: 58]",
+        "tips": "Mubili ulatalika kuchincha, abona kuyowa aku ngabwa nkambo kazyichitika mu mubili. Kutaluba kupumuna akulya kabotu. [cite: 62] Mwelede kupumuna akulya kabotu nomulaa adaa. Kuyeya maningi chintu chibi kumubili akuli mwana nomulaa adaa. [cite: 63] Mwelede kuchita zyintu zyitamupi kuyeya maningi. [cite: 64]",
+        "plan": "Kuchita ma exercises chintu chibotu nomulaa adaa. [cite: 66] Na wakatalika kaindi, nkwindilizya ma exercises ayo. Kulya kabotu chilayandika kumatalikilo yadaa. [cite: 67] Misamu wabulowa azyimwi zyomunweza nomulaa adaa zyilayandika kugwashilizya mwana kukomema kabotu akuba adaa ilikabotu. [cite: 68] Kulya zyakulwa zyinjisi busane zyilayandika kuli mwana abanyina. [cite: 69] ZYOMUTAYANDIKI KUCHITA Bukoko [cite: 72] Ntombwe [cite: 73] Misamu itelede kumwa nomulaa adaa [cite: 74] Zyakulya zyimbi zyomutelede kulya [cite: 75] Aku kufweba. [cite: 76]"
+      }
+    },
+    {
+      "week": 4,
+      "baby_development": {
+        "length": "1.98mm",
+        "weight": null,
+        "summary": "Mwana uchili munini maninji achindi echi mbuli 1.98mm mubu lanhu. [cite: 88] Mwana uli azigawo zotatwe [cite: 89] 1.Ectoderm: igisi boongo, chikanda, mala, masusu, aa meno [cite: 90] 2.Mesoderm: eyi 'stage' nja mahuwa, moto aa nyama [cite: 91] 3. Endoderm: yalo eyi nja mala, ma pwapwa, nhuli aa kalulila. [cite: 92] Maulu aa manza ayalo a bumbwa muchindi echi, pensi anga tayali bonyi maninji. [cite: 93]"
+      },
+      "maternal_changes": {
+        "body_changes": "Anga mwatalika kubooneka moulid [cite: 81] -kuba a koolo nzi tentete [cite: 82] -kunywa mutwe kuchisa [cite: 83] -kunvwa luseluselu [cite: 84] -Amana muyelende kuhiba kuti ma 'signs' aada noyichili kumatalikilo alakozyana ayamuntu nayanda kuuya ku mwenzi. [cite: 85] -Bambi bama kayintu taba koozyi kuba ama 'signs' aada pensi kuuti na wabona kuti oyo mwenzi tounka ku mwenzi, anga wa pimiha ndaa. [cite: 86]",
+        "tips": "-Na tamuchiti tuma exercise, kamuya kuchi badela mubone ncho bati mulayilile. [cite: 95] -Vitamin na ma pilusi ngomunwa yayelende kuba aa 0.4mg (400 micrograms) ya folic acid. [cite: 96] -Folic acid aa iron hiliyelende kuli ndunywe aa mwana. [cite: 97]",
+        "plan": null
+      }
+    },
+    {
+      "week": 5,
+      "baby_development": {
+        "length": "3mm",
+        "weight": null,
+        "summary": "-mwana uchili maningi mushonto mbuli 3mm mubulahu. [cite: 105] -Echi chindi moyo wa mwana ulandunta mbuli chaanza amana menso aa matwi ninshi atalika kubumbwa. [cite: 106] -Mahuwa ayalo ninshi atalika kubumbwa. [cite: 107]"
+      },
+      "maternal_changes": {
+        "body_changes": "-Anga Mwaba ama mood swings muchindi cha wiiki 5 ma feelings enu alachincha kuzwa mukukomana kuya muku'nyema ka kuuyina aachipenzyende. [cite: 102] -Na kuchiswa kwa kuseni kwazumanana aku Luka Luka, kamuya kuchipadela kuboona badokotela. [cite: 103]",
+        "tips": "-anga mwabuhya kuti ino mwelendi kulema buti achindi echi. [cite: 109] *ma docotela bamba kuti kulema kuyelende kuba 11.3 kuya ku 15.9 kg.. [cite: 110] -balema bunini bayelende kulema mbuli 15.4kg ponya balema bwindilila bayelende kulema 9kg. [cite: 111]",
+        "plan": "-Na timealibambila kuya ku prenatal appointment, muyelende kulbambila amana muunke.. [cite: 113] -Na muchi yandula olo kubuhihiha ma docotela ama nesii ku hibandela hilimusii amunzii wenu kamusala kutengwa mutalikw ku unka ku prenatal. [cite: 114]"
+      }
+    },
+    {
+      "week": 6,
+      "baby_development": {
+        "length": "19.5cm",
+        "weight": null,
+        "summary": "Awo mwana uli 19.5cm mukulampa [cite: 126] Kukomema kwamuchamba, mulomo, mpemo, amukanwa. Manza amaulu yalatalika kuboneka mbulizyinwe. Mutwe ulatalika kukomema muzyinela zyindene. [cite: 127] Kativi (ultrasound scan) kala chikonzya kubonya mwana mbwayoya Muciindi echo. [cite: 128]"
+      },
+      "maternal_changes": {
+        "body_changes": "Bamakaintu bamwi balibonya kuneneya Pele bamwi balakooka, ibamwi mankolo yalachincha, mubili kuchisa, kusiya kumpela yankolo akuzimba. [cite: 121] Bamwi balatalika kunvwa chilungwinda, caalo ichi chila yadika kaapati ciindi ca daa. [cite: 122] Ibamwi bamakaintu balazwa ibulowa ciindi ca daa. Kuzwa bulowa balakubona nobazwa kuchimbuzi nanka a tissue abona zyilaletezya akuchis. [cite: 123] Pele tabayandiki kuyo pesi baalelede kwinka kuchimbandela akuzyibiswa basilisi. Baalelede kuzyiba nakuti kuzwa bulowa kuli kabotu olo takuli kabotu nkambo muzyindi zyimbi inga yatomdezya kuzwa daa. [cite: 124]",
+        "tips": "Bamakaintu bamwi balatogoka kuti misamu imwe njobapengwa ibapa kuchiswa mwiinda. [cite: 130] Kuti na mulanvwa bubi mwanwa misamu eyo inga mwabelesha zyikulya kuunwa musama nanka kumwa nomunka mukulala. [cite: 131] Kuti mwayindilizya kutalinvwa kabotu mwanwa misamu, inga mwambila basilisi notaninga kuleka kunwa musamu. [cite: 132]",
+        "plan": "Kuzyiba bulowa mbomujisi $(+-)$ antomwe abalumi benu ciindi ca daa chilayandika. Bulowa bwa muntu buli muzyibela zyone (4 types). [cite: 134] Type A, B, AB, O. [cite: 135] Chilelede kuzyiba type yabulowa muntu njajisi nkambo kakuti mapenzi inga yanjanika kuti banyina bajisi rhesus negative Amana mwana kajisi rhesus positive. [cite: 136]"
+      }
+    },
+    {
+      "week": 7,
+      "baby_development": {
+        "length": "2.54 cm",
+        "weight": null,
+        "summary": "Mukumana kwanvwiiki inga mwana walampa 2.54 cm. [cite: 147] Aciindi echo inga zyonse zyinyandika amubili wamwana zyilatalika kupangwa muchi zyalilo buli masusu, atunkolo tulatalika kupangwa, mensyo, amulaka ulatalika kukomema. [cite: 148] Tukokola azyinwe zyilatalika kylibonya ciindi muchamba mwatalika kukomema. [cite: 149]"
+      },
+      "maternal_changes": {
+        "body_changes": "Ciindi nomulaa daa mubili ulatalika kuchincha, bantu inga tabakozyi kuzyiba kuti ula daa ciindi echo. [cite: 142] Inga mwatalika kuneneya nanka kukoka kuti kamutalinvwi kabotu mu mubili. [cite: 143] Kumana mubili aciindi echo tachigambwizyi, mu nvwiiki zyintu zyilatalika kulonga muzyibela zyimbi. [cite: 144] Inga mwatalika kubona zyintu zyimbi zyitondezya kuti mula adaa. [cite: 145]",
+        "tips": "Kulya zyintu zisyonto lingi. [cite: 151] Kulyokezya (kupumuna) akoona abuzuba. [cite: 153] Kuninkilizya lemon a ginger amane akunwa lemonade or kulya namwino kuti muli mwanva kuluka. [cite: 154] Kulya mangwili a mwinyo ilangwashilizya nomulaa adaa ciindi nomutana lya. Tamwelede kukala kutalya nanka koona mwalya. [cite: 155] Tamwelede kujika nanka kulya zyakulya zyinjisi ma spices. [cite: 156] Kumwa vitamin B6 abuzuba. [cite: 157] Mwelede kubuzya basilisi (ba docotela) zyintu zyomwelede kumwa. [cite: 158]",
+        "plan": "Kuti tamuninga Jana ba basilisi nanka ba nurse Baku mutumbusya ncheciindi echo nchomwelede kusala. [cite: 160]"
+      }
+    },
+    {
+      "week": 8,
+      "baby_development": {
+        "length": "2.24",
+        "weight": null,
+        "summary": "Awa mwana uli 2.24 kulampa, amane ubo eka kucheya mbuli ka beans. Zyonse zyobajesi bapati amwana ulaba azinzyo. [cite: 175] Matwi yalazumanana kukomema mukati a anze. Mafuwa alatalika kukomema ama ma muscle yalatalika kulandamuka. Tunwe tulatalika kukomema aku lampa. [cite: 176] Amenso amwana yalayindilazya kukomema. Mpemo ulatalika kylibonya, amenso yalakomena kwindilizya. Ciindi kamuchila inga katalika kuzimina mponya mubili wamwana ulatalika kukomema. [cite: 177] Ciindi echo mwana ulahyinwa na musimbi nanka musankwa. Ciindi echi kubusimbi nanka kubusankwa kuchi komena. [cite: 178]"
+      },
+      "maternal_changes": {
+        "body_changes": "Nanka mubili taulibonyi kuchisa anze, zyinji zyila chisa mumubili. [cite: 170] Nomutakwe adaa inga chizyalilo chakali chinini mbuli kanwe kanini. Eno awa chizyalilo chokomena inga mwabona amankolo kuchisa. [cite: 171] Inga yatalika kuchisa aku zimba. Echi tachiyochi nkambo kakuti mubili ulibambila kunyonsyo. [cite: 172] Ichimbi nchomukonzya kuzyiba nchakuti bulowa bulavwula kuzwa ku 40 to 50 percent. [cite: 173]",
+        "tips": "Ciindi nomulaa daa, bamakaintu bamwi balazwa mapimpo, a nyama imweka mweka. [cite: 179] Kuti na kamubelezya musamu kulisilika mwelede kuziba zyintu zyobabelesha kupanga musamu oyo. [cite: 180] Kuti kamajisi mubizyo wamusamu mbobelesya nomulaa adaa, mwelede kubuzya ba basilisi nanka balanganya misamu. [cite: 181]",
+        "plan": "Mwelede kutalika kunka ku antenatal. Antenatal yakutanguna iyelede kuba munvwiiki ya 8-12 kuzwa nomwaka maniha mwezi wama manino. [cite: 183] Ba basilisi inga babuzya malwazi ngola kuchiswa (Medical History): [cite: 185] Buzuba mbomwakauka kumwezi [cite: 186] Mbomu lichingilizya kuba adaa [cite: 187] Kuzwa daa (abortion) [cite: 188] Kujatwa muchibadela [cite: 189] Musamu ngomunwa, amusamu umuchiswinga [cite: 190] Bachiswa mumukowa [cite: 191] Himwi Hintu zyomukonzya kubona Kativi (ultrasound scan), cervical cultures. [cite: 193] Inga mwaba aciindi chakubuzya mibuzyo njomugisi. [cite: 194]"
+      }
+    },
+    {
+      "week": 9,
+      "baby_development": {
+        "length": "4.2 cm",
+        "weight": null,
+        "summary": "Mwana wako uboneka mbuli ka grape akupima 4.2 cm kuzwa kumutwe mane kumaulu, akulema achonto. [cite: 209] Nokachili kashonto kaana inga kalaneneya kapati, alimwi kulatalika kuboneka mbuli kamuntu kakwene. Menso amaninina kupangwa akulijala. [cite: 204] Akulyolijula idaa yakomena kusika mu nvwiiki ya 28 weeks. [cite: 205] Zyinjanika amubili ya mwana mbuli tukokola, magondo, alwezu zyapangwa alimwi zyilabeleka kugwashilizya mwana kalimwiinda moyo wamwana ulatalika kudunta muli 24 days. [cite: 206] Awo mwana ulatalika kufunga nfwayindi akulya zinwe. [cite: 207]"
+      },
+      "maternal_changes": {
+        "body_changes": "Inga munoboneka kuti tamujisi daa pesi zyintu zyilatalika kuchisa. Inga mwatalika kunvwa kabuko, chilungwinda, akunvwa kuzulila. [cite: 201] Kulunduka kwa moyo inga mwaligwasilizya akulya twakulya tushonto shonto kwiindi kulya zyinji. [cite: 202] Alimwi mwaligwasilizya kutaona mwamaniha kulya akutalya zyila ma spices amangwimba. [cite: 203]",
+        "tips": "Aciindi echo daa yenu mulalinvwa kulema nkambo kamubili uchincha, akutoona kabotu masiku akuciswa. [cite: 211] Kutoona masiku inga kwachitika nkambo kakutaba mu position ilikabotu nanka kwinka maningi kuchimbuzi. [cite: 212] Kuti na tamuoni kabotu masiku nkuyandaula position ilikabotu nomoona. [cite: 213]",
+        "plan": "Na nkamujisi myaka iyindilila 35 nanka mumukwashi wenu bulwazi bwaku zyalwa anguwo inga muyandika kunka kubona basilisi. [cite: 215]"
+      }
+    },
+    {
+      "week": 10,
+      "baby_development": {
+        "length": "2 inches (5.08) cm",
+        "weight": null,
+        "summary": "Mwana inga uli 2 inches (5.08) cm mukulampa. [cite: 224] Echi nchociindi into mwana mpatatika kukomema, Amana azyintu amubili zyilatalika kukomema. [cite: 225] Echo ciindi inga zyintu mbuli ma kidney, liver, bongo amu chamba nozi komena. [cite: 226] Mutwe wamwana ulakomena kwendelena amubili wamwana nkumo yamwana ila tuntumana kizuminizya bongo kukomema. [cite: 227] Maala akumaulu akumaza, amasusu alatalika kulibonya munvwiiki eyi. Ciindi echo tumwe tulaleka kupetana. [cite: 228] Mwana ulatalika kumwa menda mwiinda akuuma zyimbako mwiinda. [cite: 229]"
+      },
+      "maternal_changes": {
+        "body_changes": "Chizyalilo chilazumanana kukomema. Bamakaintu bamwi balatalika kuzyibya bantu kuti bala daa, Antela Bambi balazumanana kwezyezya kuti bali daa. [cite: 221] Chilayandika kunvwana abayandwa bena mbomulinvwa kuli basilisi. [cite: 222]",
+        "tips": "Nokuba kuti mula daa kuli zyintu zyomukonzya kuchita kutengwa mubili wenu ulachincha mu shape. [cite: 231] Nokuba kuti mwakala ngazu nomwataka inga kuba adaa, mwelede kubuzya ba basilisi balamwabila kweendenda, kudubwa, nkambo zyintu azyi tazyikonzyi kumupa mapenzi. [cite: 233]",
+        "plan": "Buzuba bumbi mbomwelede kwinka ku antenatal mbwa nvwiiki ya 12-16. [cite: 235] Ciindi echo basilisi balamikopa kativi (ultrasound scan) kalo kamuzumisya kubona mwana chakusanguna. [cite: 236] Bamwi bamakaintu balayada kubatondezya kapepa kalangizya mwana uli mwiinda. Kamutana kuchita obo mwelede kubandika aba basilisi. [cite: 237] Ba basilisi bala belesya chibelesyo chakunvwishya moyo wamwana mbuli mbobu duntu. Basilisi inga mwabambila mbuli mwana mbwanya nyala. [cite: 238]"
+      }
+    },
+    {
+      "week": 11,
+      "baby_development": {
+        "length": "2 1/2 inches",
+        "weight": "14-17 grams",
+        "summary": "Inga mwana awa Uli $21/2$ mukulampa kuzwa atala amutwe kusikala ankumo. Amana ulalema 14-17 grams. [cite: 249] Mutwe wamwana ulayalana akulampa kwamwana. Hinwe zyakumaulu akumwanza Zyilapasana munvwiiki ayi ya 11. Nyama yamwana inga ilalibonya amafuwa alatalika kiyuma. [cite: 250] Kubusunkwa nanka kubukaintu inga kwamwana kupangwa, Muma nvwiiki inga mwayiba kuti mwana musimbi nanka musunkwa. [cite: 251] Antela tamumunwi kunyanyala pele mwana inga ulijesi nguzu. [cite: 252]"
+      },
+      "maternal_changes": {
+        "body_changes": "Ciindi mwana nakomena muchi zyalilo, iyintu kuchincha inga kwazumanana kuchincha anini. [cite: 245] Bamakaintu balabona kuchincha mumasusu, maala akumanza, maala akamaulu mbuli mala kulapa alimwi amasusu. [cite: 246] Azyi zyilibokabotu ciindi muntu nala daa. bama docotela tabakonzyi kizyiba chilengesya kuti chibebobo pele bayeyela kuti kuhula kwama hormes mumu bili. [cite: 247]",
+        "tips": "Mubuzyo ijatikizya mulwendo nabali ama daa. Nokuba kuti kwiina ma problems nanka mibuzyo muchiindi nobali adaa. [cite: 256] Ciindi chibotu chakuba a Lwendo ciindi ca Kusanguna kwa trimester 2. Akakoo nkambo kakuti kuchiswa chiswa kwamwana mwana. [cite: 257]",
+        "plan": "Kuti namwakali kuciswa muma nviwiiki yakutanguna ya daa, inga mubili walibonya kukooka. Tumwelende kuyo pe. [cite: 259] Bamwi bamakaintu bala kuneneya 3-4 ponds (1.3 to 1.8 kilograms) muma nvwiiki [cite: 260, 261] yakumatalikilo.inga mwabonya chikonzya kumugwisilizyakutegwa muneneye. [cite: 262]"
+      }
+    },
+    {
+      "week": 12,
+      "baby_development": {
+        "length": "3.15 inches (8 centimeters)",
+        "weight": "1-ounce (28 grams)",
+        "summary": "Mwana inga ula kuba a 3.15 inches (8 centimeters) mukulampa amana ulalema 1-ounce (28 grams) mukumana kanvwiiki. [cite: 275] Munkwiiki iyi inga mwana watalika kulibonya kuzibigwa mbwaboneka menso mbuli mbwa nyanyala amodwi. [cite: 276] Maala (intestines) inga yakomena chakufwambana kutandila muntambo yamu nkombo, pele yalatalika kujokela mwidaa. [cite: 277] Ma kidneys ingayatalika kuzwisya minsyu amena ma nerves system ilitalika kusimpa. [cite: 278]"
+      },
+      "maternal_changes": {
+        "body_changes": "Chiyalilo ciiyendilizya kukoman, amana bama docotela inga machinvwa musansi mansi iya daa. Ichi ciindi inga tamwayenda zyiseni zyakusma nomuli adaa. [cite: 269] Pele mulakonzya kubona kuti zyisani tazyi mikali kabotu amubili. Na ndidaa yakatobilana adaa muciindi chisyonto (subsequent pregnancy) mulayandika zyisani zyakusama nomuli adaa kwiinda amuntu utaninga kubo adaa. [cite: 270] Inga mwatalika kubona nyama kichincha (skin change) mbuli kuchincha kwa mankolo [cite: 271] Zyimwi zyintu zyomukonya kubona nkusiyasiya muzyibela zyimbi zyaku menso amu singo. Azyi zyitwa kuti chloasma (mase of pregnancy). [cite: 272] Azyi zyintu zyilamana mwatumbuka. [cite: 273]",
+        "tips": "Bamakaintu banji bala chita ma exercise (kegel) yalo yabagwasilizya ciindi nobula daa. lyi exercise ilabagwasilizya muku panguzu kubusimbi. [cite: 280] Banji bama kaintu bachiita ma exercise aya, yala bagwasilizya mbuli kegel exercise ilagwasilizya muka kwela akwangulula ma muscles yalo yagwa silizya pavic flow [cite: 281]",
+        "plan": "Muciindi achi nchibotu kulanga anseba ikonya kupanga nwebo alimwi amwana kutambula inseba ilikabotu njomwelede. [cite: 283] Nchibotu kuti mwazyiba kuti no muli adaa, echi tachi mupi kuti kulya ziliyonse zyomuyanda kulya. [cite: 284] Kuneneya kwayandika kubako ciindi chonse muntu nali adaa. [cite: 285] Inga mwalikwa bilila kuneneya akuchita zyintu mbuli - ku leka kulya twakulyalya [cite: 287] - kutalya twakalya masiku (snacks) [cite: 288] - kuchesya ma fats ama sweets. [cite: 289]"
+      }
+    },
+    {
+      "week": 13,
+      "baby_development": {
+        "length": "9.5 centimeters",
+        "weight": "35 grams",
+        "summary": "Mu nkwiiki ya 13 inga mwana walampa kusika 9.5 centimeters. Mukulampa alimwi akulema 35 grams [cite: 302, 303] Anteela awa mutwe wamwana inga ngupati kwiinda Mubili wakwe. Pele mutwe wamwana inga ula $1/3$ mubili wakwe. [cite: 304] Tumyenyo (finger prints) inga twatalika kulibonya kumanza (nanka kutunwe twamwana). [cite: 305] Ma kidneys alimwii achakusubila (urinary tract) zyilatalika kubeleka, chalo chitondezya kuti chintambo chalo chigesi menda mwana nchakali kunwe chatalika kuzwa (excreted). [cite: 306] Amana achijala mutwe wamwa chinyama, yalo masusu yaitwa kuti (lanugo) [cite: 307]"
+      },
+      "maternal_changes": {
+        "body_changes": "Muciindi achi inga tamuninga talika kusama zisani zyaadaa pele mula talika kusama zisani zyalo zimikala kabotu amubili. [cite: 296] Ma stretch marks inga yatalika kulibonya adaa, ama belo alimwi amaa tako. [cite: 297] Muchindi achi inga ku Chiswa kwaleka leka, pele muno linvwa chilungwida. [cite: 298] Alimwi mulatalika kubona mankolo kuchincha nkabela ciindi achi mankolo alakomena kapati akuzimba. Achi chilachitika nkambo kakuti inkolo zilibambila kubu amukupa. [cite: 299] Colostrum nanka Mukupa wakusanguna ulatalika kalibonya ama nipple nanka kangonkedwe namwaityanka tyanka nkoolo. [cite: 300]",
+        "tips": "Bama kaintu banji bala madaa inga balama stretch marks. Ma stretch marks aya inga ya boneka ku subila subila. [cite: 309] Yalo yalundukila muchibuno alimwi amankolo. [cite: 310] Kuneneya ama bili inga kwapa muntu kuti atabi ama stretch marks aya- alimwi chilapa kulibonya kabotu amwana utaninga kuzyalwa. [cite: 311] Kuchita ma exercise alimwi aku nanika musamu ijesi vitamin E alimwi an alpha hydroxy acids inga yagwasiliya kulikwabilila kuba ama stretch marks. [cite: 312] Na zintu azi zyakaka kuzimana inga mwalindilila kutumbuka. Kamutaninga kutalika kubelesya zintu zyaku lekezya ma stretch marks inga mwazibisya badocotela. [cite: 313] Inga zibelesyo zimwi zyanyonyona mwana ulimwidaa. [cite: 314]",
+        "plan": "Ba makaintu Ciindi noba manizya nvwiiki zyakutanguna, inga batalika kulinvwa kuyanda nkwela (libido). [cite: 316] Pele alimwi inkwala ilayandika kutaichita na (if) -histoli ya kutumbuka ciindi daa kaitanasima (pre mature birth) [cite: 321] -histoli ya kuzwa daa (miscarriage) [cite: 322] -menda kuzwa ciindi kachituna kusika (water has broken) [cite: 323] -kuzwa bulowa kubu kaintu [cite: 324] -placenta kuzapuka (previa) [cite: 325] -kuba achakubukaintu chifwafu (short cervix) [cite: 326] -nanka muyandwa wako kajesi balwazi. [cite: 327]"
+      }
+    },
+    {
+      "week": 14,
+      "baby_development": {
+        "length": "4 inches (10cm)",
+        "weight": null,
+        "summary": "-Mwana wenu mupanti mbuli 4 inches (10cm) mubulanhu a kulema. [cite: 333] -Mwana uchili Kukomena amana mupati muchindi echi manza a mwana ninshi atalika Kukomena.iliver yamwana ninshi y atalika kupanga hiyandika Kukomena kwa boongo bwa mwana awo ninshi bwatalika ku panga bunshu bwa mwaana.mwana anga kanyonka chinwe chikwela.muchindi echi ninshi bonse bupange bwa mwana a hintu hiuandika kuba bwa kabontu ninshi hapangika kale. [cite: 334]"
+      },
+      "maternal_changes": {
+        "body_changes": "-Anga mwabona bukotokoto chakutanguna mubumi bwenu. [cite: 336] -Na anga mwabona kuti bukotokoto bwatalika kuchincha munchindi cha nda. [cite: 337] -Na bokotokoto bwazumanana muchindi cha nda mbuli chanza kamuya kuchibadela, na bukotokoto bujisi color itayezele na size. [cite: 338]",
+        "tips": "Bamakaintu banji baba a kulya maningi, kuba a ngunzu amana a kuba a bukanku kusikila ku Nwiiki etobela kamunvwa kabootu nkambo mwatalika kulibamba kuzwa kumalayilile yaba docotela, akubamba munzi wenu kutengwa babi a kale kabotu. [cite: 329]",
+        "plan": "- Anga mwatalika kuba aku mooyo kusiya.anga mwatalika kulibuzya mi bunzyo mbuli. [cite: 340] - ino ndiyoba mumama ulikabontu [cite: 341] - ino ndachikonzya kumukomesya mwana amali [cite: 342] - ino mwana wangu unoli abusani bubotu. [cite: 343] - ino ndililibambilinde a mwana. [cite: 344]"
+      }
+    },
+    {
+      "week": 15,
+      "baby_development": {
+        "length": "12 cm",
+        "weight": "57g",
+        "summary": "-kumamanino ya Nwiiki eyi mwana unoli 12 cm mubulanhyu amana kulema mbuli 57g. [cite: 353] Chikanda chamwana achindi echi ninshi nchitetete. Matwe amwana ninshi atalika kupangika. [cite: 354]"
+      },
+      "maternal_changes": {
+        "body_changes": "-kunenehya kwa mubili muchindi echi Nguyen 2.27 kg.inga mwanenehya na kukoka a tuma kg tunini chili buyo kabotu [cite: 350] -Mwakuunka ku prenatal chindi chitobela baunka kupima nda yenu a mukati mwachihalilo, muchindi echi ninshi bapima chinoli mbuli 10 kuya ku 12 cm munsi ya nda yenu [cite: 351]",
+        "tips": "-banji bamakaintu bajisi mibuzyuo yakuti hiino bayezele kuona buti. [cite: 356] -muyezele kuona chakulanga mujulu. [cite: 357]",
+        "plan": "-balatalika kumipima Daa yenu mwaunka kuchibadela kuunka ku scan. [cite: 359]"
+      }
+    },
+    {
+      "week": 16,
+      "baby_development": {
+        "length": null,
+        "weight": null,
+        "summary": "-Mwana ninshi mutwe wa komena, mpemo a menso yak we ninshi yakakikana abuuhyu bwankwe. [cite: 363] -Mwana ninshi watalika ku swena mwinda akati ya nwiiki ya 16 a 20. [cite: 365]"
+      },
+      "maternal_changes": {
+        "body_changes": "-chihalilo chenu nchichi komena mbuli 13.5 cm amana ninshi mwaneneha a 0.07kg [cite: 363]",
+        "tips": "-nomuya mu Nwiiki ya 16 bulowa bwenu ninshi bwa nvula,anga mwatalika kubota a mwana ninshi ulibambila ku komena maningi. [cite: 361]",
+        "plan": "-Muchindi cha Nwiiki eyi Baku chibadela bayelende kumiambila kuti muunke -Kú screening [cite: 368] -Ultra sound [cite: 369] - Alpha feta protein (AFP) [cite: 370] - Triple test [cite: 371] Amniocentsis [cite: 372] bakchibandela inga bayanda kuti mwambaula Ali zetobela - kuya ku prinatal class [cite: 374] kuma class a yisha mwakuhalila mwana [cite: 375] kusala ba docotela benu. [cite: 376]"
+      }
+    },
+    {
+      "week": 17,
+      "baby_development": {
+        "length": "14cm",
+        "weight": "11kg",
+        "summary": "Mwana awa ninshi wasika 14cm mubulahyu amana kulema kwakwe kuli mu 11kg [cite: 382] mukombo wamwana ulalampa amana aku neneha,aku Yuma kabotu. Kunvwa kwa mwana awa mwatalika kale matwi ninshi apangika kabontu [cite: 383]"
+      },
+      "maternal_changes": {
+        "body_changes": "-mbuli mbochiya Kukomena chihalilo chenu,nda yenu italika kulibonya [cite: 380] - mwalijata anga mwalinvwa kuti mwana nkwali [cite: 381]",
+        "tips": "Anga mwanvwa maulu yenu kuchisa, olo kuchisa kuitwa kuchisa kwaluzinga. [cite: 385]",
+        "plan": null
+      }
+    },
+    {
+      "week": 18,
+      "baby_development": {
+        "length": "16 cm",
+        "weight": "0.16 kg",
+        "summary": "Mwana lino walampa kusika ku (16 cm) mukulampa alimwi mukulema wasika 0.16 kg. [cite: 396] Echo chikwabilila kuhamba chitwa kuti myelin chilatalika kuhumba ma nerves yamwana. Aku humbwa kula zumanana mane ciindi mwana watumbukwa. [cite: 397] Nakuti ulaba amwana musimbi ma fallopian tubes alimwi achi zyalilo zyilalibika mu position (nanka muzyibela zyelede). [cite: 398] Na mulaba amwana musankwa, kubusankwa kwakwe kuyotalika kulibonya kukativi katobela nanka chila shupa kabona kubusankwa, tamwelede kutyompwa na tamwakabona. [cite: 399]"
+      },
+      "maternal_changes": {
+        "body_changes": "Chibuno chilazumanana kuciincha Amana abantu balatalika kubona kuti mulijisi daa, maka maka kuti mwasamwa zisani zyitondezya kuti mula daa (maternity clothes) Pele Kako kuli zimwi zyintu zitalitondezyi kuti mula daa bantu zobata kongi kubona. [cite: 392] Moyo wenu inga watalika kutaba kabotu nkambo ku daa njomuji Amana mulatalika kuba BP. [cite: 393] Achecho mwelede kuinena mumbali mbali akanyamuka ashonto shonto. Kulikwabilila akuba abulwazi bwa (hypotension syndrome). Echi chilagwasilizya kutanvwa chizungulu bombe. [cite: 394]",
+        "tips": "Bamwi bamakaintu inga chilabashupa kumana buzuba kabataniga kuonako. Na muli bakaintu bakalabo a nganda nchoolwe kuti mwaunoko ciindi twana notulala. [cite: 401] Na kuti bana mbapati inga mwasola kujana ciindi chakupumuna ciindi chamasikati nomujisi ciindi chisyonto chakupumuna. [cite: 402] Na mulabeleka inga mwasola kusyantikizya ciindi chisyonto nchomukonzya kulyokezya. Nakuti kamujisi office imugemo inga mwakala doolo yenu akupumuna 30 minutes. [cite: 403] Bamwi bantu inga balaunka muma room mwalomubela miswangano nanka muma myota abo akupumuna. Inga mwabika alarm kutengwa mutalalili kwindilila. [cite: 404]",
+        "plan": "Nobanji inga mulalindili kuunka ku antenatal kwena kwatatu. Ukakuswaya kwena kulayandika kuchita zyintu zimwi (procedure). [cite: 406] Inga mwapengwa ka picture kabili (sonogram). AKA ka picture ka kativi inga katondezya mwana mbuli mbwaboneka nanka bwakomena. [cite: 407] Chilapa kuti bamasilisi nanka bama docota kuti bacikonzye kubona mbuli mu chemba yamu moyo mbwalibonya. [cite: 408]"
+      }
+    },
+    {
+      "week": 19,
+      "baby_development": {
+        "length": "17.8",
+        "weight": "0.20 kg",
+        "summary": "Inga mwana wakomena munvwiiki ayi ya 19 pele ula 17.8 mukulampa amana ulema 0.20 kg. [cite: 419] Muciindi mwana ulazumanana kukomema, kukomema nkaliko kuli andene mbuli ma kidneys yalatalika kupanga minsyu, amana masusu yalatalika kuzwa amutwe wamwana. [cite: 421] Mukuyungizya zyibela azyimwi zyamubongo zyalo zipa kuti mwana and amano (senses). [cite: 422] Na kuti mulaba Amana musimbi inga mayi (eggs) yali 6 million yapanga kaindi mu ma ovaries. [cite: 423]"
+      },
+      "maternal_changes": {
+        "body_changes": "Kuchisa mumbali mbali ya daa chili common muciindi daa nolitinewawa Chalo chijatikizya a kalaso mwiinda nanka muma hips. [cite: 416] Oku kuchisa kwa normal ciindi muntu nala daa nkambo kakuti mubili ulibambila kukomema kwamwana. [cite: 417]",
+        "tips": "Banji bamakaintu inga balanvwa chizungulu bombe. Chizungulu bombe ciindi Cha daa ciiboola nkambo kakuba a low blood pressure. [cite: 425] Ciindi mwalala chizyalilo ciila biku nguzu nanka kudyaminina venal cava, azyimwi zyintu zipati patibzyitola bulwazi mumubili. [cite: 426] Oku kudyaminina kwitwa kuti supine hypotension. Achi chi supine hypotension inga chikwabilila akulala mambali mbali. [cite: 427] Mpona postural hypotension ilaba kuti na mwayambuka cakufwambana. Oku kuyampuka chakufwambana kuupa bulowa kwindilila mukuwa. [cite: 428] Echi nchochipa kuti mulinvwa chizungulu bombe. Mulakozya kulikwabili aku nyampuka ashonto shonto. [cite: 429]",
+        "plan": "Awo nomulaa daa chilayandika kulikwabilila mukubelesya misamu yachi muntu Tatuzuminizyi kumwa misamu yachi muntu kamutana kubonana ana docotela. [cite: 431] Misamu imbi njomukozya kubona kuti tazyikonzyi kumupa bulwazi buli bones inga wamiletela daa kuzwa (miscarriage). [cite: 433] Pele inga mwabuzua ba docotela misamu njomukozya kubelesya. [cite: 434]"
+      }
+    },
+    {
+      "week": 20,
+      "baby_development": {
+        "length": "19.7 cm",
+        "weight": "0.26 kg",
+        "summary": "Mwana inga ula 19.7 cm mukulampa amukulema 0.26 kg. Mwana inga ili humbidwe muchituba chitwa kuti (vernix caseosa). [cite: 443] Echi chilapa kukwabilila inyama yamwana (skin) kuzwa aminotic fluid Amana chilagwasilizya kupanga nzila ciindi mwana nazyalwa. [cite: 444] Achi ciindi echo inga mwana watalika kuzwisya manzi (meconium) yalo yasiya mbuli nyanzabili nanka yasiya Siya. [cite: 445] Yalonga mazi yatanguna kuzwa mwana wazyalwa. Bana banji balanya manzi Aya ciindi nobachili mu zyalilo nanka ciindi nobazyalwa. [cite: 446] Eyi meconium ilajatikizya a ma cells yazwa mwiinda, amniotic fluid yalo yanwigwa alimwi akugayo. [cite: 447]"
+      },
+      "maternal_changes": {
+        "body_changes": "Atala achi zyalilo ayalena alimwi amukombo (belly button). Inga mwaneneya 8 to 10 pounds. [cite: 439] Mwelele kuneneya kusika ku 0.23 to 0.45 kg munvwiiki mane ciindi ca daa chonse. Chikelo chako mbocaakabede nomwaka taninga ikumita. [cite: 440] Ba docotela nanka ba nurse belede kumuzibya naa kuneneya kuli manzila iyelede. [cite: 441]",
+        "tips": "Kamuyeya kuti chintu chibotu KUBA abusane banji mumubili, maka maka (iron). [cite: 449] Kunwa iron chintu chibotu nkambo chilagwasilizya ku hemoglobin muli mwana akuli tatamuna kumwana bulowa. [cite: 450] Zyintu zyikonzya kusupula iron mumubili kuli: Inyama isalala [cite: 452] Ingulube [cite: 453] Beans [cite: 454] Ma fruits [cite: 455] Wheat [cite: 456] Oatmeal [cite: 457] Grains [cite: 458]",
+        "plan": "Nche ciindi echi chakuyeyela mwana mbwakonzya kutumbukwa. Obu mbo buzuba bwalo mbomutakonzyi kuluba. [cite: 460] Mukutalika Iweendo Iwenu olu inga mwakala ansi akutalika kulemba zyintu zomuli bambilide kuchita. [cite: 462] Mulweendo Iwenu olu inga mwaba a mizezo zyindene indene buli mwakuzyalila inga kwamigwasilizya kuzibisya bantu bonse mbuli mbomulibambilide akutambula lugwasyo kubantu ciindi chakutumbuka. [cite: 463]"
+      }
+    },
+    {
+      "week": 21,
+      "baby_development": {
+        "length": "21.6 cm",
+        "weight": "0.34 kg",
+        "summary": "Mutwe wamwana inga wapimwa kuzwa kunsinga mane kunkumo. Mwana lino ulapimwa wakomena 21.6 cm mukulampa alimwi akulema 0.34 kg. [cite: 477] Chivumba menso yamwana ciindi echi inga chamana kupangwa munvwiiki eyi. Muciindi echi inga mwana nazumguluka alimwi akunwa menda yali mwiinda. [cite: 478] Mwana inga ulazumanana kutambulama nutrients mwiinda kuzwa kumenda ayo (amniotic fluid). [cite: 481] Namwana musimbi kubu kaintu kwakwe kula maninizingwa kupangwa Pele kula zumanana mane mukuzyalwa. [cite: 482]"
+      },
+      "maternal_changes": {
+        "body_changes": "Namwa bika kanwe amukombo inga mwanvwa chizyalilo. Banji bamakaintu balahiba kuti bali afwafwi akutumbuka. [cite: 470] Nakuti mwabona maulu yatalika kuzimba inga mwayandika kutalika kupumuna akukala. [cite: 471] Na mwabona kuti iyama yenu (scan) yatalika kulibonya mafuta amane akuzimana (breakouts) amenso yenu nanka muzyibela zimwi zyilamubili mwelede kusamba kumenso ansipa amenda zyindi zybilo mubuzuba. [cite: 472] Bamakaintu banji nchi ciindi Chalo ncho bakomana. [cite: 473] Inga ba landuka kuchiswa kwa kumatalikilo kwa daa. Amana inga tabanenede kapati Chalo chikonzya kubapa kutanvwa kuba kabotu. [cite: 474] Inga mwasola kupumuna aku zumanana kunvwa Kabotu. [cite: 475]",
+        "tips": "Bulwazi bujanika mwiinda Antela (urinary tract infections). Mbulwazi bujanika muminsyu. [cite: 484] Obu bulwazi buli common ciindi muntu najisi daa nkambo kakuchincha mukalila minsyu. [cite: 485] Inga mwalikwabilila kuli bulwazi obu mukuchita zyintu ezi Kumwa makapu 6-8 yamenda mubuzuba [cite: 489] Mwamaniha kusuba kulipukuta kutalika kumpela kumanizya kunsi. [cite: 490] Kusamba nomutanatalika inkwela alimwi mwamanizya nkwela (sex). Kutasama tubudula tujata. [cite: 490] Kusama tubudula twa cotton [cite: 491]",
+        "plan": "Nomuzumanana kuneneya ciindi nomulaa daa inga mwatalika kubona kuti mwatalika kuzwa ma veins yalibonya. Yalo yalibonya kapati kuba bamakaintu balamadaa. [cite: 493] Kangi kangi inga yalsanika mumaula alimwi akuba kaintu (valve) akumatako. Kukomema kwachizylilo inga kwapa ma veins Aya kulibonya. [cite: 494] Bamwi bamakaintu inga batalika Kubota ciintu chitachisi kumaulu icha ciikambwe (blue) nkabela bamwi inga bajisi ma veins yapati yalibonya amane yachisa oku kuzimba kulamana ciindi muntu watumbuka. [cite: 495]"
+      }
+    },
+    {
+      "week": 22,
+      "baby_development": {
+        "length": "25cm",
+        "weight": "4kg",
+        "summary": "Mwana inga ula 25cm mukulampa alimwi ulema 4kg. [cite: 502] Inga mwana ulibonya mbuli kana kavwanda kazwa mukuzyalwa. Kusumpuka kunji kula zumanana. [cite: 503] Inkanda yamwana ulibonya kunyana nyana (wrinkles) Pele inga kuti mwana taninga kuneneya kuzuzikizya inkanda. [cite: 504] Mulomo inga awalo watalika kusima. Menso inga yamaninina kupangwa Pele chituba camumenso inga tachijisi zyiyandikana (pigment) chijala menso inga chabikwa mubusena alimwi inga pancreas ulazumanana kusima. [cite: 505]"
+      },
+      "maternal_changes": {
+        "body_changes": "Inga ino mwanvwa atala achi zyalilo kusika ku 12 cm atala ya munkombo mbochakaba nvwiiki yamamanino, bamakaintu banji inga bamba kuti iyi njo nvwiiki ibotu. [cite: 500]",
+        "tips": "Bamakaintu banji inga batalika kulisilika kutumbuka ciindi kachitananga kusika maka maka nobatalika kunvwa kuchisa munsi ya daa, musana kuchisa, kunvwa kulema mu pelvis, kuchisa mwiinda, alimwi akuchincha kuli hizya kubukaintu (discharge) ezi zyintu inga wabona nazijesi penzi Pele zimwi zimwi ziindi inga zyitondezya kutabula ciindi kachitananga kusika. [cite: 507]",
+        "plan": "Natamuninga akulibambila mbulimwana mbwakonzyeka kuyisigwa. Ncho ciindi nchomwelede kuchita boobo. [cite: 513] Kamusoleka ku maninizya Iwiiyo Iwenu kusika ku nvwiiki ya 37. Kusomezya kuzibadela Kuma komponi inga balaisya. [cite: 516]"
+      }
+    },
+    {
+      "week": 23,
+      "baby_development": {
+        "length": null,
+        "weight": null,
+        "summary": "Not provided in the document for this week."
+      },
+      "maternal_changes": {
+        "body_changes": "Chizyalilo ino chasika 3.8 cm mukulampa, atala yamukombo alimwi akuneneya kwelede kakuli 12 to 15 pounds (5.4 to 6.8 grams). [cite: 522] Chizyalilo inga chikede a bladder asungila minsyu, Chalo chikonzya kupa kuti minsyu yatalika kutesya kabudula zimwi ziindi inga nchiyuma kukozyanisya minsyu a amniotic fluid. [cite: 525] Na ma membranes yazapuka inga kwazwa menda. leyi amniotic fluid inga tayinunki pe. [cite: 526] Nakuti mwabona kuli kuteteta mukabudula inga mwasola kunvwa na ulanunka mbuli minsyu na tayinunki. [cite: 527] Na kuti tayilibonyi buli minsyu inga mwasola kubona ba basilisi chakufwambana. [cite: 528]",
+        "tips": "Kunwa menda maningi chintu chibotu chiyandika muntu nala daa. Inga alimwi mwanwa menda Yama veggies, ya ma fruits, milk Amana a tea yachimuntu. [cite: 530] Inga ulelede kutanvwa zintu zyimbi mbuli coffee alimwi a soda nkambo kakuti zyinjisi coffein. [cite: 531] Kunwa menda manji inga yangwasya kukwabilila zichilila: Mutwe [cite: 534] Kuchisa mwiinda [cite: 535] Bulwazi bwa muminsyu (UTI) [cite: 536] Kuzimba maulu [cite: 537]",
+        "plan": "Na ulabeleka iyelede kutalika kumanizya ma papers Yako kuli bambila kulyokezya (maternity leave) weelede kwambila bantu bonse bakulesya aba human resources manager kutengwa bantu bonse baba a page yomwe. [cite: 539] Weelede kwambilwa ma rights Yako mbouabende achinto ciindi nolaa daa. [cite: 540] Nchibotu kutalika kuyeya aba lumi bako kutengwa mwazyiba mbomukonzya kugwasyana. [cite: 548]"
+      }
+    },
+    {
+      "week": 24,
+      "baby_development": {
+        "length": "32 cm",
+        "weight": "0.6 to 0.7 kg",
+        "summary": "Mwana inga uli 32 cm mukulampa amana ulema 0.6 to 0.7 kg. Bongo bwamwana ciindi echi ulakomena fast. [cite: 563] Mabambo yatalika kusima. Zyibela zyamabambo zyipati pati zyilatalika kukomema azyalo. Zyitapanga ma cells yalo yatiguswe surfactant. [cite: 564] Ayi yalo surfactant yalo njeyigwasilizya ma air sacks akujuka kabotu. [cite: 565] Bana bamwi bazyalwa kabatana komena inga balajanika apenzi mukuyoya, nkambo kakuti ma cells inga taninga kusimpa. [cite: 566]"
+      },
+      "maternal_changes": {
+        "body_changes": "Inga ino wamvwa atala achi zyalilo 2.5 cm kuzwa amunkombo. [cite: 556] Skin adaa alimwi amankolo inga Wala zumanana kulandamuka, izyo zilapa inkanda kubabwa babwa. [cite: 557] Ziindi zyinji kubabwa ankanda zyibola nkambo kaleutu mubili yamide (dry skin). [cite: 558] Menso ayalo inga yatalika kuba sensitive Amana akuyuma ciindi echi nomulaa adaa. [cite: 560] Inga mwabelesha zyintu zyikonzya kumugwasilizya zyakutila mumenso (artificial tears) kutengwa yalibonye mendenda. [cite: 561]",
+        "tips": "Na mujana buyumu mukulekelezya chilungwinda, inga mwayanda kusoleka kulya twakulya tushonto shonto buzuba bonse. [cite: 568] Bamwi bamakaintu babona kuti kulya zyiindi 6 inga zyalekesya chilungwinda. [cite: 569] Chilungwinda inga chaleka na mwatalika kutalya twakulya nanka kutalya masiku. [cite: 570]",
+        "plan": "Munvwiiki eyi ya 24 aya 28 banji bamasilisi inga bapima test ya sugar. [cite: 572] Ayi test inga ilatondezya sugar yamudaa (gestational diabetes). [cite: 573] Ma signs yalibonya kuti muntu kajesi ayi sugar Sugar muminsyu [cite: 575] Kunvwa nyota [cite: 576] Kusuba suba [cite: 577] Kunvwa kukatala [cite: 578] Kunvwa kuluka [cite: 579] Bamasilisi balapima eyi sugar kuzwa munvwiiki ya 24 aya 28 nkambo kakuti placenta inga izwisya ma hormones yanji yalo yakonzya klesya insulin kutabeleka kabotu mumubili. [cite: 580]"
+      }
+    },
+    {
+      "week": 25,
+      "baby_development": {
+        "length": "33 cm",
+        "weight": "0.8 kg",
+        "summary": "Mwana ino inga ula 33 cm mukulampa amana ulema 0.8 kg. [cite: 590] Pele mwana inga taulibonyi kukomema kapati nanka pele inga uchili ku gaining ma fats. [cite: 591] Echi inga changwashilizya kuti mwana talibonyi kukokonyana kuti na mwana ula masusu color Amana amboyiboneka inga kwalibonya muciindi echi inga yachincha wazyalwa. [cite: 592] Kuzyiba kuti mwana musankwa nanka musimbi inga kwalibonya muciindi echi mukubelesya kativi (ultrasound) amane echi chilakonzya kuchitika munvwiiki ya 15 kusika ku 20. [cite: 593]"
+      },
+      "maternal_changes": {
+        "body_changes": "Inga chizyalilo chili mbuli bola Amana atala achi zyalilo inga anvwika kuzwida amunkombo kusikila poyimanina chamba. [cite: 588]",
+        "tips": "Nanka kuti mulizyi genda yamwana olo tamuzyi, inga mwatalika kuyeyela izyina njomukozya kupa mwana. [cite: 595] Inga walibuzya welike imibuzyo eyi ejatikizya mazyina Inal mabala aya yamba nzii [cite: 598] Sena kuli tuma Zina Zina tujatikazya azina eyi Sena mazyina nzii yalo yakonzyanga Azina Eli [cite: 599]",
+        "plan": "Inga mwatalika kuyanda kunka ku kativi alimwi munvwiiki yamamanino iya daa. Pele ma services aya Inga yapabo kupanga ma memories. [cite: 601] Kuli zyintu zyanseba zyalo zyelede kuti zyatobelelwa. Kativi aka inga kajeji ma waves yalo yapakuti yitondezya ka pikicha. [cite: 602] Aka kativi keelede kuzuminisya a batokotela alimwi kalachitwa abakuzyi mbuli bama sonographs, radiologist, obstetrician (balanganya ma daa ). [cite: 603]"
+      }
+    },
+    {
+      "week": 26,
+      "baby_development": {
+        "length": "34 cm",
+        "weight": "0.9 kg",
+        "summary": "Mwana inga ujesi 34 cm mukulampa amana ulema 0.9 kg. [cite: 614] Ma nerves mumatwi inga yamena kupangwa akuzuminizya mwana kutalika kunvwa Kuma sounds. [cite: 616] Mwana ulazumanana kumena meenda (amniotic fluid) yalo yapanga kuti mabambo yakomene kabotu. [cite: 617] Na mwazyala mwana musankwa echi ciindi inga ma pwa pwa yatalika kulibonya. [cite: 618]"
+      },
+      "maternal_changes": {
+        "body_changes": "Atala ya chizyalilo inga yalibonya mukulampa 6.3 cm ataala amukombo kumamanino ya daa yaako. [cite: 610] Inga wakomena 1.25 cm munvwiiki nakuti wali kutobelezya ma kg yaako ciindi Cha daa. Amana akulya zyakulya zipa busani mumubili. [cite: 611] Mubili yaako weelede kuba 7.25 to 10 kg. [cite: 612]",
+        "tips": "FDA inga balazuminizya kulya 8 to 12 ma kg ya nswii munvwiiki inga kuli ma tayipi yaandene yanswi yatayelede kulya. [cite: 620] Ciindi no mujesi daa nanka nomunyansya nkambo kakuti inga yalijesi ma parts kapati. [cite: 621] Anziswi, tilefish (ngolo), shark, kiry mackerel alimwi a swordfish. [cite: 622]",
+        "plan": "Muciindi echi chakuswaya kucibadela mwelede kulibambi kuchita ma test yambi: Kupima bulowa [cite: 625] Kuzyiba bulowa mbomujisi na ngu negative nanka ngu positive [cite: 626] Cord blood banking [cite: 628] Kupima sugar [cite: 629] Braxton Hicks contractions [cite: 630]"
+      }
+    },
+    {
+      "week": 27,
+      "baby_development": {
+        "length": "35 cm",
+        "weight": "1kg",
+        "summary": "Mwana lino inga uli 35 cm mukulampa akulema 1kg. [cite: 642] Pele munvwiiki ya 27 a 28 ibana inga menso yajuka. Alimwi inga mwana watalika kuoona akubuka nkabela tachikonzyi kuba semu. [cite: 643] Chitondezya kuti mwana waba ansokanda. Ichi inga chili normal Amana inga chazumanana kumamanino iyaa daa amabambo noya zumanana kukomema. [cite: 645]"
+      },
+      "maternal_changes": {
+        "body_changes": "Banji bamakaintu kunyayala inga kubapa kuba confota, Pele ezyi inga zyingwashilizya kupanga kuti mwana abanyina baswangana nanka bazyibilane. [cite: 638] Bamwi bamakaintu inga balabuzya mibuzyo yakuti, sena ciindi nchongaye nchelede kunvwa mwana kunyanganya mwiinda. [cite: 639] Pele muya Aciindi muyo buzingwa Sena nkongaye nkomunvwa mwana kunyayala. Namwana waleka kulinvwisya kunyayala muleelede kuzibisya ba basilisi. [cite: 640]",
+        "tips": "Na mulijesi motokala inga mwayandika kubweza cuuno chamwana camumoto. Inga mwambaula abamakaintu bamwi nanka bama basilisi bamadaa zyintu zyomukonzya kuchita recommend. [cite: 647] Inga kuli zisiyene siyene Pele inga mwayanda chinga chamuko manishya mwelede kubona kuti cuuno cakala kabotu mumota alimwi kuti chabikwa kabotu. [cite: 648]",
+        "plan": "Natamuninga kupanga mwana mbuli mbwayakutumbukwa Inga mwatalika kunjila ma class. [cite: 650] Ino che ciindi kamuyeya kuti muyanda kuti yamonine ciindi nochitanasika Cha 37 weeks. [cite: 651] Inga mwabuzua basilisi bantu bangwasilizya a kwisya ma class aya. [cite: 652] Natamukwite inga mwayanda kubuzya mwezinyoko nanka bamukwasyi kumuyiminina kuba bajandwa benu. Nanka Inga mwatalika kunyinka Kuma class yabata kwetwe. [cite: 653]"
+      }
+    },
+    {
+      "week": 28,
+      "baby_development": {
+        "length": "36 cm",
+        "weight": "1.13kg",
+        "summary": "Inga mwana wasika 36 mukulampa alimwi ulema 1.13kg Pele alimwi cilibonya kucheya. [cite: 665] Pesi kamuyeya kuti ciindi Cha daa yenu inga mwana ulakomena. Bongo bwa mwana bula zumanana kusima. [cite: 666] Achi ciindi inga bongo bwateteta. Ma tissue ya bongo ciindi ichi inga yatalika kuvula munvwiiki ya 28. Masusu yalazumanana kukomema. [cite: 667] Menso ayalo yatalika kuboneshesha. Amasusu mumuywe yamwana yatalika kulampa. Mwana awalo ulatalika kubonya round mbuli mafuta ankanda mboyatalika kukomema. [cite: 668]"
+      },
+      "maternal_changes": {
+        "body_changes": "Munvwiiki ya so inga chizyalilo chiyabu komena. Ataala achi zyalilo lino inga kwanvwika ataala amukombo, 8.9 mukulampa alimwi akuneneya kapati. [cite: 659] 7.7 kusima ku 10.8 kg. Inga mwabandika nkani ya weight basilica nanka ku appointment ichilila. [cite: 660] Bamakaintu banji balatalika kunvwa maulu kuchisa, kutaunka kuchimbuzi, kutoona akuswa muzindo ciindi echo. [cite: 662]",
+        "tips": "Inga mwabona kuti kutumbuka kwenu kuchili kulafu pesi mwelede kutalika kulibambi kunka kuchibadela. Ichi inga changwashilizya naa mwana wazyalwa chakufwambana. [cite: 671] Mwelede kuti phone number balumi bene kamwiizyi kutengwa mbwakonzya kubatunina ciindi labour yatalika. [cite: 672] Pesi inga chibotu kuti kamujesi plan B na number tiyasika. [cite: 673] Alimwi inga chilayandika kusama nzila njomukozya kweendela kuchibadela. [cite: 674]",
+        "plan": "Mubuzuba buchilila bwa kunka ku prenatal mwelede kulibambi: Kupengwa Rhogam namujesi bulowa bwa negative [cite: 677] Kusala nzila yakuzyalila mwana [cite: 678] Kunyonsya aku belesha mbodela [cite: 679] Mwelede kuba swaya ba docotela mu nvwiiki zyobile iciindi chonse mane mukutumbuke. [cite: 680]"
+      }
+    },
+    {
+      "week": 29,
+      "baby_development": {
+        "length": "37 cm",
+        "weight": "1.25 kg",
+        "summary": "Mwana lino inga wasika 37 mulampa alimwi waneneya 1.25 kg. [cite: 691] Mwana aciindi echi ulakomena chakufwambana. Antela mwana ulazumanana muku neneya. Alimwii mutwe walo ulazumana kukomena. Echi inga nkambo kubongo bakomena. [cite: 692] Mamaso alimwi ama lungs yalazamanana kukomena nkambo kuti kuli kakomena kupati kutola bwena muchiindi echi. [cite: 693] Chilayandika kuti wajana busane bali kabotu mumubili amwana akubanyina. [cite: 694]"
+      },
+      "maternal_changes": {
+        "body_changes": "Kuneneya kwamubili ciindi echi inga kwasika a 8.6 to 11.3 kg. [cite: 686] Atala achizyalilo inga kwatelelwa mbuli 8.7 to 10 CM mukulampa atala yam munvwiiki yakamana twakatalikide kubindika kunkwa kulemalema Yaba yaku talikizya adaa. [cite: 687] Kutaunka kuchi mbuzi mbali mbobali komoni ciindi cha daa. Amana inga chapa mwiida kuchisa akutalinvwa kabotu mwiida. [cite: 688]",
+        "tips": "Ba Dawa community health care babeleka balagwasiliya kuti bamakaintu babe a kutumbuka kuli kabotu. [cite: 696] Kamujana ciindi cakuliya ma benefits yakuba Dawa community health. [cite: 698] Dawamom worker; Constant visits [cite: 700] In-person contract [cite: 702] Well trained [cite: 704]",
+        "plan": "- kulya zyakulya zyi jesi ma fibres, mbuli ma fruits, ma vege, chinkwa [cite: 707] - kunwa mweenda manigi [cite: 708] - exercise, walking, swimming [cite: 709] - reduce or eliminate iron supplements [cite: 710]"
+      }
+    },
+    {
+      "week": 30,
+      "baby_development": {
+        "length": "38.5 cm",
+        "weight": "1.4 kg",
+        "summary": "Mwana inga wakomena kwika ku 38.5 cm mukulampa alimwi ulema 1.4 kg. [cite: 726] Mwana mbuli bwa zumanana kukomema inga ubweza busena bunji bwa muchizyalilo inga mwatalika kunvwa kuti kunyina busena mwana bwakomena. [cite: 727] Menso yamwana yatalika kusima nkabela mwana ulatalika kwandanya mumuni alimwi amudima (light and darkness). [cite: 729] Bana munvwiiki ya 30 inga balatalika kutobezya mumuni nkoubede. Ciindi mwana nazyalwa inga ulatalika kukomema kuti menso yakwa yalwalidwe. [cite: 730] Bana bazwa mukuzyalwa inga bakwanisya kubona zyintu zilibo afwafwi ambabo. Vision yabapati inga ngu $20/20$ pesi yabana inga ngu $70/400$. [cite: 731]"
+      },
+      "maternal_changes": {
+        "body_changes": "Inga mwatalika kubona kuti mulakatala katala nokuya kumamanino iyaa daa yenu. Ichi chilakonzya kulibonya namula kakuwa koona kabotu masiku. [cite: 719] Bamwi bamakaintu inga balakwanisha ma position yamwi yakulala kabotu. [cite: 720] Mwasika ku third trimester inga mwatalika kuba akabuko, bamwi inga baba akabuko kumatalikilo ya daa yabo. [cite: 722] Kuyungizya inga mubili alepanga ma hormones Yako yakonzya kupanga ma joints kuteteta. Ichi chilakonzya kupanga maulu kuzimba. [cite: 723] Bamwi bamakaintu inga balatalika kutongoka kuti maulu yamwi tayakonzyi kunjila mumabusu nchociindi nobala daa. [cite: 724]",
+        "tips": "Lino nchociindi nchomwelede kutalika kulibambi zyintu zyomukonzya kumukwabilila mukuchiswa. [cite: 733] Ansi awa alabandika zyintu zyikonzya kumugwasilizya: Kutumbuka kuli natural mbuli Alexander technique, Bradly method, hypnosis, lamaze alimwi akutumbuka mumeenda. [cite: 736] Local anesthesia mbuli spinal block, epidural, pudendal block. [cite: 737] General anesthesia [cite: 738] Narcotics [cite: 739] Relaxation techniques [cite: 740]",
+        "plan": "Lino nchociindi nchomwelede kutalika kulibambi zyintu zyomukonzya kumukwabilila mukuchiswa. [cite: 733]"
+      }
+    },
+    {
+      "week": 31,
+      "baby_development": {
+        "length": "39.4 cm",
+        "weight": "1.6 to 1.8 kg",
+        "summary": "Mwana ulazumanana kukomema kusika ku 39.4 cm mukulampa alimwi ulaneneya kusika ku 1.6 to 1.8 kg. [cite: 758] Mwana ulazumanana kuzwa inkanda yatala yanyama. Achi chipa kuti mwana alibonye kuti mpalwa mukuzyalwa. [cite: 759] Ma nvwiiki yashede inga mwana watalika kulema kwindilila. Kamuyeya kuti mwana weelede kulema 3.4 kg Amana akulapa 48.3 to 53.3 cm. [cite: 760]"
+      },
+      "maternal_changes": {
+        "body_changes": "Inga mwatalika kubona mukupa wayelo kuzwa mumankolo.achi inga chiitwa kuti colostrum nanka mukupa wakusamguna. [cite: 748] Eyi colostrum inga njakutanguna kuzwa nanka mukupa wakusamguna ujanika ciindi Cha daa. Chilakula kwa nvwiiki yomwe mukuzyalwa Iwamwana. [cite: 749] Bamwi bamakaintu inga batalika kunvwa ma contractions inga kubu kaintu kumamanino ya nvwiiki iya daa. [cite: 753] Eyi Braxton Hicks contractions inga bamwi balakunvwa mu second trimester. Pesi zilikomoni mu third trimester. [cite: 754] Mamaso yamu chizyalilo inga yabola antomwe muciindi ca 2 minutes. [cite: 755]",
+        "tips": "Kuzwa muzindo inga kulikomoni (hemorrhoids) ciindi Cha daa. Kuzwa muzindo oku inga kulachisa kapati. Inga zyizya maningi mu third trimester. [cite: 762] Muciindi echi kamutana tumbuka kuli zyintu zyomukonzya kuchita; Kubika baking powder mumbali ya muzindo. [cite: 768] Kusamba amenda yapya [cite: 769] Inga mwabelesha ma lemon kutengwa bulowa buleke kuzwa. [cite: 770] Kusamba amisamu yachimuntu [cite: 771] Kulesha ma pads [cite: 772] Chintu chikonzya kukwabilila muzindo kuzimba inga kuchita zyintu zyikonzya kumukwabilila kutaunka kuchimbuzi. [cite: 773]",
+        "plan": "Sena mwalibambila kaindi na muyonyosya kunkolo nanka kubodela. Inga kuli KABOTU alimwi alubi bwa zyobilo. [cite: 775] Kubala ma mbuku inga kwamigwasilizya mbo mwelede Kunyonsya Mwana kuba anseba ilikabotu. [cite: 776]"
+      }
+    },
+    {
+      "week": 32,
+      "baby_development": {
+        "length": "40.6 cm",
+        "weight": "1.8 to 2kg",
+        "summary": "Mwana inga ula 40.6 cm mukulampa alimwi ulema 1.8 to 2kg. Mwana ulazumanana kukomema. [cite: 787] Maala yakumaula alimwi ayakumaza yalatalika kupangwa alimwi mabambo yalazumanana kusima nokuba kuti tayakonzyi kumaninina kupangwa kwa nvwiiki kunshonto kushede. [cite: 788] Skeleton yamwana inga kayi maninindwe kupangwa pesi mafuwa inga tayaninga maninizya kusima inga mafuwa yachili matetete. [cite: 789]"
+      },
+      "maternal_changes": {
+        "body_changes": "Atala chizyalilo inga ino kwapimwa kuzwida atala amuchombo nkambo kakuti inga atala achi zyalilo inga mpalafu, inga watalika kukatala kuyoya. [cite: 782] Echi inga nkambo kakuti chizyalilo chiyabu komena. Chisyata amsi yamoyo. Echi inga alimwi mulema ikelo yomwe munvwiiki. [cite: 783] Bulowa bulatalika kuunka atala 40% to 50%. Achi inga chipa MUBILI kuti uchikomzye kugwashilizya mwana alimwi abanyina. [cite: 784] Ubu kukwela kwa BP inga nkubotu nkambo kakuti kulatonzya mbuli bulowa mbomulibambila kuzwa ciindi chakutumbuka. [cite: 785]",
+        "tips": "Nvwiiki yakamani twakazumanana kubandika Ali Braxton Hicks contractions na mulaba ama contractions aya inga kuli zyintu zyikonzya kuchita [cite: 791, 792] Kuciincha mwakulalila akunks mukwendenda [cite: 793] Kusamba amenda yapya kwamawola yali ayatatu (3 minutes) [cite: 794] Kunwa menda kapati nkambo kakuti ma contractions aya yalakonzya kupanga menda mwiinda. [cite: 795] Kunwa tea yamukupa [cite: 796]",
+        "plan": "Sena mwakapanga kale decision yakuti mwelede kubamba munkombo wamwana? Cord blood inga bulowa busyalila mumukombo alimwi amu placenta echi inga chilasongwa. [cite: 802] Inga chintu chibotu namwayanda kuti bulowa obu busungwe nanka kuti busowengwe. [cite: 804] Kusunga bulowa obu inga chintu chibotu nkambo kakuti bulakonzya kungwasya mwana kumalwazi yaandene andene. [cite: 805]"
+      }
+    },
+    {
+      "week": 33,
+      "baby_development": {
+        "length": "42 cm",
+        "weight": "2 to 2.3 kg",
+        "summary": "Inga mwana ula 42 cm mukulampa alimwi inga ulemede 2 to 2.3 kg. [cite: 819] Inkanda yamwana ilatalika kulibonya kusalala yatalika kusima. Kuzwilisyako bongo. Kubika ansi yankanda. Nkambo kakuti bongo weelede kuzumanana kuteteta. [cite: 820]"
+      },
+      "maternal_changes": {
+        "body_changes": "Atala achi zyalilo lino inga kwasika a 12.7 cm mukulampa alimwi atala yamukombo kuneneya kwako lino inga kwasika 10 to 12.7 kg. [cite: 811] Inga mwatalika kukibuzya kwasena menda ayo pwayika. [cite: 812] Aya menda yazwa inga taya nanki pe. Namwabona kuti menda yatalika chilayandika kuzyibya ba basilisi. [cite: 815] Tamwelede kubelesya ma pads (tampons) kamutaninga kubona ba nurse nanka mamungwashililzya kutumbuka (midwife). [cite: 816] Tamwelede kubelesya ma pads nanka kuchita nkwela nkambo inga kwamuletela ma infections ciindi menda noya pwayika. [cite: 817]",
+        "tips": "Bamakaintu banji balalibuzya kuti Sena chilayandika kuba ankwela muciindi echi? Inga chilikabotu kuti na basilisi kunyina chobakwambila. [cite: 822] Pesi akuchincha kwamubili inga tatakuzumizya kuchita obo. Inga kuli nzila zimwi zyomukonzya kuba ankwela kutengwa munvwe Kabotu. [cite: 823]",
+        "plan": "Munvwiiki itobela inga nchibotu kuti mwabandika abasilisi nkambo kakutendwa. Oku kutendwa nanka episiotomy inga Kukomezya kubukaintu kutengwa mwana achikonzye kwiinda. [cite: 825] Kuba anseba chilikabotu Kegels (exercises of the pelvis) [cite: 828] A slowed second stage of labor where pushing is controlled [cite: 829] Warm compresses during labor [cite: 830] Perineum massage techniques [cite: 831]"
+      }
+    },
+    {
+      "week": 34,
+      "baby_development": {
+        "length": "44.5 cm",
+        "weight": "2.3 to 2.5 kg",
+        "summary": "Inga mwana ula 44.5 cm mulampa alimwii inga ulemede 2.3 to 2.5 kg. Kumamanino ya nvwiiki zyakamana. [cite: 842] Twakabandika kuti mafuta yamwana yalatalika kuba ankanda yamwana. Ichi inga chili important mukukomena kwa mwana. [cite: 843] Nkambo kakuti aya ma fats inga yagwasiliya mwana kuti watalika kuzwisya tempreture ciindi natumbuka [cite: 844] Central nervous system ilazumanana kusima, alimwii ama bambo ayalo yalazumanana kusima, pele bama docotela bamwi inga bayanda kuti mwazumanana kubikilila kunvwiiki ya 38 nanka ya 40. Nkambo kakuti mwana inga wakonzya kubona anze wazyalwa. [cite: 845]"
+      },
+      "maternal_changes": {
+        "body_changes": "Inga atala achizyalilo inga kwasika ku 14cm atala amukombo. Inga chilayandika kazyibakuti mutambu wonse inga madaa yaliimpene. [cite: 838] Nkambo kaako inga ma measurements inga yalimpene. Pele ciintu chilikabotu inga chakuti chizyalilo inga chiyakukomena. [cite: 839] Inga amount ya amniotic fluid inga ila boneka kwama nvwiiki ya 36 alimwi aku 37. Inga oyu amoniotic fluid ilatalika kachesa kulibambila kuti musana achikonzye kwiinda kabotu [cite: 840]",
+        "tips": "First stage: ya kutumbuka liatalika akunvwa kutumbuka kamanina aciindi chinyo (cervix) nochajuka yalo ngu 10 cm. [cite: 847] Stage 2: inga ila zumanana mene 10cm kusilala mwana wazylwa [cite: 849] Stage 3: inga ijatekizya kutubusya kwa placenta. Yalo ilatola ciindi 5 to 30 minutes [cite: 850]",
+        "plan": "Muciindi echi inga bama docotela balazumana kubandika zyintu zyitobela abama patient babo; Group b strep test [cite: 853] Scheduled visits [cite: 855] Location of the ER and the labor delivery entrance [cite: 856] Pre-registration packer [cite: 857] Pain management [cite: 858] C-section [cite: 859] Birth control methods [cite: 860]"
+      }
+    },
+    {
+      "week": 35,
+      "baby_development": {
+        "length": "43.2 to 45.7cm",
+        "weight": "2.5 to 2.7 kg",
+        "summary": "Imwana inga ula zumanana kukomena kusikala 43.2 to 45.7cm mukulampa alimwi inga ulemede 2.5 to 2.7 kg. [cite: 871] Kumaninizya kukomena kwamwana inga kulamanina munvwiiki ya 35. Ma kidneys yamwana yamanina kukomena amana a liver inga yatalika kupanga zyintu zyiyandika. [cite: 872] Nkambo kakuti mwana wakomena kapati, inga mwatalika kubona change mulimwana mbuli mbwanyayala. [cite: 873]"
+      },
+      "maternal_changes": {
+        "body_changes": "Inga Kuli 15. 2 cm mukulampa kuzwa amuchombo kusika achizyalilo. Echi ciindi Mwelede mwaneneya mbuli 10.9 to 13.2 kg. [cite: 867] Na mujesi mubuzyo kujatilizya mbuli mbobwaneneya. Inga mwaba buzya badocotela. Namwalinvwa kutayoya kabotu inga mwana mutwe inga walanga ansi. [cite: 868] Mwana inga wakala afwafwi achizyalilo (pelvis), okukulvwa kwamutwe wamwana inga kwa lekesya kutalinvwa kabotu makayoya.alimwi chilapa kuti mwatalika kusuba suba. [cite: 869]",
+        "tips": "Kuzyalwa kwamwana kwaba afwafwi kushede nvwiiki mashonto. Inga Mwelela kujana docotela wabana (pediatrician). [cite: 875] Inga mwambaula a ba midwife, bamakwashi nanka benzinyoko kubona kuti niza inga bamugwasilizya kujana bulanganya bana [cite: 876]",
+        "plan": "Alimwi nga badocotela bayanda kumwambila kutalika kubala zibakela mwana zyauma. [cite: 879] Mwelede kubone zyintu ayi mumizezo ciindi mwana naune zyibakela - inga inga muyanda kubona yoonse mabakela yali 10 muli mumala yobile (2 hours) [cite: 883] - inga mwabelesya kabukku nanka kapepa kakubalila zyibakela [cite: 884] - nakuti tamwanvwa zyibakele inga mwatindila mawola yamwi [cite: 885] - nakuti tamwanvwa zyibakela zyilizyonse inga mwabazibya badocotela. [cite: 886]"
+      }
+    },
+    {
+      "week": 36,
+      "baby_development": {
+        "length": "44.5 to 48.3 cm",
+        "weight": "2.6 to 3.1 kg",
+        "summary": "-Mwana awa nishi wasika 44.5 kuya ku 48.3 cm mubu lanhyu amana kulema mbuli 2.6 na 3.1 kg [cite: 893] Mutwe wa mwana uyezele kulanga ansi muchindi echi na mutwe wa mwana tauna Lange ansi mutayowi, kamunka kuli ba docotela kutegwa basole kumulahya ansi mwana [cite: 894]"
+      },
+      "maternal_changes": {
+        "body_changes": "-Mulaneneha inga mwanvwa mubili mbuti busena mwinda bwakukomenena mwana bwa cheeya a kuamba kuti mwakatala kulinvwa amubili mu p [cite: 891]",
+        "tips": "-Ba nkolo hatalika kuminyonganya akuoona, muyezele kutalika kusama bra yabutumbu ,inga mwayisama nomuli kunjanda na ilamikonda. [cite: 896]",
+        "plan": "*hiyandika kuli ba tumbu - chi pepa cha kuchipadela [cite: 899] - kuba atu padi twa nkolo kutengwa katunyonka mukupa natamunyoshi [cite: 900] - ma padi [cite: 901] *hiyandikka hya mwana -hisani hatikasame mwana naunka kunjanda [cite: 903] - ma diaper ya Babi muhwanda [cite: 904]"
+      }
+    },
+    {
+      "week": 37,
+      "baby_development": {
+        "length": null,
+        "weight": null,
+        "summary": "-Nokuba kuti mwana ulibonya mbuti wakomena mu Nwiiki eyi, chilibuyo kabotu kumuleka mwana mwinda kusinka chindi chakutumbuka chasika [cite: 912] -Na mwana talangide ansi muchindi echi, kamuya mukambaule abamilanganya kuchipadela aba lumi benu kuboona nzila ititobele na iliko [cite: 913]"
+      },
+      "maternal_changes": {
+        "body_changes": "-Na mwakali kulipima chihalilo chenu inga mwakubona kuimpana kuzwa nomwakatalika Muchindi echi inga kunyina kunenehya, kulema kwenu kuyezele kuba mbuli 11.3 kuya ku 15.9 kg [cite: 909] menda Ali mwinda inga atalika ku swena amana akumyonga mwinda mulazumanisha maninginkambo mubili wenu ulibambila kuya kutumbuka awa kutumbuka kuli buyo Nwiiki na mazuba kutengwa buzuba busike [cite: 910]",
+        "tips": "-Awa mulindila Bo buzuba bwakuoyo tumbuka, na kul kulibambila kwamamanino kuliko nche chiindi chakumaninizya kabutaninga siika buzuba bwakutumbuka. [cite: 915] -Bamakayintu bamwi balayanda kujika zilyo zonayanda kutengwa Bajoka balya chilikumoyo wabo. [cite: 916]",
+        "plan": "-Muyezele kuti kamumanihinde ma class abutumbu, akutalika kulibambila kwa mwana. [cite: 918] - kamutalika kubamba ma beeke enu. [cite: 919]"
+      }
+    },
+    {
+      "week": 38,
+      "baby_development": {
+        "length": "43.2 to 50.8 cm",
+        "weight": "2.8 to 3.4 kg",
+        "summary": "Awa mwana unoli mupati mbuli 43.2 kuya ku 50.8 cm mubulahyu amana kulema mbuli 2.8 na 3.4 kg [cite: 926] Mwana uchi komena nokuba kuti zyonsi ziyandika kumwana zyasima kale, ihahala buyo ku maninina Kukomena mboongo a mapwapwa. [cite: 927]"
+      },
+      "maternal_changes": {
+        "body_changes": "inga mwabona maulu a zimba.chilibuyo kabotu kuba amaulu azimbele. [cite: 923] kuti na mwabona kuti ku zimba kwazumananna mamaulu, kumenso, mumanza na aku tusindi kamuya kulibadocktela. [cite: 924]",
+        "tips": "Mulayandika kunka ku scan aku bona mwana na ulangide buti, akunvwa mooyo wakwe mboudunta. [cite: 929]",
+        "plan": "kuchipadela bayenzele kumiambila na kumibuzya mibuzyo itobela mbani bauita mwanvwa mbuti chindi chasika na chindi cha kubayinta [cite: 932] hena kuli mapenzi aliko buli anaemia [cite: 933]"
+      }
+    },
+    {
+      "week": 39,
+      "baby_development": {
+        "length": "45.7 to 52cm",
+        "weight": "2.9 to 3.6 kg",
+        "summary": "mwana unoli mu 45.7 kuya mu 52cm mubulahyu amana kulema kwake kunoli mu 2.9 kuya mu 3.6 kg. [cite: 940] mwana uchi komena kuba ama huta musi achikanda aya ma huta ano mugwasha kulikasazya mubili wakwe [cite: 941]"
+      },
+      "maternal_changes": {
+        "body_changes": "muchindi echi mubili wenu kunonyina Kuchincha maningi pensi chihalilo chenu chino chinchide maningi nkambo kukulbambila kuya kuhala [cite: 938]",
+        "tips": "Nokuba kuti munka kutumbuka, kamuzumanana kulanga mwana mbwayenda mwiinda [cite: 943]",
+        "plan": "Kamulya buyo mooyo wenu akukalikila, mwana ulasika na ngwakusanguna na ngwa chibili amulye buyo mooyo a kulibambila kabotu kuli mukwashi, baushi mwana a ndunwe. [cite: 945]"
+      }
+    },
+    {
+      "week": 40,
+      "baby_development": {
+        "length": "48.3 to 53.3",
+        "weight": "3 to 4.5 kg",
+        "summary": "Mwana inga ulampide 48.3 to 53.3 mukulampa alimwi inga ulemede 3 to 4.5 kg [cite: 958] Mafuwa yamwana ciindi echi inga yasima, alimwi abongo bwamwana. Mafuwa yakabongo inga yandika kuti yashala kayatetede kutegwa mutwe uzwe kabotu akutumbuka mutwe. [cite: 959] Wamwana inga walibonya mbuli nkoshi kumazuba mashonto ciindi mwana nazyalwa. [cite: 960]"
+      },
+      "maternal_changes": {
+        "body_changes": "Nomutonka ciindi chakutumbuka inga mutwe watalika kulebonya achi zyalilo ciindi kubusimbi nokutalika kujulika. [cite: 951] Ciindi mutwe wamwana wasika a zyalilwa inga kubukaintu kalatalika kujuka, inga watalika kunvwa kupya kubukaintu. [cite: 952] Achi chitwa kuti keengo kuleka kutonko (ring of fire) [cite: 953]",
+        "tips": "Mwamana bo kutumbuka, mwana ulapegwa chakumusunka chakutanguna (APGAR) score. [cite: 962] Echi inga chakuzunka mwana ciindi nazyalwa. Pele tachili chakubonena mbuli mwana mbwatika be wakomena nanka Mano mwana ngoyo ba ayalo. [cite: 963] lyi APGAR chintu chibelesegwa ciindi mwana nazyalwa, inga maoola yabalwa muli 5 minutes. [cite: 964] Mwakupanga kuti Muchileke kunvwa kutonka (urge to push) - lean back and try to go limp [cite: 967] make a concious effort to relax the muscles [cite: 968] - kuba anguzu mukuyoyesha changuzu [cite: 969] - kulekelela kutonga kwalichitila mulimo muciindi echi [cite: 970]",
+        "plan": "Muciindi echi chamamanina mwelede kulibambila zintu zyitobela; - none stress test (kutayeyeshya manigi) [cite: 973] amoniotic fluid reflex [cite: 974] sonogram biophysical profile score [cite: 975] Badocotela balamwambila zyintu zyichilila Inga ciindi chayindilila ncho mukonzya kutumbuka [cite: 977] - kwitalishya daa (induction) [cite: 978] - kupandulwa (C Section) [cite: 979]"
+      }
+    }
+  ]
+}
