@@ -11,6 +11,10 @@
 
 *All affiliated with Dawa Health*  
 
+Formatting & Data Preparation:
+
+Kudzai Mwedzi – JSON and JSONL dataset structuring
+
 **License:**  
 [CC BY 4.0 (Creative Commons Attribution)](https://creativecommons.org/licenses/by/4.0/)  
 Copyright © 2025 Dawa Health  
