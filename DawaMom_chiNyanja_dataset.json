@@ -1,0 +1,532 @@
+{
+  "dataset": "NLP Maternal Health Dataset",
+  "language": "Nyanja",
+  "authors": [
+    "Charity S Phiri",
+    "Aaron Chiwala",
+    "Precious Milanzi"
+  ],
+  "license": "CC-BY-4.0",
+  "pregnancy_data_chinyanja": [
+    {
+      "sabata": 1,
+      "kukula_kwa_mwana": {
+        "utali": null,
+        "kulemera": null,
+        "pfupiso": "Mwana sanayambebe kupangidwa."
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Muzava zizindikiro zanu za thawi yanu yopita ku mwezi: kutuluka magazi, kupweteka m'mimba, mabere opweteka, kusinthasintha kwa maganizo, ndi zina zotero. [cite: 2439]",
+        "malangizo": "Pamafunika kusintha zinthu zina mu moyo wanu kuti muwonjezere mwayi wokhala ndi pakati komanso kukhala ndi mwana wathanzi, monga kuchita masewera olimbitsa thupi, kudya zakudya zopatsa thanzi, ndi kumwa mavitamini a mimba. [cite: 2444, 2445, 2446, 2447] Ndibwino kusiya kugwiritsa ntchito zinthu monga mowa, mankhwala osokoneza bongo, ndi fodya. [cite: 2448, 2450, 2451, 2452]",
+        "zakukonzekera": null
+      }
+    },
+    {
+      "sabata": 2,
+      "kukula_kwa_mwana": {
+        "utali": null,
+        "kulemera": null,
+        "pfupiso": "Mwanayo sanayambebe kupangedwa. [cite: 2463]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Zizindikiro za kutulutsa dzira (ovulation) zingaphatikizepo kupweteka pang'ono m'mimba, mabere ofewa, kutuluka madzi ku ukazi osalala, ndi kutentha kwa thupi kwambiri. [cite: 2457, 2458, 2459, 2460, 2461]",
+        "malangizo": "Chinthu chofunikira kwambiri chomwe mungachite pakali pano ndikuyamba kukhala ngati mukudziwa kuti muli ndi pakati. [cite: 2465] Izi ziteteza inu ndi mwana wanu wamtsogolo ku zinthu kapena zochitika zilizonse zomwe zingayambitse mavuto. [cite: 2465]",
+        "zakukonzekera": "Idyani zakudya zokwanera ndi zopatsa thanzi ndipo yambani kuchita masewera olimbitsa thupi. [cite: 2467]"
+      }
+    },
+    {
+      "sabata": 3,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 0.48 mm [cite: 2481]",
+        "kulemera": null,
+        "pfupiso": "Mwana wam'mimba wanu ndi wochepa kwambiri ndipo akuwoneka ngati gulu la maselo. [cite: 2480] Ali ndi kukula kwa mutu wa pini. [cite: 2481] Maselo ena adzakhale chisa (placenta), chomwe chidzapanga HCG (homoni ya mimba). [cite: 2482] Bongo ndi fupa la msana (spinal cord) zidzayamba kukula. [cite: 2470]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Azimai ambiri samazindikira kusintha kulikonse, koma ena amakhala ndi kupweteka pang'ono m'mimba komanso kutuluka madzi ku ukazi ochulukirapo. [cite: 2476] Ena amakhala ndi kutuluka mwazi ochepa, otchedwa 'implantation bleeding.' [cite: 2477] Tumani foni kwa dotolo wanu ngati mukutuluka mwazi ochuluka kapena muli ndi ululu waukulu. [cite: 2478]",
+        "malangizo": "Thupi lanu likuyamba kusintha kwambiri. [cite: 2484] Onetsetsani kuti mukupuma mokwanira ndipo mukudya zakudya zokwanira ndi zopatsa thanzi. [cite: 2484]",
+        "zakukonzekera": "Kudya zakudya zopatsa thanzi, mankhwala a folic acid, ndi mavitamini ena ndi ofunikira pakukula kwa mwana. [cite: 2486, 2487] Ndibwino kupewa mowa, mankhwala osaloledwa, mankhwala ena, zakudya zina, ndi kukoka fodya. [cite: 2488, 2489, 2490, 2491, 2492, 2493]"
+      }
+    },
+    {
+      "sabata": 4,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 1.98 mm [cite: 2503]",
+        "kulemera": null,
+        "pfupiso": "Pali magawo atatu a mwana wanu: ectoderm, mesoderm, ndi endoderm, omwe adzapanga ziwalo ndi ziwalo za mwana. [cite: 2504, 2505] Minyendo ndi manja apangidwa koma simungathe kuzizindikila bwino. [cite: 2503] Chisa chapangidwa chomwe chiyamba kupanga zinthu zofunikira. [cite: 2506]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Mutha kuyamba kukhala ndi zizindikiro zoyambirira za mimba monga mabere opweteka, mutu kupweteka, kupweteka msana, ndi nseru. [cite: 2499] Azimai ena ayamba kuva kunuka kwa zakudya zina. [cite: 2497] Ngati mwachedwa kupita ku mwezi, iyi ndi nthawi yomwe mayeso a mimba apakhomo angayesere mimba. [cite: 2501]",
+        "malangizo": "Funsani adotolo anu zomwe akulimbikitsani. [cite: 2508] Mankhwala a folic acid ndi ofunika kwa inu ndi mwana wanu. [cite: 2509]",
+        "zakukonzekera": "Ngati mwachedwa kupita ku mwezi, mutha kupima mimba kunyumba. [cite: 2511] Ngati zotsatira ndi zabwino, mungathe kukonza nthawi yochita msonkhano ndi adotolo. [cite: 2511]"
+      }
+    },
+    {
+      "sabata": 5,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 3 mm [cite: 2518]",
+        "kulemera": null,
+        "pfupiso": "Mwana wanu ndi wochepa kwambiri. [cite: 2518] Mtima wa mwana wanu ukumenya mwasatanisatani, ndipo maso ndi makutu akuyamba kupangidwa, pamodzi ndi mafupa a thupi. [cite: 2519]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Kusinthasintha kwa maganizo chifukwa cha mahomoni kumabweretsa kusintha kwa maganizo pa sabata lachisanu. [cite: 2515] Mungayambenso kukhala ndi matenda a m'mawa (morning sickness). [cite: 2513] Ngati nseru ya m'mawa ndi yoopsa kwambiri, funsani adotolo anu. [cite: 2516]",
+        "malangizo": "Madotolo amalimbikitsa kuti azimai onenepa bwino awonjezere pafupifupi 11.3 mpaka 15.9 kg pa mimba. [cite: 2521]",
+        "zakukonzekera": "Ngati simunakonzerebe nthawi yoyamba yochezera adotolo, ndi nthawi yoti muchite izi. [cite: 2523]"
+      }
+    },
+    {
+      "sabata": 6,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 19.05 mm [cite: 2532]",
+        "kulemera": null,
+        "pfupiso": "Mapwapwa, nsagwada, mphuno ndi m'kamwa zayamba kupangidwa. [cite: 2533]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Mutha kuona kusintha kwa mabere anu, kufewa ndi kuwawa. [cite: 2528] Azimai ena amatha kuona kuti anenepa pang'ono, pamene ena angathe kuonda. [cite: 2527] Azimai ena amatuluka mwazi ochepa. [cite: 2529] Ngati mwazi wachuluka ndi kupweteka, dziwitsani adotolo anu. [cite: 2530]",
+        "malangizo": "Ngati mavitamini anu a mimba amakudwalitsani, mutha kuwamwa ndi chakudya kapena usiku. [cite: 2535] Funsani adotolo anu musanasiye kuwamwa. [cite: 2535]",
+        "zakukonzekera": "Kudziwa mtundu wa magazi wanu ndi wa amuna anu ndikofunikira pa mimba. [cite: 2538] Kuli mitundu inai ya magazi: A, B, AB, ndi O. [cite: 2539, 2540, 2541, 2542, 2543]"
+      }
+    },
+    {
+      "sabata": 7,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 2.54 cm [cite: 2553]",
+        "kulemera": "zochepa kwambiri [cite: 2553]",
+        "pfupiso": "Pa sabata lachisanu ndi chiwiri, chiwalo chilichonse chofunikira chayamba kupangidwa m'thupi la mwana wanu. [cite: 2546]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "N'kutheka kuti anthu ozungulira inu sangadziwe kuti muli ndi pakati. [cite: 2550] Mutha kukhala munawonjezera ma kilogalamu ochepa, koma mungathenso kutaya kulemera ngati mukukumana ndi nseru ya m'mawa. [cite: 2551]",
+        "malangizo": "Nazi njira zothandizira nseru ya m'mawa: idyani zakudya zochepa nthawi zambiri, idyani chimanga chouma musanadzuke, pata mpumulo wokwanira, imwani madzi okhala ndi mandimu, ndipo pewani zakudya nthawi isanadutse komanso musagone pansi mukangodya. [cite: 2557, 2558, 2559, 2560, 2562]",
+        "zakukonzekera": "Ngati simunasankhebe Chipatala, adotolo kapena namwino, ndi nthawi yoti musankhe mmodzi. [cite: 2566]"
+      }
+    },
+    {
+      "sabata": 8,
+      "kukula_kwa_mwana": {
+        "utali": "wamutali pang'ono kuposa 2.54 cm [cite: 2574]",
+        "kulemera": "pafupifupi kukula kwa nyemba [cite: 2574]",
+        "pfupiso": "Chiwalo chilichonse chomwe chimapezeka mwa munthu wamkulu tsopano chili mwa mwana wanu. [cite: 2575]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Chiberekero chanu chinali chofanana ndi nkhonya yanu musanakhale ndi pakati, koma tsopano chili chofanana ndi mphesa. [cite: 2572] Zizindikiro za mimba zanu zikuyenera kuti zayamba kale: nseru, mabere opweteka, kutopa, kukodza pafupipafupi, ndi kusinthasintha kwa maganizo. [cite: 2571]",
+        "malangizo": "Pa mimba, azimai ena amakhala ndi khungu lamafuta ndipo amakhala ndi ziphuphu. [cite: 2577] Ngati mukugwiritsa ntchito mankhwala, ndikofunikira kudziwa zomwe mankhwalawa ali nazo. [cite: 2578]",
+        "zakukonzekera": "Mutha kupita ku nthawi yanu yoyamba yochezera adotolo. [cite: 2580] Adotolo anu adzafunsa za mbiri yanu yachipatala, monga matenda aliwonse, tsiku lomaliza kupita ku mwezi, ndi matenda m'banja lanu. [cite: 2581, 2582, 2583, 2584]"
+      }
+    },
+    {
+      "sabata": 9,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 4.24 cm [cite: 2593]",
+        "kulemera": null,
+        "pfupiso": "Mwana wanu ali pafupifupi kukula kwa mphesa ndipo angayambe kuyamwa chala chake. [cite: 2587] Ziwalo zonse za mwana, kuphatikizapo zigongono, mapwanga, mapewa, ndi manja, zikugwira ntchito. [cite: 2594]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Simungathe kuoneka ngati muli ndi pakati kwa anthu ena, koma mukuyamba kuzindikira kusintha kwina. [cite: 2590] Mutha kukhala ndi kusinthasintha kwa maganizo, kutentha kwa chifuwa, ndi kumva kukhala wotupa. [cite: 2591]",
+        "malangizo": "Panthawi ino ya mimba yanu, mutha kuyamba kumva kutopa kwambiri. [cite: 2596] Izi zikhoza kuyambitsidwa ndi kusintha kwa mahomoni, vuto la kugona usiku, kapena nseru ya m'mawa. [cite: 2597]",
+        "zakukonzekera": "Ngati muli ndi zaka zopitilira 35 kapena muli ndi mbiri ya matenda a chibadwa, mungafune kuganizira zochezera adotolo. [cite: 2599]"
+      }
+    },
+    {
+      "sabata": 10,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 5.08 cm, kukula kwa ndimu [cite: 2607]",
+        "kulemera": null,
+        "pfupiso": "Iyi ndi nthawi yomaliza ya 'embryonic period' ndipo ndi chiyambi cha 'fetal period' pamene ziwalo za mwana wanu zikupitirira kukula. [cite: 2608]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Azimai ena amakhala ndi kuwala kwa mimba ('pregnancy glow') mu gawo loyamba, pamene ena amakhala ndi ziphuphu. [cite: 2604] Mudzazindikira mabere anu ndi mimba yanu ikukula sabata iliyonse. [cite: 2605]",
+        "malangizo": "Pezani masewera olimbitsa thupi oti mukhale wathanzi pa mimba. [cite: 2602] Funsani adotolo anu za masewera olimbitsa thupi oyenera kwa inu. [cite: 2611]",
+        "zakukonzekera": "Nthawi yanu yachiwiri yochezera adotolo idzachitika pakati pa sabata 12 ndi 16. [cite: 2613] Panthawi ino, adotolo anu angachitenso ultrasound, zomwe zingakuloleni kuona mwana wanu koyamba. [cite: 2613]"
+      }
+    },
+    {
+      "sabata": 11,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 6.35 cm [cite: 2625]",
+        "ulemera": "14.17 g [cite: 2625]",
+        "pfupiso": "Mutu wa mwana wanu ukutenga pafupifupi theka la kutalika kwake konse. [cite: 2626] Zala za m'manja ndi m'mapazi za mwana wanu zapatukana. [cite: 2626] Khungu la mwana wanu likadali lowonekera, ndipo mafupa akuyamba kuumitsa. [cite: 2627] Ziwalo zake zoberekera zakunja zatsala pang'ono kumaliza kupangidwa. [cite: 2628]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Azimai ena amaona kusintha kwa tsitsi, zala, monga kukula msanga. [cite: 2622] Izi zimaonedwa kuti n'zachilendo. [cite: 2623] Mimba yanu ikukula ndipo ingayambitse kupweteka m'mimba mwanu. [cite: 2617] Kutuluka kwa madzi (leukorrhea) kumasonyeza kuti thupi lanu likuyesetsa kutulutsa tizilombo. [cite: 2618]",
+        "malangizo": "Ngati mulibe mavuto a mimba, mukhoza kuyenda nthawi zonse. [cite: 2630] Nthawi yabwino yoyendera ndi mu chigawo chachiwiri, chifukwa matenda a m'mawa ambiri amakhala atatha. [cite: 2631]",
+        "zakukonzekera": "Ngati mumadwala matenda a m'mawa, mwina mwaonda. [cite: 2633] Osadandaula, azimai ambiri amangowonjezera 1.3 mpaka 1.8 kg mu chigawo choyamba. [cite: 2633]"
+      }
+    },
+    {
+      "sabata": 12,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 8 cm [cite: 2642]",
+        "ulemera": "28 g [cite: 2642]",
+        "pfupiso": "Maso akuyenda pafupi ndi mphuno ndipo makutu akuyenda pafupi ndi malo awo omaliza. [cite: 2643] Matumbo a mwana wanu akuyamba kubwerera mu mimba mwake. [cite: 2644]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Chiberekero chanu chikupitiriza kukula, ndipo adotolo anu akhoza kuchimva tsopano m'mimba mwanu. [cite: 2639] Mungazindikire kuti zovala zanu sizikukwanira bwino. [cite: 2640] Kuchuluka kwa magazi kumawonjezeka ndi 50% pa mimba, ndipo chizindikiro chimodzi ndi mizere yowonekera pakhungu. [cite: 2636, 2637]",
+        "malangizo": "Azimai ambiri amapindula ndi masewera olimbitsa thupi a Kegel, omwe amathandiza kulimbitsa minofu ya ukazi, kuthandiza pa nthawi yobereka, ndi kulimbitsa minofu pambuyo pobereka. [cite: 2646, 2647]",
+        "zakukonzekera": "Ndi nthawi yabwino kuyang'ana zakudya zanu ndikuonetsetsa kuti inu ndi mwana wanu mukupeza zakudya zofunika. [cite: 2649] Pewani zakudya zopanda thanzi, kudya usiku, ndi zakudya zamafuta. [cite: 2652, 2653, 2654]"
+      }
+    },
+    {
+      "sabata": 13,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 9.5 cm [cite: 2665]",
+        "ulemera": "35 g [cite: 2665]",
+        "pfupiso": "Mwana wanu tsopano ali ndi zala zosiyana. [cite: 2657] Mutu wa mwana wanu unali gawo lalikulu la thupi lake, koma izi zikuyamba kusintha. [cite: 2666] Khungu lake lili ndi tsitsi lofewa, lotchedwa lanugo. [cite: 2667]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Mikwingwirima ya mimba (stretch marks) ikhoza kuyamba kuonekera pa mimba, mabere, m'chiuno, kapena kumaliseche. [cite: 2662] Matenda anu a m'mawa angayambe kuchepa, koma mungakhale ndi kutentha kwa chifuwa pafupipafupi. [cite: 2663] Mutha kumva chizungulire masana. [cite: 2658]",
+        "malangizo": "Pafupifupi 90% ya azimai oyembekezera amakhala ndi mikwingwirima ya mimba. [cite: 2669] Mutha kuchepetsa mwayi wa mikwingwirima powonjezera kulemera pang'onopang'ono. [cite: 2669] Masewera olimbitsa thupi ndi mafuta odzola amathandizanso. [cite: 2670]",
+        "zakukonzekera": "Kwa maanja ambiri, ndibwino kugonana pa mimba. [cite: 2672] Komabe, muyenera kupewa kugonana ngati muli ndi mbiri yakubereka msanga, kuchoka kwa mimba, kapena ngati madzi anu atuluka. [cite: 2672, 2673, 2674, 2675]"
+      }
+    },
+    {
+      "sabata": 14,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 10 cm [cite: 2683]",
+        "ulemera": "pafupifupi 0.05 kg [cite: 2683]",
+        "pfupiso": "Mwana wanu akupitiriza kukula ndi kukhwima. [cite: 2683] Chiwindi chake chikuyamba kupanga bile, ndipo mtima wake ukuyamba kupanga magazi. [cite: 2684]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Zovala za mimba zingakhale zofunikira kwa anthu ena panthawiyi. [cite: 2681] Azimai ambiri amati amakhala ndi chilakolako chowonjezereka, mphamvu yatsopano, ndi chilakolako chogonana kwambiri. [cite: 2679]",
+        "malangizo": "Mungazindikire kuti muli ndi zipsera zatsopano. [cite: 2686] Ngakhale kusintha kumeneku kungakhale chifukwa cha mimba, ndi bwino kuti adotolo anu ayese zipserazi. [cite: 2686]",
+        "zakukonzekera": "Mutha kumva kusinthasintha kwa maganizo pa nthawi ino ya mimba yanu. [cite: 2688] Musadandaule, izi zimachitika pa mimba. [cite: 2688]"
+      }
+    },
+    {
+      "sabata": 15,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 12 cm [cite: 2696]",
+        "ulemera": "57 g [cite: 2696]",
+        "pfupiso": "Khungu la mwana wanu ndi lochepa kwambiri, ndipo mitsempha ya magazi ingaoneke. [cite: 2697] Mafupa a mwana wanu akuyamba kuumitsa, zomwe zikutanthauza kuti ngati atatengedwa chithunzi cha x-ray, fupa lingaoneke. [cite: 2698]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Kulemera kwapakati pa sabata ino ndi pafupifupi 2.27 kg. [cite: 2694] Mutha kukhala ndi mphuno yotsekeka, kupweteka kwa miyendo, ndi kumva kwinanso. [cite: 2692]",
+        "malangizo": "Azimai ambiri amakhala ndi mafunso okhudza malo ogonera pa mimba. [cite: 2700] Ndi bwino kuyamba kugona m'mbali. [cite: 2700] Kugona chagada kumachititsa chiberekero chanu kupondereza mitsempha ya magazi. [cite: 2701]",
+        "zakukonzekera": "Adotolo anu adzayamba kupima chiberekero chanu pamene mukupita ku msonkhano wanu. [cite: 2705] Uwu ndi mtunda pakati pa fupa lanu la m'chiuno ndi pamwamba pa chiberekero chanu. [cite: 2706]"
+      }
+    },
+    {
+      "sabata": 16,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 13.5 cm [cite: 2714]",
+        "ulemera": "0.07 kg [cite: 2714]",
+        "pfupiso": "Mwana wanu akukonzekera kukula msanga m'masabata otsatira. [cite: 2715]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Chiberekero chanu chikupitiriza kukula ndipo chikulemera pafupifupi 0.25 kg. [cite: 2712] Thupi lanu likupanga madzi ochulukirapo a 'amniotic' omwe amathandiza kuteteza mwana wanu. [cite: 2712] Pafupifupi 90% ya azimai oyembekezera amakumana ndi kuda kwa khungu. [cite: 2709]",
+        "malangizo": "Mutha kumva kuyenda koyamba kwa mwana wanu pakati pa sabata 16 ndi 20. [cite: 2717] Ngati iyi ndi mimba yanu yoyamba, zingatenge mpaka sabata 20. [cite: 2717]",
+        "zakukonzekera": "Adotolo anu angakulimbikitseni zoyesera kapena kupimitsa monga Ultrasound ndi Alpha-Feta Protein (AFP). [cite: 2719, 2720, 2721]"
+      }
+    },
+    {
+      "sabata": 17,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 14.5 cm [cite: 2729]",
+        "ulemera": "0.11 kg [cite: 2729]",
+        "pfupiso": "Chingwe cha mchombo chikukulanso ndipo chikuyamba kukhala cholimba. [cite: 2730] Kumva kwa mwana wanu kukukulanso. [cite: 2730]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Pamene mimba yanu ikupitiriza kukula, ziwalo zina zidzasintha kuti zigwirizane ndi kukula kwa chiberekero. [cite: 2727] Kupweteka kwa msana sikungapeweke pamene muli ndi pakati. [cite: 2725]",
+        "malangizo": "Mungazindikire kuti muli ndi kupweteka kwa nthawi ndi nthawi m'miyendo yanu, komwe kumatchedwa kupweteka kwa 'sciatic nerve.' [cite: 2732] Ndiwo mtsempha waukulu kwambiri m'thupi. [cite: 2733]",
+        "zakukonzekera": "Mukayamba mimba, mungazindikire kuti matupi anu amayabwa kwambiri kuposa kale. [cite: 2735]"
+      }
+    },
+    {
+      "sabata": 18,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 16 cm [cite: 2745]",
+        "ulemera": "0.16 kg [cite: 2745]",
+        "pfupiso": "Choteteza chotchedwa 'myelin' chikuyamba kupangidwa mozungulira mitsempha ya mwana wanu. [cite: 2746]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Anthu ambiri akhoza kuzindikira kuti muli ndi pakati. [cite: 2742] Pali zosintha zambiri zomwe zikuchitika mkati mwa thupi lanu. [cite: 2743] Muyembekezere kuonjezera kulemera mpaka mutabereka (pafupifupi 0.45 kg pa sabata). [cite: 2740]",
+        "malangizo": "Azimai ambiri oyembekezera amaona kuti ndi zovuta kudutsa tsikulo popanda kugona masana. [cite: 2748] Ngati ndinu mayi wokhalira pakhomo, pezani nthawi yopuma. [cite: 2749]",
+        "zakukonzekera": "Ambiri a inu mukuyembekezera nthawi yanu yachitatu yochezera adotolo. [cite: 2751] Mutha kupatsidwa 'sonogram' yoyambira kapena 'level II sonogram.' [cite: 2752]"
+      }
+    },
+    {
+      "sabata": 19,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 17.8 cm [cite: 2761]",
+        "ulemera": "0.20 kg [cite: 2761]",
+        "pfupiso": "Mwana wanu akupitirira kukula. [cite: 2763] Impso zake zikupanga mkodzo, ndipo tsitsi likuyamba kumera pa mutu wa mwana wanu. [cite: 2764]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Kupweteka kwa m'mimba kumakhalapo pa trimester yachiwiri. [cite: 2759] Ichi ndi kupweteka kwakukulu m'mimba kapena m'chiuno. [cite: 2759] Kudzimbidwa (constipation) kungachitikenso pamene mwana akukankha m'matumbo anu. [cite: 2757]",
+        "malangizo": "Chizungulire pa mimba chimayambitsidwa ndi kuthamanga kwa magazi (hypotension). [cite: 2766] Mutha kupewanso chizungulire poyimirira pang'onopang'ono. [cite: 2767]",
+        "zakukonzekera": "Tsopano popeza muli ndi pakati, ndikofunikira kusamala ndi zitsamba zomwe mumagwiritsa ntchito. [cite: 2769] Tikukulimbikitsani kuti musamwe zitsamba zilizonse musanalankhule ndi adotolo wanu. [cite: 2770]"
+      }
+    },
+    {
+      "sabata": 20,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 19.7 cm [cite: 2779]",
+        "ulemera": "pafupifupi 0.26 kg [cite: 2779]",
+        "pfupiso": "Mwana wanu waphimbidwa ndi chinthu choyera chotchedwa 'vernix caseosa,' chomwe chimathandiza kuteteza khungu la mwana wanu. [cite: 2780]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Pamwamba pa chiberekero chanu tsopano chili pa mlingo womwewo ndi pakati pa mimba yanu. [cite: 2776] Mwina mwawonjezera pafupifupi 3.6 mpaka 4.5 kg. [cite: 2777] Nthawi zambiri panthawiyi mumakhala ndi kupweteka kwa miyendo, kutupa kwa manja ndi mapazi, ndi vuto la kugona. [cite: 2774]",
+        "malangizo": "Ndikofunikira kuonetsetsa kuti mukudya zakudya zokwanira, makamaka chitsulo (iron). [cite: 2782] Chitsulo chimathandiza kupewa 'anemia,' kulemera kochepa pa kubadwa, ndi kubereka msanga. [cite: 2783]",
+        "zakukonzekera": "Ndi nthawi yoti muyambe kuganizira za kubereka kwa mwana wanu. [cite: 2785] Kupanga dongosolo lobereka kungakuthandizeni kulankhula zofuna zanu bwino. [cite: 2786]"
+      }
+    },
+    {
+      "sabata": 21,
+      "kukula_kwa_mwana": {
+        "utali": "21.6 cm [cite: 2797]",
+        "ulemera": "pafupifupi 0.34 kg [cite: 2797]",
+        "pfupiso": "Mwana wanu tsopano akuyezedwa kuchokera ku mutu mpaka ku chidendene. [cite: 2796] Zikope za mwana wanu zamaliza kupangidwa sabata ino, ndipo akuyenda kwambiri. [cite: 2798]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Ngati mukuyika zala zanu pafupifupi inchi imodzi pamwamba pa mimba yanu, mungathe kumva chiberekero chanu. [cite: 2793] Chiberekero chomwe chikukula chingathenso kuyika mphamvu pa mapapu anu, zomwe zimayambitsa kupuma movutikira. [cite: 2791]",
+        "malangizo": "Matenda a mkodzo (UTI) ndi ambiri pa mimba. [cite: 2800] Pamene chiberekero chikukula, kulemera kwake kungatsekeze kutuluka kwa mkodzo, zomwe zimayambitsa matenda. [cite: 2801] Mutha kuchepetsa mwayi wa UTI pomwa magalasi 6-8 a madzi tsiku lililonse. [cite: 2802]",
+        "zakukonzekera": "Mungazindikire kuti mukuyamba kukhala ndi mitsempha yotupa (varicose veins), yomwe imachitika kwa azimayi ambiri. [cite: 2806]"
+      }
+    },
+    {
+      "sabata": 22,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 25 cm [cite: 2815]",
+        "ulemera": "0.4 kg [cite: 2815]",
+        "pfupiso": "Mwana wanu akuwoneka ngati mwana wakhanda koma wocheperako. [cite: 2815] Khungu la mwana wanu limawoneka lopindika, koma izi ndi chifukwa chakuti sanapeze kulemera kokwanira. [cite: 2816]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Mutha kumva pamwamba pa chiberekero chanu pafupifupi 2 cm pamwamba pa mchombo wanu. [cite: 2812] Ngakhale mukulemera, mwina mukuwoneka wokongola! [cite: 2810] Mimba nthawi zambiri imachititsa tsitsi kukhala lolimba komanso lonyezimira. [cite: 2810]",
+        "malangizo": "Azimai ambiri amayamba kuda nkhawa za kubereka msanga, makamaka ngati ayamba kumva kupweteka kwa m'mimba ndi msana. [cite: 2818] Izi zingakhale zachilendo kapena zingasonyeze kubereka msanga. [cite: 2819]",
+        "zakukonzekera": "Ngati simunakonzerebe makalasi a maphunziro obereka, ndi nthawi yoti muchite izi. [cite: 2821] Makalasiwa amapereka zambiri zolondola zomwe muyenera kuyembekezera pa nthawi yobereka. [cite: 2822]"
+      }
+    },
+    {
+      "sabata": 23,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 28 mpaka 36 cm [cite: 2831]",
+        "ulemera": "0.45 kg [cite: 2831]",
+        "pfupiso": "Mwana wanu akupitiriza kuonjezera kulemera. [cite: 2832] Tsitsi lofewa (lanugo) lomwe likuphimba thupi lake likhoza kuda, kulola kuti lioneke pa ultrasound. [cite: 2832]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Chiberekero chanu tsopano chili pafupifupi 3.8 cm pamwamba pa mchombo wanu, ndipo kulemera kwanu kuyenera kukhala pakati pa 5.4 mpaka 6.8 kg. [cite: 2829] Mimba yanu ikukula ndipo imatha kupangitsa mchombo wanu kutuluka, koma uzabwerera mwakale mutabereka. [cite: 2826]",
+        "malangizo": "Kumwa zakumwa zambiri, makamaka madzi, ndikofunikira kwambiri pa mimba. [cite: 2834] Ngati mukumwa madzi okwanira, mkodzo wanu uyenera kukhala wachikasu pang'ono kapena woyera. [cite: 2834]",
+        "zakukonzekera": "Ngati mukugwira ntchito, muyenera kumaliza makonzedwe a tchuthi chanu cha amayi. [cite: 2837] Onetsetsani kuti mwalankhula ndi bwana wanu. [cite: 2838]"
+      }
+    },
+    {
+      "sabata": 24,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 32 cm [cite: 2847]",
+        "ulemera": "0.6 mpaka 0.7 kg [cite: 2847]",
+        "pfupiso": "Ubongo wa mwana wanu ukukula mofulumira panthawiyi. [cite: 2847] Mapapu akuyamba kupangidwa bwino kuti agwire ntchito. [cite: 2848]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Mutha kumva pamwamba pa chiberekero chanu pafupifupi 5 cm kuchokera pa mchombo wanu. [cite: 2844] Khungu pa mimba ndi mabere anu likutambasuka, zomwe zingachititse kunyezimira. [cite: 2845]",
+        "malangizo": "Ngati muli ndi vuto la kutentha m'chifuwa, mungayesere kudya zakudya zochepa tsiku lonse. [cite: 2850] Kudya kasanu kapena kasanu ndi kamodzi patsiku kumachepetsa kutentha kwa chifuwa. [cite: 2851]",
+        "zakukonzekera": "Pakati pa sabata 24 ndi 28, madokotala ambiri amachita 'glucose screening test' [cite: 2853] kuti aone shuga m'magazi (gestational diabetes). [cite: 2854]"
+      }
+    },
+    {
+      "sabata": 25,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 33 cm [cite: 2863]",
+        "ulemera": "0.7 mpaka 0.8 kg [cite: 2863]",
+        "pfupiso": "Mwana wanu akuyamba kuwonjezera mafuta. [cite: 2863] Ngati mwana wanu ali ndi tsitsi, mtundu wake ungawoneke panthawiyi. [cite: 2864] Jenda la mwana wanu lingadziwike ndi ultrasound, amniocentesis, CVS, kapena NIPT. [cite: 2865]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Chiberekero chanu chili pafupifupi kukula kwa mpira wa miyendo. [cite: 2861] Mungakhale mukuvutika ndi 'carpal tunnel syndrome,' yomwe imachitika chifukwa cha kutupa. [cite: 2858]",
+        "malangizo": "Mungayambe kuganizira za maina a mwana. [cite: 2867] Inu ndi mwamuna wanu mukhoza kukhala munakambirana kale. [cite: 2868]",
+        "zakukonzekera": "Mungayesedwe kupanga ultrasound ya chikumbutso, koma pali nkhawa za thanzi zomwe muyenera kuziganizira. [cite: 2870, 2871]"
+      }
+    },
+    {
+      "sabata": 26,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 34 cm [cite: 2881]",
+        "ulemera": "0.9 kg [cite: 2881]",
+        "pfupiso": "Chitukuko chomwe chikuchitika ndi chofunikira kwambiri pamene mwana wanu akukonzekera kubadwa. [cite: 2882]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Pamwamba pa chiberekero chanu pamveka pafupifupi 6.3 cm pamwamba pa mchombo wanu. [cite: 2877] Pa mimba yanu yonse, mudzaonjezera pafupifupi 1.25 cm pa sabata. [cite: 2878] Kulemera kwanu kuyenera kukhala pakati pa 7.25 mpaka 10 kg. [cite: 2879]",
+        "malangizo": "FDA imalimbikitsa kudya nsomba zochepa za mercury pa sabata. [cite: 2884] Pali mitundu inayi ya nsomba yomwe siyenera kudyedwa, monga mackerel. [cite: 2885]",
+        "zakukonzekera": "Pa nthawi yanu yotsatira, muyenera kukhala okonzekera kupimitsidwa magazi, shuga, ndi kukambirana za mdulidwe. [cite: 2887, 2888, 2889, 2890]"
+      }
+    },
+    {
+      "sabata": 27,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 35 cm [cite: 2901]",
+        "ulemera": "1 kg [cite: 2901]",
+        "pfupiso": "M'masabata 27 mpaka 28, ana amatha kutsegula ndi kutseka maso awo. [cite: 2902] Mwana wanu wapanga kale nthawi yake yakuuka ndi kugona. [cite: 2902]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Panthawiyi, mutha kumva mwana wanu akuyenda kwambiri. [cite: 2899] Azimai ena amakhala ndi 'hemorrhoids' (kupweteka panjira yopita ku chimbudzi) chifukwa cha kuchuluka kwa magazi. [cite: 2896, 2897]",
+        "malangizo": "Ngati muli ndi galimoto, tikukulimbikitsani kupeza mpando wa galimoto wa mwana. [cite: 2904] Ndi nthawi yoti muyambe kufunafuna umodzi. [cite: 2905]",
+        "zakukonzekera": "Ngati simunakonzerebe makalasi a maphunziro obereka, ino ndi nthawi yake. [cite: 2907] Muyenera kumaliza pamene muli pa sabata 37. [cite: 2907]"
+      }
+    },
+    {
+      "sabata": 28,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 36 cm [cite: 2915]",
+        "ulemera": "1.13 kg [cite: 2915]",
+        "pfupiso": "Ubongo wa mwana wanu ukuyamba kukhala chiwalo chogwira ntchito kwambiri. [cite: 2916] Tsitsi la mwana wanu likukulirakulira. [cite: 2916]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Sabata iliyonse chiberekero chanu chikupitiriza kukula. [cite: 2913] Kulemera kwanu kuyenera kukhala pakati pa 7.7 mpaka 10.8 kg. [cite: 2913] Pamene mukufika kumapeto, mudzayamba kumva kutopa kwambiri. [cite: 2911]",
+        "malangizo": "Muyenera kuyamba kupanga makonzedwe a ulendo wopita ku chipatala. [cite: 2918] Izi zitha kukhala zothandiza ngati mwana wanu abwera msanga. [cite: 2919]",
+        "zakukonzekera": "Pa nthawi yanu yotsatira, muyenera kukhala okonzeka kulandira mankhwala (Rhogam) ngati magazi anu ali ndi negative Rh Factor, komanso kukambirana za kayendedwe ka mwana. [cite: 2921, 2922, 2923]"
+      }
+    },
+    {
+      "sabata": 29,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 37 cm [cite: 2934]",
+        "ulemera": "1.25 kg [cite: 2934]",
+        "pfupiso": "Mwana wanu akukula mofulumira. [cite: 2934] Mutu wake ukukula chifukwa cha kukula kwa ubongo komwe kunayamba sabata 28. [cite: 2935] Minofu ndi mapapo akupitiriza kukhwima. [cite: 2935]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Kulemera kwanu kuyenera kukhala pakati pa 8.6 mpaka 11.3 kg. [cite: 2931] Kudzimbidwa (constipation) kumabwera pa mimba. [cite: 2932] Mungazindikire mkaka wachikasu (colostrum) ukutuluka m'mabere anu. [cite: 2928]",
+        "malangizo": "A Dawa community healthcare worker amathandiza amayi kukhala ndi mimba yabwino komanso yotetezeka. [cite: 2937]",
+        "zakukonzekera": "Nawa malangizo ochepa oti muthandizire kupewa kudzimbidwa: idyani zakudya zambiri zamasamba ndi zipatso, imwani madzi ambiri, chitani masewera olimbitsa thupi, ndipo pewani kumwa mankhwala a chitsulo. [cite: 2939, 2940, 2941, 2942, 2943]"
+      }
+    },
+    {
+      "sabata": 30,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 38.5 cm [cite: 2952]",
+        "ulemera": "pafupifupi 1.4 kg [cite: 2952]",
+        "pfupiso": "Mwana wanu tsopano akhoza kusiyanitsa pakati pa kuwala ndi mdima. [cite: 2954]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Mungayambe kuzindikira kuti mumatopa mosavuta. [cite: 2949] Mafupa anu angayambe kukhala otayirira. [cite: 2949] Izi zingachititse kuti mapazi anu akule. [cite: 2949] Mikwingwirima ya mimba ikuyamba kuonekera kwambiri. [cite: 2947]",
+        "malangizo": "Azimayi ambiri pa nthawi ino amanena za kuchuluka kwa kupweteka kwa msana, komwe kumagwirizana ndi kulemera ndi kukula kwa mwana. [cite: 2956, 2957]",
+        "zakukonzekera": "Ndi nthawi yoti muyambe kuganizira za mitundu yosiyanasiyana ya njira zochepetsera ululu yomwe idzakhalepo mukabereka. [cite: 2959]"
+      }
+    },
+    {
+      "sabata": 31,
+      "kukula_kwa_mwana": {
+        "utali": "kuposa 39.4 cm [cite: 2968]",
+        "ulemera": "pakati pa 1.6 mpaka 1.8 kg [cite: 2968]",
+        "pfupiso": "Mwana wanu akupitiriza kupanga mafuta pansi pa khungu. [cite: 2969] Izi zimapatsa mwana wanu mawonekedwe a mwana wakhanda. [cite: 2969]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Mutha kuzindikira kuti madzi achikasu (colostrum) ayamba kutuluka m'mabere anu. [cite: 2965] Azimai ambiri amayamba kumva 'Braxton Hicks contractions' m'masabata omalizira a mimba. [cite: 2966] Zizindikiro zina za mimba za chigawo choyamba zingabwerenso. [cite: 2963]",
+        "malangizo": "'Hemorrhoids' si zachilendo pa mimba. [cite: 2971] Ndi mitsempha yotupa panjira yopita ku chimbudzi ndipo nthawi zambiri imakhala yopweteka. [cite: 2971]",
+        "zakukonzekera": "Kodi mwasankha ngati muyamwitsa kapena kugwiritsa ntchito botolo? [cite: 2973] Kufufuza pazosankha zanu kudzathandiza kupanga chisankho chabwino. [cite: 2974]"
+      }
+    },
+    {
+      "sabata": 32,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 40.6 cm [cite: 2984]",
+        "ulemera": "pakati pa 1.8 mpaka 2 kg [cite: 2984]",
+        "pfupiso": "Zala za m'mapazi ndi m'manja zapangidwa, ndipo mapapo akupitiriza kukhwima. [cite: 2985] Mafupa a mwana wanu onse apangidwa. [cite: 2985]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Pamwamba pa chiberekero chanu tsopano chikhoza kukhala utali pafupifupi 12.7 cm pamwamba pa mchombo wanu. [cite: 2981] Chifukwa chakuti chiberekero chanu chili chokwera, mungayambe kuvutika kupuma. [cite: 2982] Thupi lanu lingapangenso 'Braxton Hicks contractions.' [cite: 2978]",
+        "malangizo": "Ngati mukumva 'Braxton Hicks contractions,' pali njira zingapo zomwe mungayesere kuti muchepetse: sinthani malo okhala, sambani m'madzi ofunda, kapena imwani makapu angapo a madzi. [cite: 2987, 2988, 2989, 2990]",
+        "zakukonzekera": "Dokotala wanu adzakupemphani kuti muyambe kupita masabata awiri aliwonse. [cite: 2994]"
+      }
+    },
+    {
+      "sabata": 33,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 42 cm [cite: 3002]",
+        "ulemera": "pakati pa 2 mpaka 2.3 kg [cite: 3002]",
+        "pfupiso": "Khungu la mwana wanu likuyamba kuwoneka lopanda makwinya. [cite: 3003] Mafupa akuyamba kuumitsa kupatula fupa la mutu, lomwe liyenera kukhala lofewa pa nthawi yobereka. [cite: 3003]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Pamwamba pa chiberekero chanu chili pafupifupi 12.7 cm kuchokera pa mchombo wanu. [cite: 2999] Kulemera kwanu kuyenera kukhala pakati pa 10 mpaka 12.7 kg. [cite: 3000] Mwana wanu akukula ndipo akupitiriza kupondereza ziwalo zanu, zomwe zimayambitsa kupuma movutikira. [cite: 2997]",
+        "malangizo": "Ndi kotetezeka kugonana malinga ngati adotolo anu sanakuuzeni china. [cite: 3005]",
+        "zakukonzekera": "Nthawi yanu yotsatira ndi nthawi yabwino kukambirana za 'episiotomy' (kuchekedwa kokulitsa pakamwa pa ukazi) ndi adotolo anu. [cite: 3007, 3008]"
+      }
+    },
+    {
+      "sabata": 34,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 44.5 cm [cite: 3016]",
+        "ulemera": "pafupifupi 2.3 mpaka 2.5 kg [cite: 3016]",
+        "pfupiso": "Mafuta omwe ali pansi pa khungu adzathandiza mwana wanu kuwongolera kutentha kwa thupi pambuyo pobadwa. [cite: 3018]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Pamwamba pa chiberekero chanu tsopano chikhoza kumveka pafupifupi 14 cm pamwamba pa mchombo wanu. [cite: 3013] Kuchuluka kwa madzi a 'amniotic' kumafika pachimake pakati pa masabata 34 ndi 36. [cite: 3014]",
+        "malangizo": "Gawo loyamba la kubereka limayamba pa nthawi ya kubereka kotsimikizika ndipo limatha mpaka khomo la chiberekero litatseguka mpaka 10 cm. [cite: 3020] Gawo lachiwiri limapitilira mpaka kubereka kwa mwana. [cite: 3021] Gawo lachitatu limaphatikizapo kubereka kwa placenta. [cite: 3022]",
+        "zakukonzekera": "Panthawiyi madokotala ambiri amayamba kukambirana ndi odwala awo za kupimitsa 'Group B Strep,' njira zowongolera ululu, ndi kubereka mwa 'Cesarean section.' [cite: 3026, 3027, 3030, 3031]"
+      }
+    },
+    {
+      "sabata": 35,
+      "kukula_kwa_mwana": {
+        "utali": "pakati pa 43.2 mpaka 45.7 cm [cite: 3043]",
+        "ulemera": "2.5 mpaka 2.7 kg [cite: 3043]",
+        "pfupiso": "Chitukuko chambiri cha mwana wanu chimatha pa sabata 35. [cite: 3044] Impso zake zimapangidwa bwino, ndipo chiwindi chikuyamba kukonza zinyalala. [cite: 3044]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Pali pafupifupi 15.2 cm kuchokera pa mchombo wanu mpaka pamwamba pa chiberekero. [cite: 3039] Muyenera kukhala mutalemera pakati pa 10.9 mpaka 13.2 kg. [cite: 3040] Kulemera kwanu kungayambe kukhazikika pa sabata 35, ndipo kusowa tulo kuyamba kumveka. [cite: 3037]",
+        "malangizo": "Muyenera kuyamba kupeza dokotala wa ana (pediatrician). [cite: 3046] Lankhulani ndi dokotala wanu, namwino, banja, ndi abwenzi. [cite: 3047]",
+        "zakukonzekera": "Pakati pa masabata 35 ndi 36, dokotala wanu mwina akufuna kuyamba kukuwonani sabata iliyonse mpaka mutabereka. [cite: 3049] Angakulimbikitseni kuyamba kuwerengera kukankha kwa mwana wanu. [cite: 3050]"
+      }
+    },
+    {
+      "sabata": 36,
+      "kukula_kwa_mwana": {
+        "utali": "pakati pa 44.5 mpaka 48.3 cm [cite: 3060]",
+        "ulemera": "2.6 mpaka 3.1 kg [cite: 3060]",
+        "pfupiso": "Tsitsi lofewa ('lanugo') lomwe laphimba khungu la mwana wanu likuyamba kutha, [cite: 3061] pamodzi ndi 'vernix caseosa,' chinthu chokoma chomwe chateteza khungu lake. [cite: 3062]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Mwana wanu akupitiriza kuonjezera kulemera (pafupifupi 28g patsiku), koma mwina simudzazindikira kusintha kwa kulemera kwanu. [cite: 3057] Mungazindikire kuchuluka kwa 'Braxton Hicks contractions.' [cite: 3058] Pafupifupi masabata awiri mpaka anayi musanabereke, mwana wanu adzayamba kutsika m'chiuno chanu ('lightening'). [cite: 3054]",
+        "malangizo": "Ngati mabere anu amakuchititsani kukhala osamasuka usiku, mungayambe kugona mu bra yoyamwitsa. [cite: 3065]",
+        "zakukonzekera": "Mukakhala ndi nthawi yokumana ndi adotolo, muyenera kukhala okonzeka ndi khadi yanu ya inshuwaransi, zovala zopita nazo kunyumba, ndi zovala za mwana monga mpando wa galimoto ndi matewera. [cite: 3068, 3069, 3070, 3071, 3072, 3073, 3074]"
+      }
+    },
+    {
+      "sabata": 37,
+      "kukula_kwa_mwana": {
+        "utali": "pafupifupi 45.7 cm [cite: 3083]",
+        "ulemera": "2.7 mpaka 3.2 kg [cite: 3083]",
+        "pfupiso": "Ngakhale mwana wanu amaganiziridwa kuti ndi 'full-term' pambuyo pa sabata ino, nthawi zambiri zimakhala bwino kuti mwanayo akhalebe m'chiberekero mpaka akakonzeka. [cite: 3084]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Kulemera kwanu kuyenera kukhala pafupifupi 11.3 mpaka 15.9 kg. [cite: 3081] Kuchuluka kwa madzi a 'amniotic' kumayamba kuchepa pa sabata 37. [cite: 3081] Mungathenso kutulutsa 'mucus plug.' [cite: 3076] Mungazindikire kutuluka kwa magazi pang'ono mukatha kugonana. [cite: 3078]",
+        "malangizo": "Ngati pali kukonzekera komaliza komwe kuyenera kumalizidwa mwana wanu asanabwere, ino ndi nthawi yabwino kumaliza. [cite: 3086, 3087]",
+        "zakukonzekera": "Muyenera kumaliza maphunziro a kubereka ndikukonzekera chilichonse cha mwana wanu. [cite: 3089] Onetsetsani kuti thumba lanu ladzaza, ndipo mungafune kuyesa kuyendetsa galimoto kupita ku chipatala. [cite: 3090]"
+      }
+    },
+    {
+      "sabata": 38,
+      "kukula_kwa_mwana": {
+        "utali": "pakati pa 43.2 mpaka 50.8 cm [cite: 3099]",
+        "ulemera": "2.8 mpaka 3.4 kg [cite: 3099]",
+        "pfupiso": "Ubongo ndi mapapo a mwana wanu akhoza kugwira ntchito kunja kwa chiberekero, ngakhale adzapitiriza kukhwima pa ubwana wawo. [cite: 3100]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Mungakumane ndi kutupa kwa mapazi anu, komwe kungakhale gawo la mimba. [cite: 3096] Komabe, ngati kutupa kuli kwakukulu kapena kwadzidzidzi m'manja, kumaso, kapena m'miyendo, muyenera kuimbira adotolo anu foni. [cite: 3097]",
+        "malangizo": "Ngati mwana wanu akuganiziridwa kuti ali m'malo olakwika (breech), mungafunike 'sonogram' ina kuti mutsimikizire. [cite: 3102] Izi zingakupatseni mwayi womalizira wowona mwana wanu asanabadwe. [cite: 3103]",
+        "zakukonzekera": "Adotolo anu ayenera kukambirana nanu za amene mungaimbire foni mukaganiza kuti muli pa nthawi yobereka. [cite: 3105, 3106]"
+      }
+    },
+    {
+      "sabata": 39,
+      "kukula_kwa_mwana": {
+        "utali": "pakati pa 45.7 mpaka 52 cm [cite: 3117]",
+        "ulemera": "pafupifupi 2.9 mpaka 3.6 kg [cite: 3117]",
+        "pfupiso": "Mwana wanu akupitiriza kupanga mafuta pansi pa khungu. [cite: 3118] Ichi ndi gawo lofunikira kuti mwana azitha kuwongolera kutentha kwa thupi. [cite: 3118]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Mwina simunawonjezere kulemera kulikonse pa sabata kapena ziwiri zapitazi. [cite: 3114] Pamene mukufika kumapeto kwa mimba, khomo la chiberekero chanu lidzatsekuka. [cite: 3115] Zizindikiro zoyambirira za kubereka zimaphatikizapo 'contractions' zanthawi zonse, kupanikizika m'chiuno, ndi kupweteka kwa msana. [cite: 3112]",
+        "malangizo": "Pitirizani kuyang'anira mayendedwe a mwana wanu. [cite: 3120] Adotolo ambiri angakulimbikitseni kupitiriza kuwerengera mayendedwe a mwana. [cite: 3120]",
+        "zakukonzekera": "Panthawiyi, muyenera kukonzekera kutenga zinthu mosavuta. [cite: 3122] Tengani nthawi nokha, ndi mwamuna wanu, komanso ndi banja lanu. [cite: 3123]"
+      }
+    },
+    {
+      "sabata": 40,
+      "kukula_kwa_mwana": {
+        "utali": "pakati pa 48.3 mpaka 53.3 cm [cite: 3132]",
+        "ulemera": "3 mpaka 4.5 kg [cite: 3132]",
+        "pfupiso": "Mafupa a mwana wanu akhala olimba, kupatula fupa la mutu. [cite: 3133] Fupa la mutu liyenera kukhala lofewa kuti lizitha kudutsa mu njira yoberekera. [cite: 3134]"
+      },
+      "zosintha_kwa_mayi": {
+        "zosintha_za_thupi": "Pamene mukukankha, mutu wa mwana wanu udzayamba kuonekera. [cite: 3129] Pamene mutu wake ukhalabe wowonekera, zimadziwika kuti 'crowning.' [cite: 3130] Mudzapitiriza kumva zizindikiro monga kusowa tulo, kutupa, ndi kutunda pafupipafupi mpaka mwana atabwera. [cite: 3126]",
+        "malangizo": "Nthawi yomweyo pambuyo pobereka, mwana wanu adzapatsidwa mayeso ake oyamba, APGAR, omwe ndi kuunika kwachangu kwa thanzi la mwana wakhanda. [cite: 3136, 3137]",
+        "zakukonzekera": "Pa nthawi yanu yomalizira yokumana ndi dokotala, konzekerani mayeso monga Non-stress test ndi Amniotic Fluid Index. [cite: 3139, 3141, 3142] Adokotala adzakambirana nanu za kuthekera kopitilira tsiku lanu lobereka, kuyambitsa kubereka (induction), kapena kubereka mwa Cesarean. [cite: 3144, 3146, 3147, 3148]"
+      }
+    }
+  ]
+}

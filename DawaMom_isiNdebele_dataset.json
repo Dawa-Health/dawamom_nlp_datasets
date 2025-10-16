@@ -1,0 +1,534 @@
+{
+  "dataset": "NLP Maternal Health Dataset",
+  "language": "Ndebele",
+  "authors": [
+    "Zanele Dube",
+    "Vezilizwi Maphosa",
+    "Sibongikhosi Moyo",
+    "Talent Mujombi",
+    "Nobukhosi Ndlovu"
+  ],
+  "license": "CC-BY-4.0",
+  "pregnancy_data_isindebele": [
+    {
+      "iviki": 1,
+      "ukukhula_komntwana": {
+        "ubude": null,
+        "isisindo": null,
+        "isifingqo": "Emavikini amabili okuqala, awukazithwali okweqiniso[cite: 3]. Umntwana kakaqalisi ukukhula ngalesi sikhathi[cite: 8]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Uzakuba lezibonakaliso ojayele ukuba lazo ngamalanga usesikhathini, ezigoqela ukuphuma igazi, ubuhlungu besisu lamabele, lokuntshintsha komzimba[cite: 6]."
+      },
+      "izixwayiso": "Kuzamele untshitshe indlela obuphila ngayo ukuze ube lomntwana olempilakahle, okugoqela ukuzivocavoca umzimba, ukudla ukudla okwakha umzimba, lokunatha amavitamins le Folic acid[cite: 10, 12, 13, 14, 15]. Uyaxwayiswa ukuthi wehlukane letshwala, izidakamizwa, igwayi, le caffeine[cite: 16, 17, 18, 19, 20].",
+      "okuhlelelwe_iviki": "Hlela ukudla ukudla okwakha umzimba kanye lokuqala ukuzivocavoca umzimba[cite: 23, 24]."
+    },
+    {
+      "iviki": 2,
+      "ukukhula_komntwana": {
+        "ubude": null,
+        "isisindo": null,
+        "isifingqo": "Umntwana kakaqalisi ukukhula ngalesi isikhathi[cite: 44]. Iovulation yenzakala ngeviki yesibili[cite: 27]. Iqanda lihlala amahola ayi 12 kusiya ku 24 ngemva kwe ovulation[cite: 30]. Iqanda lijwayele ukulungiswa lilodwa, kodwa kuyenzeka libe mabili okubangela amaphahla[cite: 31]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Izibonakaliso zeOvulation zigoqela ubuhlungu ngaphansi kwesisu, ubuhlungu bamabele, ukuphumisa amanzi amhlophe ngaphansi, lokutshisa umzimba[cite: 35, 38, 39, 40, 41]. Abanye balakho ukuphumisa igazi elilutshwana[cite: 42]."
+      },
+      "izixwayiso": "Okuqakathekileyo ongakwenza yikuziphatha okomuntu ozithweleyo[cite: 46]. Lokhu kuzokuvikela wena lomntwana ezintweni ezingaphambanisa ukukhulelwa[cite: 46].",
+      "okuhlelelwe_iviki": "Hlela ukudla ukudla okwakha umzimba kanye lokuqala ukuzivocavoca umzimba[cite: 48, 49]."
+    },
+    {
+      "iviki": 3,
+      "ukukhula_komntwana": {
+        "ubude": "0.48 millimeters [cite: 63]",
+        "isisindo": null,
+        "isifingqo": "Umntwana usengalingana lekhanda lenalithi encane[cite: 63]. Inhlanyelo kababa lekamama, ngakunye kulamachromosome ayi 23, kuyahlangana kwenze umntwana olamachromosome ayi 46[cite: 56]. Kulapho okwaziwa khona ukuthi umntwana uzakuba ngumfana loba yinkazana, umbala wakhe, lowamehlo lenwele[cite: 57]. Imbeleko iyaqala ukubunjwa, yiyo ephumisa i-hCG ebanjwa ngama pregnancy test[cite: 65]. Ingqondo, ispinal cord, inhliziyo lamathumbu lazo seziqala ukuba khona[cite: 66]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Abesifazana abanengi abakunanzeleli untshintsho, kodwa abanye balakho ukuzwa ubuhlungu lokuphumisa amanzi ngaphansi[cite: 60]. Abanye bayaphumisa igazi elilutshwana[cite: 61]. Xhumana loGqiha nxa uphuma igazi elinengi ngoba kungabe kutshengisa ukuthi umntwana uhlanyeleke phandle kwesibeletho[cite: 61]."
+      },
+      "izixwayiso": "Umzimba wakho suqala ukuntshintsha kakhulu[cite: 68]. Ukhumbule ukuphumuza umzimba ngokwaneleyo lokudla okunempilo[cite: 68]. Ukucabanga kakhulu akulunganga kuwe lakumntwana[cite: 69].",
+      "okuhlelelwe_iviki": "Ukuvocavoca umzimba kuqakathekile, kodwa xoxisana loGqiha wakho kuqala[cite: 71]. Ukudla okwakha umzimba okuleprotein lecalcium kuqakathekile[cite: 73]. Wehlukane lotshwala, izidakamizwa, imithi ethize, lokubhema igwayi[cite: 74, 75, 76, 77, 80]."
+    },
+    {
+      "iviki": 4,
+      "ukukhula_komntwana": {
+        "ubude": "1.98 millimeters [cite: 92]",
+        "isisindo": null,
+        "isifingqo": "Umntwana ubunjwa yizibhebhedu ezintathu: iEctoderm, iMesoderm, leEndoderm[cite: 93]. IEctoderm izabumba ingqondo, isijwabu, inwele, lenzipho[cite: 94]. IMesoderm izakwenza inhliziyo, imithambo yegazi, lamathambo[cite: 95]. IEndoderm yona izakwenza amaphaphu, amathumbu, lesibindi[cite: 95]. Izandla lenyawo seziqalile ukubumbeka[cite: 96]. Imbeleko siqalile ukwenza amahormone agoqela i-hCG[cite: 96]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Sungaqala ukuba lezibonakaliso zokuzithwala ezigoqela ubuhlungu bamabele, ukutshaywa likhanda, ubuhlungu beqolo, lokuzizwa ufuna ukuhlanza[cite: 87]. Izibonakaliso lezi zilakho ukufana lezokuya esikhathini[cite: 88]. Abanye baqala ukuzwa iminuko lokunambitha ukudla kakhulu[cite: 84]."
+      },
+      "izixwayiso": "Amavitamins kumele abe le 0.4mg ye folic acid[cite: 99]. Unanzelele imithi engaphambanisa ukukhula komntwana, ikakhulu leyo yeHIV, iHypertension, lezifayifa (epilepsy)[cite: 101]. OMama abathatha imithi le bayaxwayiswa ukuthi babonane loGqiha masinyane[cite: 102].",
+      "okuhlelelwe_iviki": "Nxa ukuya esikhathini kwakho kuphuzile, thatha ipregnancy test[cite: 104]. Nxa ingatshengisa ukuthi uzithwele, bonana lowezempilakahle[cite: 105]. Kuqakathekile ukuqala ukudinga owezempilakahle lendawo ozabelethela kuyo[cite: 108]."
+    },
+    {
+      "iviki": 5,
+      "ukukhula_komntwana": {
+        "ubude": "3 millimeters [cite: 121]",
+        "isisindo": null,
+        "isifingqo": "Umntwana ngalesi isikhathi usafana lomntwana wexoxo[cite: 123]. Ubude bakhe bukhangelwa ukusuka ekhanda kusiya kuzihlalo (crown to rear length) kuze kufike amaviki angamatshumi amabili[cite: 121, 122]. Inhliziyo yakhe sitshaya kuhle, lezitho ezinjengamehlo lendlebe sezibunjwa[cite: 123]. Amathambo lawo seqalile ukubunjwa[cite: 123]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Imizwa izabe intshintsha kakhulu, ukuthaba lokuzonda kusenzeka kungela sizatho[cite: 117]. Ezinye izibonakaliso zigoqela ukudinwa lobuhlungu bamabele[cite: 118]. Abesifazana abafika ku 50% balakho ukuzizwa bengezwa kuhle ekuseni ('morning sickness')[cite: 115]. Nxa ukugula lokhu kukuhlupha kakhulu, xoxisana loGqiha wakho ngoba kungabe sekuyi Hyperemesis gravidarum[cite: 119]."
+      },
+      "izixwayiso": "OGqiha baxwayisa ukwengeza umzimba ngama kilogram ayi 11.3 kusiya ku 15.9[cite: 125]. Abesifazane abalemizimba emincane bangengeza ngama 15.4 kg, labo abalemizimba emikhulu ngama 9 kg[cite: 126].",
+      "okuhlelelwe_iviki": "Ngeviki yesihlanu, hlela ukuyabhalisa isisu sakho okokuqala[cite: 112]. Nxa ungakakwenzi lokhu, qhubeka wenze njalo[cite: 128]."
+    },
+    {
+      "iviki": 6,
+      "ukukhula_komntwana": {
+        "ubude": "19.05 millimeters [cite: 142]",
+        "isisindo": null,
+        "isifingqo": "Izitho esezibunjwa zigoqela amaphaphu, umhlathi, amakhala, lomlomo[cite: 143]. Izandla lenyawo sezikhula zenze iminwe lamazwane[cite: 143]. Ingqondo iyaqhubeka ikhula[cite: 143]. IUltrasound eyenziwa ngaphansi isilakho ukuzwa ukutshaya kwenhliziyo yomntwana[cite: 144]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Abanye bayengeza umzimba ngalesi sikhathi, abanye bazizwa suyehlile[cite: 136]. Ungaqala ukunanzelela ukuntshintsha kwamabele, okugoqela ubuhlungu lokuvuvuka[cite: 137]. Ungaqala ukuzwa isilungulela[cite: 137]. Abanye babona igazi elincane elilandelwa yibuhlungu besisu kancane, kodwa nxa lokhu kungengeza, mazise uGqiha wakho[cite: 138, 139]."
+      },
+      "izixwayiso": "Nxa amavitamins ekwenza uzwe isisu, ungawathatha lokudla loba ebusuku ungakalali[cite: 146]. Ungawayekeli ungakhulumanga lowezempilakahle wakho[cite: 147].",
+      "okuhlelelwe_iviki": "Kuqakathekile ukwazi iqembu legazi (blood group) lakho lelomkakho[cite: 149]. Kukhona amaqembu amane: A, B, AB, lo O[cite: 150]. Kuqakathekile futhi ukwazi iRh factor yakho, ngoba ukuzithwala kulakho ukungaqhubi kuhle nxa uMama eRh-negative elomntwana oRh-positive[cite: 153]."
+    },
+    {
+      "iviki": 7,
+      "ukukhula_komntwana": {
+        "ubude": "2.54 centimeters [cite: 161]",
+        "isisindo": "kuncane kulephilisi elilodwa [cite: 161]",
+        "isifingqo": "Zonke izitho eziqakathekileyo seziqalile ukubunjwa[cite: 161]. Inwele lengono zamabele seziqalile ukubumbeka, lentshiya zamehlo lolimi[cite: 162]. Indololwane lamazwane sekukhanya[cite: 162]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Akukhangelekile ukuthi abanye sebebonile ukuthi uzithwele[cite: 158]. Ungabe usungeze loba wehlile umzimba kancane ngenxa yokugula ekuseni[cite: 159]. Ukwengeza ukuyalahla amanzi kujwayelekile, kubangelwa ngamahormone lezinso ezisebenza ngamandla[cite: 156]."
+      },
+      "izixwayiso": "Nanzi izixwayiso zokwenza ukugula kwekuseni kube ngcono: dlana ukudla okulutshwana kanengi, dlana icereal eyomileyo ungakavuki, thola ukuphumula, nukisa amalemon loba iginger, njalo ungapheki loba ukudla ukudla okubabayo[cite: 164, 165, 168, 169, 172]. Natha iVitamin B6 (50mg) ngelanga[cite: 173].",
+      "okuhlelelwe_iviki": "Kumele ube usukhethe owezempilakahle ozakuncedisa uze uyebeletha[cite: 176]. Nxa ukugula kwekuseni kungengeza, xoxisana loGqiha wakho[cite: 177]."
+    },
+    {
+      "iviki": 8,
+      "ukukhula_komntwana": {
+        "ubude": "2.54 centimeters [cite: 190]",
+        "isisindo": "uselingana lendumba [cite: 190]",
+        "isifingqo": "Konke okukhona emzimbeni womuntu omdala sekukhona emntwaneni[cite: 190]. Indlebe, amathambo, imisipha, iminwe, lamazwane kuyaqhubeka kubumbeka[cite: 190, 191]. Ubuso buyabumbeka, amakhala sekhona, lentshiya[cite: 191]. Umsila usunyamalala[cite: 192]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Isibeletho sakho sesilingana lesithelo segrapefruit[cite: 187]. Amabele angabe esebuhlungu umzimba ulungela ukumunyisa[cite: 188]. Okunye okujwayelekileyo yikuzizwa usiba lamathe amanengi emlonyeni[cite: 184]. Abanye bazwa betshaywa ngamakhanda[cite: 185]."
+      },
+      "izixwayiso": "Ngesikhathi sokuzithwala abanye baba lamaqhubu ngoba ijwabu liba lamafutha[cite: 194]. Nxa usebenzisa imithi yokuqeda lokhu, yazi ukuthi ilani[cite: 194]. Buza owezempilakahle ngemithi ongayisebenzisa[cite: 195].",
+      "okuhlelelwe_iviki": "Isisu sibhaliswa phakathi kweviki 8 kusiya ku 12[cite: 197]. UGqiha uzabuza imibuzo egoqela imikhuhlane olayo, imithi oyinathayo, leyemulini yangakini[cite: 198, 199, 204]. Khangelela ukuhlolwa umzimba, i-pap smear, le-ultrasound[cite: 206]."
+    },
+    {
+      "iviki": 9,
+      "ukukhula_komntwana": {
+        "ubude": "4 centimeters [cite: 224]",
+        "isisindo": null,
+        "isifingqo": "Umntwana ulingana legrebisi[cite: 209]. Umsila usunyamalele, usekhangeleka njengomuntu[cite: 218]. Okuvala amehlo sekukhona kodwa kusavalekile, kuzavuleka ngeviki yama 28[cite: 219]. Amajoints asesebenza, umntwana useyenelisa ukudlala[cite: 220]. Useyenelisa ukumunya isithupha sakhe[cite: 222]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Ungabe ungakhanyi ukuthi usuzithwele, kodwa usungabe usizwa utshintsho emzimbeni[cite: 215]. Ungabe usuzitshaya (mood swings), usizwa isilungulela lokuqumbelana[cite: 216]. Ukudla kancane kancane kunganceda ukuvikela isilungulela[cite: 217]."
+      },
+      "izixwayiso": "Esigabeni lesi uzizwa udinwa masinya[cite: 226]. Lokhu kubangelwa ngama-chemicals omzimba, ukulala nzima, lokugula ekuseni[cite: 226]. Zama ukudinga indlela engcono yokulala[cite: 227].",
+      "okuhlelelwe_iviki": "Nxa uleminyaka edlula 35 loba emulini kukhona imikhuhlane efana le-cystic fibrosis, kuyakhuthazwa ukuthi uyebona oGqiha ababona ngemikhuhlane ethelelwana ngama-genes[cite: 229]. Xoxisana loGqiha wakho ngokuhlolwa okunye okugoqela i-chorionic villus sampling[cite: 230]."
+    },
+    {
+      "iviki": 10,
+      "ukukhula_komntwana": {
+        "ubude": "2 inches (5.08 cm) [cite: 239]",
+        "isisindo": "7 grams [cite: 239]",
+        "isifingqo": "Izitho zomzimba ezinengi ziyabe sezikhona, ziyaqhubeka zikhula[cite: 233]. Izitho eziqakathekileyo (izinso, isibindi, ingqondo, lamaphaphu) ziyabe sokusebenza[cite: 241]. Inkumba zeminwe lamazwane zikhanya kuliviki[cite: 242]. Umntwana uyabe esenelisa ukuginya lokudlalisa inyawo zakhe[cite: 243]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Isibeletho siyabe sikhula kodwa kungabe kungakakhanyi kakhulu[cite: 236]. Amabele lesisu kuyabe sokukhula ngeviki leviki[cite: 234]."
+      },
+      "izixwayiso": "Loba uzithwele, uyenelisa ukuzivocavoca ukuthi uhlale ulempilakahle[cite: 245]. Xoxa loGqiha wakho[cite: 245]. Abanengi oGqiha bakhuthaza ukuhambahamba lokubhukutsha[cite: 246].",
+      "okuhlelelwe_iviki": "Ukuvakatshela uGqiha okwesibili kwenziwa phakathi kweviki 12 le 16[cite: 248]. Lapho yikho uGqiha azayenza khona iscan somntwana, wenelise ukubona umntwana okokuqala[cite: 249]. UGqiha uzalalela inhliziyo yomntwana esebenzisa i-Doppler stethoscope[cite: 250]."
+    },
+    {
+      "iviki": 11,
+      "ukukhula_komntwana": {
+        "ubude": "6.35 centimeters (crown-rump length) [cite: 260]",
+        "isisindo": "14.17 grams [cite: 260]",
+        "isifingqo": "Ingxenye yobude bomntwana ithathwa likhanda lodwa[cite: 261]. Iminwe lamazwane sokubonakala kunye ngakunye[cite: 261]. Ijwabu lisase butshelezi, amathambo seqala ukoma[cite: 261]. Asikanelisi ukubona ukuthi umntwana ngumfana kumbe yinkazana, kodwa sizakwazi ngamaviki ambalwa[cite: 262]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Lanxa umntwana ekhula ngokuphangisa, umzimba wakho ungathatha isikhatshana ukuguquka[cite: 256]. Kodwa inwele lenzipho zingabonakala sokukhula ngesiphangiphangi[cite: 257]. Ingane ekhulayo ingabangela ubuhlungu esiswini[cite: 254]."
+      },
+      "izixwayiso": "Ungazihambela lapho ofisa ukuyakhona, ngaphandle kwalabo abalezinkinga mayelana lokuzithwala kwabo[cite: 266]. Nanzelela ukuthi ukuvuka ukhipha ekuseni sokuphelile, ngakho ukuhambahamba sokusiba lula[cite: 267].",
+      "okuhlelelwe_iviki": "Nxa ubukhipha ngamaviki okuqala, umzimba wakho ungabe suwehlile[cite: 269]. Abanengi bengezela amakilogram angaba yi 1.3 kusiya ku 1.8 kuphela[cite: 270]. Kukhangelelwe ukuthi ekupheleni kwesikhathi sokuzithwala, ubewengezele amakilogram angaba yi 11.3 kusiya ku 15.9[cite: 271]."
+    },
+    {
+      "iviki": 12,
+      "ukukhula_komntwana": {
+        "ubude": "8 centimeters [cite: 284]",
+        "isisindo": "28 grams [cite: 284]",
+        "isifingqo": "Amehlo asesondela lapho okumele abekhona[cite: 285]. Amathumbu akhula aze aphume kancinyane esiya enkabeni, kodwa azabuyela esiswini[cite: 286]. Izinso seziqalile ukulungisa umthambiso[cite: 287]. Umntwana usefunda ukumunya[cite: 287]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Isibeletho siyaqhubeka sikhula, abezempilakahle sebesanelisa ukusizwa[cite: 278]. Impahla zakho zingabe zingasakwani kahle[cite: 279]. Ijwabu liyaqala ukutshintsha, ungabona amatshathatshatha amnyama ebusweni lasentanyeni[cite: 282]. Imithambo yegazi iyaqala ukubonakala[cite: 276]."
+      },
+      "izixwayiso": "Ungaqala ukwenza imidlalo yokuqinisa inyama zesibeletho okuthiwa ngama Kegel exercises[cite: 289]. Lokhu kungasiza ukuthi ukubeletha kube lula[cite: 290].",
+      "okuhlelelwe_iviki": "Qaphelisisa ukudla okudlayo; kumele kube ngokwakhayo kuwe lakumntwana[cite: 292, 293]. Ukuze umzimba ungakhuli kakhulu, zama ukungadli ukudla okungakhiyo, ungadobhadobhi ebusuku, njalo wehlise ukudla okulamafutha leziwiji[cite: 294, 295, 296]."
+    },
+    {
+      "iviki": 13,
+      "ukukhula_komntwana": {
+        "ubude": "9.5 centimeters [cite: 306]",
+        "isisindo": "35 grams [cite: 306]",
+        "isifingqo": "Ikhanda lomntwana selingabe liyi 1/3 yomzimba[cite: 306]. Izidindo zeminwe sezibumbekile[cite: 306]. Izinso lendlela yomthambiso sokusebenza[cite: 307]. Ijwabu selilokuzinwedlana okubutshelezi[cite: 307]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Uqala ukubona imidwebodwebo yejwabu esiswini, emabeleni, lasezihlalweni[cite: 302]. Ukuvuka ukhipha ekuseni akusavamanga, kodwa ungazizwa usiba lesilungulela[cite: 303]. Amabele ungawezwa esemakhulu eselokuyizigaqa[cite: 303]. Ungabona imithambo yegazi isibonakala ejwatshini lamabele[cite: 304]."
+      },
+      "izixwayiso": "Abesifazane abazithweleyo bavame ukuzibona sebelemidwebodwebo yejwabu[cite: 309]. Ukugcoba amakha ejwabu ale vitamin E kungaphathisa[cite: 309]. Ungathengi amakha ungabonisananga labezempilakahle[cite: 310]. Qhubeka unatha amaphilisi e-Folic acid le-Ferrous Sulphate[cite: 300].",
+      "okuhlelelwe_iviki": "Nxa ibanga lokuqala lokuzithwala lifika emaphethelweni, owesifazane angabona efisa ukuya emacansini[cite: 314]. Ungethuki, umntwana uvikelekile[cite: 316]. Kodwa ukuya emacansini akukhuthazwa nxa isisu sake sachitheka, ingcipho isichithekile, kumbe elomkhuhlane wasemcansini[cite: 317, 319, 320, 324]."
+    },
+    {
+      "iviki": 14,
+      "ukukhula_komntwana": {
+        "ubude": "10 centimeters [cite: 333]",
+        "isisindo": "0.5 kilograms [cite: 333]",
+        "isifingqo": "Ingalo seziqala ukutshombuluka[cite: 333]. Isibindi sesiqala ukwenza inyongo; umbendeni lawo suqalile ukwakha iziqu zegazi[cite: 334]. Ubuchopho bomntwana sobukhula, usesanelisa ukuhambisa izinyama zobuso[cite: 334]. Angabe seqalile ukumunya umunwe[cite: 335]. Akuvamanga ukuthi isisu sichitheke ngalesisikhathi[cite: 335]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Sokuqala ukuba yindingeko ukuthenga impahla zowesifazane ozithweleyo[cite: 331]. Abesifazane abanengi ngalesisikhathi bazibona sebelangazelela ukudla, belamandla amatsha, njalo befisa ukuya emacansini[cite: 328]."
+      },
+      "izixwayiso": "Ungaqala ukunanzelela amatshatha amnyama ejwatshini lakho[cite: 337]. Kuvamile lokhu, kodwa nxa eguquka ngokuphangisa, kuqakathekile ukubona abezempilakahle ukuze baqinisekise ukuthi awulamvukuzane yejwabu[cite: 337].",
+      "okuhlelelwe_iviki": "Ngalesisikhathi, abesifazane abanengi baqala ukuba lemizwa eguquguqukayo[cite: 340]. Ungazibuza imibuzo eminengi, njengokuthi uzakuba ngumzali ofaneleyo na[cite: 341]. Inhliziyo ayihlaliseke, ufunde indlela zokuphumuza ingqondo[cite: 342]."
+    },
+    {
+      "iviki": 15,
+      "ukukhula_komntwana": {
+        "ubude": "12 centimeters [cite: 350]",
+        "isisindo": "57 grams [cite: 350]",
+        "isifingqo": "Ijwabu lomntwana libutshelezi, imithambo yegazi isabonakala[cite: 350]. Indlebe seziqala ukubonakala kahle, lamehlo sesiya endaweni yawo[cite: 351]. Amathambo seqala ukoma, kusitsho ukuthi angabonakala kwi-X-ray[cite: 351]. Emfanekisweni ye-Ultrasound, abantwana bangabonakala bemunya umunwe[cite: 352]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Umzimba ungabe usungezeke ngesisindo esingaba yi 2.27 kilograms[cite: 346]. Unganelisa ukuzwa ingaphezulu yesibeletho okwama-centimeter angu 10-12 phezulu kwenkaba[cite: 348]. Ibanga lesibili lingeze lokuvimbana kwamakhala, inkantsho enyaweni, kunye lobuhlungwana bezinsi[cite: 344]."
+      },
+      "izixwayiso": "Kuyakhuthazwa ukulala ngomhlubulo wesandleni senxele[cite: 354]. Ukulala ngomhlana akukhuthazwa ngoba kuvimbela ukugijima kahle kwegazi, kuphinde kwenze ukuphefumula kube nzima[cite: 356]. Ukufaka imiqamelo phakathi kwenyawo kungasiza[cite: 357].",
+      "okuhlelelwe_iviki": "Abempilakahle sebeqala ukukhangela ukukhula kwesisu ngokukhangela ubude kusukela ethanjeni lokhalo kusiya phezulu kwesibeletho[cite: 359]. Lokhu kusiza ukubona ukuthi umntwana ukhula kahle na, lokuthi ulele ekhangele luhlu luphi[cite: 360]."
+    },
+    {
+      "iviki": 16,
+      "ukukhula_komntwana": {
+        "ubude": "13.5 centimeters [cite: 369]",
+        "isisindo": "70 grams [cite: 369]",
+        "isifingqo": "Umntwana selungisela ukukhula ngesiphangiphangi[cite: 369]. Amehlo lendlebe sokusendaweni zazo[cite: 370]. Izitho ezitshiyeneyo sezisebenza[cite: 370]. Inhliziyo yomntwana ipompa amalitha egazi ayi 23.70 ngelanga[cite: 370]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Isibeletho siqhubeka sikhula, sesingaba ngama-kilogram ayi 0.25[cite: 365]. Ukwengezeleka kwegazi emzimbeni kubangela ukuthi ubuso bakho bukhazimule[cite: 366]. Ijwabu ngokwalo lenza amafutha amanengi, kubangela njalo ukukhazimula kobuso[cite: 367]."
+      },
+      "izixwayiso": "Ungaqa ukuzwa umntwana ehambahamba esiswini ngale viki[cite: 373]. Nxa kuyisisu sokuqala, ungaqala ukuzwa lokhu kumaviki angamatshumi amabili[cite: 373]. Zama ngazo zonke indlela ukungalali ngomhlana[cite: 375].",
+      "okuhlelelwe_iviki": "Emavikini aseduze, udokotela angakuhlola isisu sakho esebenzisa i-Ultrasound, Alpha-Feto Protein (AFP), Triple test, noma i-Amniocentesis[cite: 377, 379, 380, 381, 382]. Angafisa ukuxoxisana lawe ngobuhlungu esiswini, ukuhelelwa isikhathi singakafiki, lokukhetha udokotela wabantwana[cite: 383, 384, 385]."
+    },
+    {
+      "iviki": 17,
+      "ukukhula_komntwana": {
+        "ubude": "14.5 centimeters [cite: 394]",
+        "isisindo": "0.11 kilograms [cite: 394]",
+        "isifingqo": "Inkaba yomntwana iqhubeka ikhula isiba qatha[cite: 394]. Umntwana sesanelisa ukuzwa ngendlebe zakhe[cite: 394]. Useqalile njalo ukugcina amafutha ngaphansi kwejwabu ancedisa ukumgcina ekhudumala[cite: 395]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Nxa isisu sikhula, ezinye izitho zomzimba zizafuqwa ukuze isisu sikhule[cite: 391]. Amathumbu seqala ukufuqelwa eceleni[cite: 393]. Iqolo liqala ukuba buhlungu[cite: 388]. Ungazibona ukhohlwa izinto kalula, lokhu kuvamile[cite: 389]."
+      },
+      "izixwayiso": "Ungabe sunanzelele ukuthi inyawo zibabuhlungu. Lokhu kubangelwa yikubandezelwa komthambo wamagetsi okuthiwa yi-sciatic oya enyaweni[cite: 397]. Ukuzelula kungasiza ukuthi lobu buhlungu budedele[cite: 399].",
+      "okuhlelelwe_iviki": "Ungabe sunanzelele ukuthi izinto ezikubangelayo ukuthi uqubuke zengezelekile[cite: 401, 402]. Xoxisana lodokotela wakho ngemithi ongayisebenzisa[cite: 403]. Zama ukungathengi imithi ezitolo ungakhulumanga lodokotela[cite: 404]."
+    },
+    {
+      "iviki": 18,
+      "ukukhula_komntwana": {
+        "ubude": "16 centimeters [cite: 414]",
+        "isisindo": "0.16 kilograms [cite: 414]",
+        "isifingqo": "Imithambo yamagetsi yomntwana iyaqhubeka ibumbeka[cite: 414]. Nxa umntwana eyinkazana, izitho zakhe zangaphakathi sezibumbekile[cite: 415]. Nxa engumfana, unganelisa ukubona isitho sakhe ku-Ultrasound[cite: 416]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Umzimba wakho sutshintshile, abanengi sebebona ukuthi uzithwele[cite: 409]. Igazi alisahambi ngamandla, ngakho kuqakathekile ukuthi usukume kancane ukuze uzivikele ekubeni lesiyezi[cite: 411, 412]. Uzakwengeza umzimba cishe nge 0.5 kilograms ngeviki[cite: 407]."
+      },
+      "izixwayiso": "Abanengi abazithweleyo bakuthola kunzima ukuqeda ilanga bengazange balale[cite: 418]. Nxa usebenza, dinga ithuba emsebenzini lokuthi uphumule[cite: 421].",
+      "okuhlelelwe_iviki": "Sukhangelele ukuya eklinika okwesithathu[cite: 423]. Uzakwenziwa i-sonogram, engabe ingeyebanga lokuqala kumbe lesibili[cite: 423]. Eyebanga lesibili ikhangela okuthize, njengokuthi inhliziyo yomntwana ibumbeke kahle na[cite: 424]. Ungenziwa umhloliso we-MSAFP kumbe i-AFP[cite: 425]."
+    },
+    {
+      "iviki": 19,
+      "ukukhula_komntwana": {
+        "ubude": "phose 7 inches (17.8 cm) [cite: 439]",
+        "isisindo": "0.2 kg [cite: 439]",
+        "isifingqo": "Izinso seziyenza umthambiso, lenwele zekhanda seziqala ukukhula[cite: 441]. Ingqondo isiyakha imizwa[cite: 441]. Nxa kungumntwana oyinkazana, amaqanda akhe sehle enziwa khonapho[cite: 442]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Ubuhlungu be-round ligament bujwayelekile ku-trimester yesibili, buba buhlabahlaba esiswini[cite: 435]. Abanye baba lesilungulela ngenxa yama-hormones[cite: 431]. Ukumanelwa kungabakhona ngenxa yokuthi umntwana ucindezela amathumbu[cite: 433]."
+      },
+      "izixwayiso": "Isiyezi sandise ukubangelwa yikwehla kwe-blood pressure[cite: 444]. Ungakuvikela ngokulala ngecele lesandleni senxele kulokulala ukhangele phezulu[cite: 445]. Esinye isiyezi sibangelwa yikusukuma ngokuphangisa[cite: 446].",
+      "okuhlelelwe_iviki": "Njengoba usuzithwele, kumele uqaphele imithi yesintu oyinathayo[cite: 449]. Uyaxwayiswa ukuthi unganathi imithi yesintu ungakakhulumisani loGqiha wakho[cite: 450]. Eyinye ingacina ichitha isisu[cite: 450]."
+    },
+    {
+      "iviki": 20,
+      "ukukhula_komntwana": {
+        "ubude": "19.7 cm [cite: 461]",
+        "isisindo": "0.26 kg [cite: 461]",
+        "isifingqo": "Umzimba wakhe ugoqelwe ngokumhlophe okuthiwa yi-vernix caseosa, okuvikela ijwabu lomntwana[cite: 462]. Kuyancedisa njalo ekubeletheni[cite: 463]. Umntwana seyenelisa ukwenza amaphumelo (meconium) aluhlaza kumbe amnyama[cite: 463]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Isibeletho sesikhule, ubuphezulu baso bumaqondana lenkaba kamama[cite: 457]. Umzimba wakho ungabe usungezele isisindo ngama-kilogram amane loba amahlanu[cite: 457]. Okwandise ukwenzakala yikubanjwa yinkantsho enyaweni, ukuvuvuka, lokuthwala nzima ekulaleni[cite: 455]."
+      },
+      "izixwayiso": "Kuqakathekile ukuthi udle ukudla okule-iron eyaneleyo ukuvikela i-anemia[cite: 466, 467]. Dlana i-iron engaba yi 27mg kusiya ku 30mg ngelanga[cite: 468]. Itholakala enyameni ebomvu, indumba, lemibhida[cite: 471, 473, 474].",
+      "okuhlelelwe_iviki": "Khathesi yiso isikhathi sokuhlela ukuthi uzabeletha njani[cite: 480]. Ungabhala phansi egwalweni okukhangelele ukuthi kwenzakale ukuze kube lula kulabo abazakuncedisa[cite: 481, 482]."
+    },
+    {
+      "iviki": 21,
+      "ukukhula_komntwana": {
+        "ubude": "21 cm [cite: 497]",
+        "isisindo": "0.3 kg [cite: 497]",
+        "isifingqo": "Ubude bomntwana sobulinganiswa kuqala ekhanda kusiya esithende (crown heel length)[cite: 497]. Izinkophe zomntwana seziphelile ukwakhiwa[cite: 498]. Indlela ehambisa ukudla iyakhula njalo umntwana uyabe ethola ukudla kuyo ingcipho[cite: 499]. Nxa umntwana eyinkazana, isitho sakhe sangasese sesakheke ngokupheleleyo[cite: 500]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Ungafaka iminwe yakho amasentimitha amabili phezulu kwenkaba, ungezwa isibeletho sakho[cite: 491]. Kuyabe sokuvela lula ukuthi uzithwele[cite: 491]. Ungananzelela ukuthi inyawo zakho ziyavuvuka ekupheleni kwelanga; dinga izikhathi zokuphumula[cite: 492]. Qaphela i-Pre-eclampsia, ebonakala nge-high blood pressure[cite: 488]. Nxa utshaywa likhanda loba uvuvuka umzimba, bona udokotela masinyane[cite: 489]."
+      },
+      "izixwayiso": "Umhabulo wendlela yomthambiso (UTI) ungaba lawo nxa uzithwele[cite: 502]. Ungawuvikela ngokunatha amanzi amanengi (amankomitsho 6-8), ukuhlikihla usukela phambili usiya emuva, lokuthambisa ngaphambi langemva kokuhlangana emacansini[cite: 505, 506, 507].",
+      "okuhlelelwe_iviki": "Nxa umzimba usengezeka, ungabona ususiba lemithambo evuvukileyo (varicose veins)[cite: 511]. Imithambo le ijwayele ukubakhona enyaweni kodwa ingatholakala lezithweni zangasese[cite: 512]."
+    },
+    {
+      "iviki": 22,
+      "ukukhula_komntwana": {
+        "ubude": "25 cm [cite: 521]",
+        "isisindo": "0.4 kg [cite: 521]",
+        "isifingqo": "Umntwana sefana losanda kubelethwa kodwa emncane[cite: 522]. Ijwabu lingabe lingani litshwabhene ngenxa yokuthi akakakhuli okwaneleyo[cite: 523]. Indebe zakhe sezicaca, lamehlo asephelile ukwakhiwa[cite: 523]. Inkophe lentshiya sokusendaweni efaneleyo, le-pancreas iqhubeka ikhula[cite: 524]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Usungasizwa isibeletho singamasentimitha amabili phezulu kwenkaba[cite: 519]. Kujwayelekile ukuthi ubelenwele ezinhle lenzipho ezikhula masinyane[cite: 516]. Ijwabu lesiswini lingoma ngenxa yokukhula[cite: 517]."
+      },
+      "izixwayiso": "Omama abanengi bakhathazeka ngokubeletha ngaphambi kwesikhathi (preterm labour)[cite: 526]. Kukhona ukuhlolisiswa okuthiwa yi-Fetal Fibronectin test[cite: 528]. Nxa i-Fetal fibronectin ingatholakala emanzini aphuma ngasese phakathi kweviki 22 le 38, kutshengisa ingozi yokubeletha ngaphambi kwesikhathi[cite: 529].",
+      "okuhlelelwe_iviki": "Sokuyisikhathi sokuhlanganyela labafundisa ngokubeletha[cite: 532]. Zama ukuthi ubusuqedile izifundo zakho ngeviki yama 37[cite: 534]. Izifundo lezi zingatholakala ezibhedlela lasezindaweni ezihlanganela omama abakhulelweyo[cite: 535]."
+    },
+    {
+      "iviki": 23,
+      "ukukhula_komntwana": {
+        "ubude": "28-36 cm [cite: 548]",
+        "isisindo": "0.45 kg [cite: 548]",
+        "isifingqo": "Inwele ezisemzimbeni wakhe (lanugo) ziba mnyama, ngakho ziyabe sezikhanya ku-Ultrasound Scan[cite: 549]. Umntwana sefana kakhulu losanda kubelethwa[cite: 550]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Isibeletho sakho sesingamasentimitha amane (4) phezulu kwenkaba, njalo umzimba wakho ungengezelela ngama-kg angaba yi 5-7[cite: 541]. Isibeletho sihlezi phezulu kwesinye sakho, okungabangela ukuthi umthambiso uvuze[cite: 543]. Ingcipho yona ayilanuko; nxa ubona amanzi engelanuko, fonela udokotela[cite: 545, 546]."
+      },
+      "izixwayiso": "Natha amanzi amanengi, lokhu kuqakatheke kakhulu[cite: 552]. Nxa unatha amanzi ayeneleyo, umthambiso wakho kumele uphose ufane lamanzi[cite: 554]. Lokhu kungavikela ukutshaywa likhanda, ubuhlungu besibeletho, le-UTI[cite: 555, 556, 557, 558].",
+      "okuhlelelwe_iviki": "Nxa usebenza, kumele ube usulungisa amaphepha okuthatha ikhefu emsebenzini[cite: 560]. Abafazi abanengi bayazibuza ukuthi kumele beme ukusebenza nini[cite: 561]. Akula mpendulo eyodwa eqondileyo[cite: 562]. Kumele ubuye ucabange ngokuthi ngubani ozasala egcine usane lwakho[cite: 564]."
+    },
+    {
+      "iviki": 24,
+      "ukukhula_komntwana": {
+        "ubude": "32 cm [cite: 576]",
+        "isisindo": "0.6-0.7 kg [cite: 576]",
+        "isifingqo": "Ubuchopho bomntwana bukhula kakhulu[cite: 577]. Izitho zokunambitha (taste buds) seziqala ukukhula[cite: 577]. Amaphaphu selungisa amanzi aqakathekileyo ekuphefumuleni okuthiwa yi-Surfactant[cite: 578]. Abantwana abazalwa ngaphambi kwesikhathi baphefumula nzima ngenxa yokuthi i-Surfactant ayikabi yenele[cite: 578]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Isibeletho ususizwa singamasentimitha amahlanu phezulu kwenkaba[cite: 572]. Ijwabu emabeleni lasesiswini selinanabuka, okungabangela ukuthi ulunyelwe[cite: 572]. Sebenzisa amafutha (lotions)[cite: 573]. Amehlo lawo ungazwa ewoma[cite: 573]."
+      },
+      "izixwayiso": "Nxa uhlutshwa yisilungulela, zama ukudla okulutshwana ngesikhathi sinye[cite: 580]. Ungazinceda njalo ngokungadli ebusuku kakhulu[cite: 581].",
+      "okuhlelelwe_iviki": "Emavikini awu 24 kusiya ku 28, odokotela bazahlola itshukela yakho[cite: 583]. Omama abanye bengaba letshukela nxa bezithwele (gestational diabetes)[cite: 584]. Izibonakaliso zigoqela ukoma okwedlulisileyo lokuhamba kakhulu esambuzini[cite: 586, 587]."
+    },
+    {
+      "iviki": 25,
+      "ukukhula_komntwana": {
+        "ubude": "33 cm [cite: 598]",
+        "isisindo": "0.7-0.8 kg [cite: 598]",
+        "isifingqo": "Umntwana usesiba lamafutha amanengi, lokhu kuyenza angakhanyi etshwabhene[cite: 599]. Umbala wenwele zakhe sukhanya ngesikhathi lesi, kodwa ungaguquka nxa esebelethiwe[cite: 600]. Ukuthi umntwana uyinkazana kumbe ngumfana sokungabonwa nge-Ultrasound, Amniocentesis, CVS, loba i-NIPT[cite: 601]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Isibeletho sesingangebhola, siyazwakala phakathi laphakathi kwesifuba lenkaba[cite: 596]. Nxa izandla leminwe kubuhlungu, usungaba lomkhuhlane we-Carpal tunnel syndrome, obangelwa yikuvuvuka[cite: 593]."
+      },
+      "izixwayiso": "Ngesikhathi lesi, kumele uqale ukucabanga amabizo omntwana[cite: 610]. Zibuze imibuzo efana lokuthi: Amabala asekuqaleni kwebizo abumba liphi ibala? [cite: 611]",
+      "okuhlelelwe_iviki": "Ungalingeka ukuthi uyenziwe i-Ultrasound scan nje eyokugcina, kodwa ukwenza ama-Scan amanengi kungaba yingozi[cite: 615]. Kumele uyenziwe i-Scan nxa udokotela etshilo[cite: 616]."
+    },
+    {
+      "iviki": 26,
+      "ukukhula_komntwana": {
+        "ubude": "34 cm [cite: 627]",
+        "isisindo": "0.9 kg [cite: 627]",
+        "isifingqo": "Indlebe zakhe sezikhula, ngakho usesizwa umsindo[cite: 629]. Uyala eginya ingcipho, lokhu kwenza amaphaphu akhe akhule[cite: 630]. Nxa engumfana, izitho zakhe zangasese sezikhulile[cite: 630]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Isibeletho sizwakala 6 cm phezulu kwenkaba[cite: 624]. Emalangeni aseleyo, sizakhula nge 1.25 cm ngeviki[cite: 624]. Kumele ubusungezele ama-kg ayi 7-10[cite: 625]. Nxa ulunyelwa kakhulu, ungabe ulomkhuhlane we-Cholestasis of pregnancy[cite: 622]."
+      },
+      "izixwayiso": "Usungaqala ukudla idelele, elilezakhamzimba ezinengi njenge-Vitamin A, B6, C, Zinc, le-Calcium[cite: 632, 633]. Indumba zilawo amaprotheni amanengi njalo lazo ziyancedisa ukuvikela ukumanilwa[cite: 634].",
+      "okuhlelelwe_iviki": "Nxa uvakatshela udokotela, khangelela ukuhlolwa kwegazi, i-Rh factor, lokukhangelwa itshukela[cite: 637, 638, 639]. Nizakhuluma ngokusokwa, ukudla ngemva kokubeletha, le-Braxton Hicks contractions[cite: 640, 641, 643]."
+    },
+    {
+      "iviki": 27,
+      "ukukhula_komntwana": {
+        "ubude": "35 cm [cite: 655]",
+        "isisindo": "1 kg [cite: 655]",
+        "isifingqo": "Umntwana senelisa ukuvula lokuvala amehlo[cite: 656]. Selelezikhathi zakhe zokulala lokuvuka[cite: 656]. Angatshaywa yintwabe, kodwa akumelanga kukwethuse lokhu, kuzenzakala kakhulu nxa amaphaphu ekhula[cite: 658]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Ususizwa umntwana ehambahamba kakhulu[cite: 651]. Lokhu kungaba yintwabe kumbe ukuzelula[cite: 651]. Lokhu kuhambahamba kuyaduduza njalo kuqinisa isibopho phakathi kwakho lomntwana[cite: 652]. Abanye baba lama-Hemorroids, yimithambo yegazi evuvukayo[cite: 647, 648]."
+      },
+      "izixwayiso": "Nxa ulemota, kuqakathekile ukuthenga isitulo somntwana esemoteni[cite: 660]. Bona ukuthi siyakwana emoteni yakho njalo sifakwe kuhle[cite: 661].",
+      "okuhlelelwe_iviki": "Nxa ungakahlanganeli labafundisa ngokubeletha, sokuyisikhathi sokwenza lokho[cite: 662]. Kumele izifundo zibe seziphelile ngeviki yesi 37[cite: 662]."
+    },
+    {
+      "iviki": 28,
+      "ukukhula_komntwana": {
+        "ubude": "36 cm [cite: 676]",
+        "isisindo": "1.13 kg [cite: 676]",
+        "isifingqo": "Ubuchopho bomntwana sobusiba lemifino[cite: 678]. Inwele zala zilokhu zikhula[cite: 678]. Intshiya lenkophe sokukhanya kuhle[cite: 678]. Umntwana sesiba lamafutha amanengi[cite: 679]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Isibeletho usungasizwa 9 cm phezulu kwenkaba[cite: 672]. Umzimba wakho sungabe usungezelele ngama-kg ayi 7-10[cite: 672]. Omama abanengi bengabanjwa yinkantsho, bezwe ukumanilwa, lokungalali[cite: 674]. Ukopha ngaphansi kungatshengisela umkhuhlane we-Placenta previa[cite: 669]."
+      },
+      "izixwayiso": "Qalisa ukwenza amacebo okuthi uzahamba njani esibhedlela[cite: 680]. Bona ukuthi ulenombolo zocingo zomkakho[cite: 681]. Dinga indlela emfitshane yokuya esibhedlela[cite: 682].",
+      "okuhlelelwe_iviki": "Uzabe usuvakatshela odokotela ngamaviki amabili[cite: 688]. Khangelela ukunikwa umuthi we-Rhogam nxa ule-Rh factor[cite: 685]. Nizakhuluma ngokuhambahamba komntwana lokuthi ungabala njani[cite: 685, 686]."
+    },
+    {
+      "iviki": 29,
+      "ukukhula_komntwana": {
+        "ubude": "37 cm [cite: 697]",
+        "isisindo": "1.25 kg [cite: 697]",
+        "isifingqo": "Umntwana usekhula ngokuphangisa[cite: 698]. Ikhanda liyakhula ngenxa yokukhula kwengqondo[cite: 698]. Imisipha lamaphaphu kuyaqhubeka kukhula[cite: 699]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Isisindo somzimba sesengezeleleke ngama-kg ayi 8-11[cite: 693]. Isibeletho sesidlule inkaba ngama-cm afika ku-10[cite: 693]. Ukumanelwa kujwayelekile[cite: 694]. Ungananzelela uchago lwe-colostrum luphuma emabeleni[cite: 691]."
+      },
+      "izixwayiso": "Abako DAWA community healthcare worker bayancedisa ukuthi omama babelethe kuhle[cite: 704]. Bayenelisa ukubonwa kanengi-nengi njalo umsebenzi wabo bawufundele[cite: 706, 708].",
+      "okuhlelelwe_iviki": "Dlana ukudla okulesikuba okugoqela izithelo, umbhida, lesinkwa esilentanga[cite: 710]. Natha amanzi amanengi, amankomitsho ayi 10 kusiya ku 12 ngelanga[cite: 711]. Zivocavoce ngokuhambahamba lokubhukutsha[cite: 712]."
+    },
+    {
+      "iviki": 30,
+      "ukukhula_komntwana": {
+        "ubude": "38.5 cm [cite: 728]",
+        "isisindo": "1.4 kg [cite: 728]",
+        "isifingqo": "Amehlo omntwana asekhulile, sekwazi ubunyama lokukhanya[cite: 730]. Amehlo akhe ayenelisa ukulandela ukukhanya[cite: 730]. Nxa sebezelwe, bahlala isikhathi bengavulanga amehlo[cite: 731]. Inengi labantwana lenelisa ukukhangela izinto eziseduze lamehlo abo[cite: 731]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Uzanzelela ukuthi uzabe ulokudinwa komzimba[cite: 722]. Umzimba wenza ama-chemicals axegisa lapho okuhlangana khona amathambo[cite: 725]. Inyawo zakho zingavuvuka uze ugqoke isicathulo esikhulu[cite: 725]. Imizila ye-stretch marks iyabe isikhanya kakhulu[cite: 719]."
+      },
+      "izixwayiso": "Inengi labomama babulawa liqolo kakhulu[cite: 734]. Ukuma kuhle kungenza kubengcono[cite: 735].",
+      "okuhlelelwe_iviki": "Sekusele amaviki angamatshumi ukuthi ubelethe[cite: 737]. Cangaba ngendlela ezokwehlisa ubuhlungu ekubeletheni[cite: 737]. Ungakhetha ukubeletha ngokwemvelo, ukuhlatshwa amajekiseni emhlane (epidural), loba ukusebenzisa izidakamizwa ezisemthethweni (narcotics)[cite: 742, 743, 745]."
+    },
+    {
+      "iviki": 31,
+      "ukukhula_komntwana": {
+        "ubude": "39.4 cm [cite: 765]",
+        "isisindo": "1.6 kg - 1.8 kg [cite: 765]",
+        "isifingqo": "Umntwana uqhubeka ekhula amafutha ngaphansi kwejwabu, wona azamenza abukeke njengomuntu[cite: 766]. Ngamaviki azayo, uzakhula aze afike ku-3.4 kg[cite: 767]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Sungaqala ukubona uchago lokuqala (amahlaka) luphuma emabeleni[cite: 758]. Ukubopha kwesisu (Braxton Hicks contractions) kungaqala ukuyanda[cite: 761]. Lokhu kubopha kuyindlela yokuzelula isibeletho silungiselela umhelo[cite: 763]."
+      },
+      "izixwayiso": "Ama-hemorrhoids/piles avamile[cite: 769]. Abangelwa yimithambo yegazi evuvukileyo emtshazeni[cite: 769]. Ungawanciphisa ngokufaka i-baking soda, ukugeza ngamanzi akhudumalayo, loba ukusebenzisa i-witch hazel[cite: 772, 773].",
+      "okuhlelelwe_iviki": "Sucabangile na ukuthi uzamunyisa umntwana ngebele loba ngegula[cite: 778]? Esinye isinqumo ngesokugcina igazi lenkaba yomntwana (cord blood)[cite: 779]."
+    },
+    {
+      "iviki": 32,
+      "ukukhula_komntwana": {
+        "ubude": "40.6 cm [cite: 793]",
+        "isisindo": "1.8 kg - 2 kg [cite: 793]",
+        "isifingqo": "Inzipho zeminwe lezandla sezikhona[cite: 794]. Amaphaphu asalokhu ekhula[cite: 794]. Amathambo lawo asekhona njalo aseqina[cite: 794]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Isibeletho sesikhule ngaphezu kwenkaba nge 5 inches[cite: 789]. Sungezwa ubunzima ma uphefumula ngoba isibeletho sincindezela amaphaphu[cite: 789]. Kathesi uyengeza isisindo sakho nge 0.5 kg ngeviki[cite: 790]."
+      },
+      "izixwayiso": "Nxa uwezwa ama-Braxton Hicks contractions, ungazama ukutshintsha indlela ohlezi ngayo, ugeze ngamanzi akhudumalayo, loba unathe amanzi[cite: 796, 798, 799, 800].",
+      "okuhlelelwe_iviki": "Kusukela manje, ungacelwa ukubonwa ngabezempilakahle ngamaviki amabili ngamabili[cite: 803]. Yenza isinqumo ngokugcina igazi lenkaba (cord blood) yomntwana[cite: 804]."
+    },
+    {
+      "iviki": 33,
+      "ukukhula_komntwana": {
+        "ubude": "42 cm [cite: 827]",
+        "isisindo": "2 kg - 2.3 kg [cite: 827]",
+        "isifingqo": "Ijwabu lakhe liya likhula, selisuka ekubeni bovana[cite: 829]. Amathambo ayaqina, kodwa awekhanda ayalela ebuthakathaka ukuze umntwana abelethwe kuhle[cite: 830]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Isisindo osusiyengezile singafika ku 10 kg - 13 kg[cite: 818]. Ungabe uzibuza ukuthi uzabona na nxa ungaphuma incupha (water breaks)[cite: 819]. Kubanengi, amanzi aphuma mbijana[cite: 820]. Amanzi omntwana ayinuki; nxa ubona amanzi enganuki, xhumana labezempilakahle[cite: 821, 822]."
+      },
+      "izixwayiso": "Kuphephile ukwenza ezocansi ngalesi sikhathi, nxa kungela nkinga[cite: 832, 833].",
+      "okuhlelelwe_iviki": "Sungaxoxisana lodokotela nge-episiotomy (ukusikwa esithweni sangasese)[cite: 836]. Ayijayelanga ukwenziwa ngaphandle nxa kunesidingo[cite: 836]. Izinto ongazenza ukwehlisa amathuba okusikwa zigoqela ukudla kuhle, ama-Kegels, lokubotobotoza izitho ezizansi kwenkaba (massaging the perineum)[cite: 837, 839, 840, 843]."
+    },
+    {
+      "iviki": 34,
+      "ukukhula_komntwana": {
+        "ubude": "44.5 cm [cite: 858]",
+        "isisindo": "2.3 kg - 2.5 kg [cite: 858]",
+        "isifingqo": "Umntwana uqala ukufaka amafutha ngaphansi kwejwabu, azamenza akwanise ukugcina ukukhudumala esezelwe[cite: 859]. Ingqondo lamaphaphu kuyaqhubeka kukhula[cite: 860]. Umntwana engazalwa ngalezi nsuku, amathuba okuphila manengi[cite: 861]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Isibeletho sesikhule sadlula inkaba nge 14 cm[cite: 851]. Amanzi ahanqazele umntwana (amniotic fluid) afika ubunengi bawo phakathi kweviki 34 le 36[cite: 853]. Kusukela ngeviki 37, ayancipha ukuze kwande indawo yokukhula umntwana[cite: 854]."
+      },
+      "izixwayiso": "Isigaba sokuqala somhelo singamahola ayi 10 kusiya ku 20, lapho umlomo wesibeletho uvuleka khona uze ufike ku 10 cm[cite: 864, 865]. Isigaba sesibili yikubelethwa komntwana, esingathatha ihora[cite: 867, 868]. Isigaba sesithathu yikuphuma kwembeleko[cite: 869].",
+      "okuhlelelwe_iviki": "Evikini leli, khangelela ukuthi abezempilakahle bexoxe lawe ngokuhlatshwa ukuze uvikelwe i-Group B streptococcus, indlela zokuthoba inhlungu, lokuzivikela ukuzithwala ngemva kokubeletha[cite: 872, 874, 875, 876]."
+    },
+    {
+      "iviki": 35,
+      "ukukhula_komntwana": {
+        "ubude": "43.2 cm - 45.7 cm [cite: 894]",
+        "isisindo": "2.5 kg - 2.7 kg [cite: 894]",
+        "isifingqo": "Izitho ezimbalwa ezinengi sezikhulile; izinso, lesibindi sesiqalile ukukhipha ingcekeza[cite: 895]. Indlela akhaba ngayo (kick count) iyabe ilokhe ifanana, lanxa indawo isinciphile[cite: 896]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Isibeletho sesikhule okufika 15.2 cm phezu kwenkaba[cite: 889]. Isisindo osusiyengezile singaba yi 11 kg kusiya ku 13.2 kg[cite: 889]. Ukuphefumula kungaba nzima, kodwa kuzaba ngcono umntwana engayehla mbijana[cite: 891]. Lokhu kuzabangela ukuthi uhlale ugijima ukuyalahla amanzi[cite: 892]."
+      },
+      "izixwayiso": "Njengoba usuku lokubeletha lusondela, sungaqala ukudinga udokotela wabantwana (pediatrician)[cite: 898]. Khuluma lodokotela wakho, izihlobo, labangane bakulayele[cite: 899].",
+      "okuhlelelwe_iviki": "Kusukela ngeviki leyi, ungabonwa ngeviki ngeviki[cite: 901]. Udokotela sengakucela ukuthi uqale ukubala ukuthi umntwana ukhaba kangaki (kick count)[cite: 901]. Kufanele uzwe izigaba ezilitshumi zokudlala emaholeni amabili[cite: 904]."
+    },
+    {
+      "iviki": 36,
+      "ukukhula_komntwana": {
+        "ubude": "44.5 cm - 48.3 cm [cite: 921]",
+        "isisindo": "2.6 kg - 3.1 kg [cite: 921]",
+        "isifingqo": "Inwele ezibutshelezi (lanugo) ebezivale umzimba seziqala ukunyamalala, kanye le-vernix caseosa[cite: 922]. Ikhanda lakhe selitshibilikile labangaphansi[cite: 924]. Uma lingakafiki lapho, udokotela angazama ukutshibilikisa umntwana ngangaphandle[cite: 925]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Loba umntwana eqhubeka esengeza isisindo, awusoze ubone utshintsho olunengi kuwe[cite: 916]. Ama-Braxton Hicks contractions aya eyanda[cite: 918]. Sekusele amaviki amabili kusiya enyangeni, umntwana uzaqala ukuyehla engena endleleni[cite: 913]."
+      },
+      "izixwayiso": "Uma amabele akho ekulalisi kahle ebusuku, sungalala ugqoke i-nursing bra[cite: 928]. Izonceda kakhulu, loba umntwana engakazalwa[cite: 928].",
+      "okuhlelelwe_iviki": "Yisikhathi sokupakitshela izikhwama zesibhedlela[cite: 912]. OkukaMama kumele kugoqele i-health insurance card, ama-breast pads, lempahla zokuya endlini[cite: 932, 933, 934]. Okomntwana kugoqele isihlalo semota, impahla zokuya endlini, lezitshubo (diapers)[cite: 936, 937,   939, 940]."
+    },
+    {
+      "iviki": 37,
+      "ukukhula_komntwana": {
+        "ubude": "45.7 cm [cite: 955]",
+        "isisindo": "2.7 kg - 3.2 kg [cite: 955]",
+        "isifingqo": "Loba amalanga akhe asekwanile, kungcono umntwana ahlale ethunjini umhelo uze uzibuyele wodwa[cite: 956]. Uma ikhanda lomntwana lingakatshibilikeli phansi, xoxa labezempilakahle ngendlela ezingathathwa[cite: 957]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Isisindo sakho sonke singaba phakathi kwe 11.3 kg le 15.9 kg, kodwa awusayengezi kakhulu[cite: 949]. Amanzi omntwana (amniotic fluid) ayancipha kusukela kule viki[cite: 950]. Lokhu okuvale umlomo wesibeletho kungaphuma, okuyisibonelo sokuthi ukubeletha sekuseduze[cite: 951, 952]."
+      },
+      "izixwayiso": "Kathesi usuhlala ulindele, ngoba usuku solungafika noma nini[cite: 960]. Kungaba kuhle ukuthi uhlele izinto, indlu ilungiswe[cite: 961]. Ungapheka ukudla okuzawonyiswa ku-fridge kudliwe nxa usuphendukile lomntwana[cite: 963].",
+      "okuhlelelwe_iviki": "Kufanele ube usuqedisa ama-childbirth classes lamalungiselelo awomntwana[cite: 965]. Yiba lesiqiniseko ukuthi izikhwama zipakitshiwe[cite: 965]. Kungaba licebo elihle ubone ukuthi ungazitshayela na usiya esibhedlela[cite: 966]."
+    },
+    {
+      "iviki": 38,
+      "ukukhula_komntwana": {
+        "ubude": "43.2 cm - 51 cm [cite: 976]",
+        "isisindo": "2.8 kg - 3.4 kg [cite: 976]",
+        "isifingqo": "Izitho zakhe ezinengi sezikhulile njalo sezisebenza[cite: 977]. Okuseleyo yingqondo lamaphaphu, loba lokhu kukwanisa ukusebenza uma umntwana engabelethwa, kuzaqhubeka kukhula[cite: 977]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Ungazwa ukuvuvuka kwenyawo, okujwayelekile[cite: 974]. Kodwa ungabona uvuvuka ngesiqubu izandla, ubuso, loba unyawo, xhumana labezempilakahle ngoba kungabe kuyi-pre-eclampsia[cite: 974]."
+      },
+      "izixwayiso": "Ma usola ukuthi umntwana uku-breech, ungenza eyinye i-sonogram[cite: 980]. Abanye omama benza i-non-stress test, lapho i-fetal monitor ifakwa esiswini ukukhangela ukutshaya kwenhliziyo yomntwana[cite: 982, 983].",
+      "okuhlelelwe_iviki": "Abempilakahle kufanele baxoxe lawe ngomuntu wokuxhuma nxa usuhelelwa, inkinga ongahlangana lazo, lokungahlali kuhle komntwana ethunjini (breech position)[cite: 986, 987, 988, 991]."
+    },
+    {
+      "iviki": 39,
+      "ukukhula_komntwana": {
+        "ubude": "45.7 cm - 52 cm [cite: 1001]",
+        "isisindo": "2.9 kg - 3.6 kg [cite: 1001]",
+        "isifingqo": "Umntwana ulokhe ekhula amafutha ngaphansi kwejwabu lakhe, okuqakathekile ekukhudumaleni kwakhe esezelethiwe[cite: 1002]. Ijwabu lakhe selenelisa ukuzihluba[cite: 1002]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Kuleyi viki, kuyabe kungela tshintsho olunengi[cite: 998]. Umlomo wesibeletho usulungiselela ukuvuleka ngokuncipha (effacement)[cite: 998]. Zirathidzo zokuhelelwa zigoqela ukutshila kwesibeletho, ubuhlungu beqolo, lokungahlaliseki[cite: 994]."
+      },
+      "izixwayiso": "Loba suzabeletha, kuqakathekile ukunanzelela ukudlala komntwana[cite: 1004]. Mana ukukhipha izitampa eziphathini zomntwana, ungathola ukuthi azimlingani[cite: 1005].",
+      "okuhlelelwe_iviki": "Thatha izinto kancane kancane[cite: 1008]. Impilo yakho ayisoke ifane esefikile umntwana[cite: 1008]. Chitha isikhathi labasendlini lomkakho[cite: 1009]."
+    },
+    {
+      "iviki": 40,
+      "ukukhula_komntwana": {
+        "ubude": "48.3 cm - 53.3 cm [cite: 1040]",
+        "isisindo": "3 kg - 4.5 kg [cite: 1040]",
+        "isifingqo": "Amathambo akhe aseqinile ngaphandle kwawekhanda[cite: 1041]. Awekhanda kumele ahlale ebuthakathaka ukuze adlule kuhle nxa ezalwa[cite: 1041]. Ngenxa yalokho, ikhanda lingabe licijile mbijana ngamalanga okuqala[cite: 1042]. Umntwana ulenkanda ezimbili (fontanelles) ezivumela ukuthi amathambo atshelele azalwe kuhle[cite: 1043]."
+      },
+      "untshintsho_kuma": {
+        "untshintsho_emzimbeni": "Nxa ubeletha, ikhanda lomntwana lizabonakala[cite: 1034]. Nxa lingasabuyeli emuva, kubizwa kuthiwe yi-crowning[cite: 1034]. Lapho, uzezwa ukutshisa; mana ukukhanula ukuze ungadabuki[cite: 1035, 1036, 1037]. Ukopha kakhulu (postpartum hemorrhage) kungabangelwa yikudabuka komlomo wesibeletho kumbe inkinga zembeleko[cite: 1015, 1017, 1022]."
+      },
+      "izixwayiso": "Uqeda ukubeletha, umntwana uyahlolwa nge-APGAR[cite: 1046]. I-APGAR ikutshengisa impilakahle yakhe[cite: 1048]. Ukutshaya isikhombisa kusiya kutshumi kulungile[cite: 1050]. Ukuze kuphele kuhle, chelesisa izinyama zangaphansi, nanzelela ukuphefumula kwakho[cite: 1053, 1054].",
+      "okuhlelelwe_iviki": "Udokotela angakuhlola nge-Non stress test le-Amniotic fluid index[cite: 1057, 1058, 1059]. Angathanda ukuxoxisana lawe ngokudlula inyanga, ukuheleliswa (induction), kumbe ukulaliswa (caesarean)[cite: 1061, 1062, 1063]."
+    }
+  ]
+}
