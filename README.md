@@ -88,7 +88,7 @@ Munzwa, T. K., et al. (2026). *Zambezi NLU: Multilingual Maternal & SRH Health D
 @dataset{zambezi_nlu_2026,
   author    = {Munzwa, Tafadzwa K. and others},
   title     = {Zambezi NLU: Multilingual Maternal & SRH Health Dataset},
-  year      = {2025},
+  year      = {2026},
   publisher = {Dawa Health},
   license   = {CC-BY-4.0},
   note      = {Multilingual maternal health dataset covering seven African languages}
