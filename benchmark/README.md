@@ -6,7 +6,7 @@ It is part of [Zambezi NLU](../README.md), developed by Dawa Health.
 
 **File:** `zambezi_nlu_benchmark.jsonl` (UTF-8, one JSON object per line)
 **Language:** English, in plain patient-style wording
-**License:** CC BY 4.0
+**License:** [Apache License 2.0](../LICENSE)
 
 ## What it tests
 
@@ -180,7 +180,7 @@ This benchmark is for research and for evaluating NLP systems. It is not medical
   title     = {Zambezi NLU: Multilingual Maternal & SRH Health Dataset},
   year      = {2026},
   publisher = {Dawa Health},
-  license   = {CC-BY-4.0}
+  license   = {Apache-2.0}
 }
 ```
 
