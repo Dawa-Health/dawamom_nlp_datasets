@@ -176,7 +176,7 @@ This benchmark is for research and for evaluating NLP systems. It is not medical
 
 ```bibtex
 @dataset{zambezi_nlu_2025,
-  author    = {Munzwa, Tafadzwa K. and others},
+  author    = {Munzwa, Tafadzwa K. et al},
   title     = {Zambezi NLU: Multilingual Maternal & SRH Health Dataset},
   year      = {2026},
   publisher = {Dawa Health},
