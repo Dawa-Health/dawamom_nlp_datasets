@@ -1,209 +1,207 @@
-# Zambezi NLU: Multilingual Maternal & SRH Health Dataset
+# Zambezi NLU Benchmark: Maternal and SRH Questions
 
-**Zambezi NLU** is a multilingual maternal and SRH health Natural Language Understanding (NLU) dataset developed by Dawa Health to support research, development and evaluation of NLP systems for African languages.
+A benchmark of 821 assumptions drawn from 657 maternal, sexual and reproductive health questions, written for the Zambian care context. Each record pairs a question with one assumption the question carries, a label saying whether that assumption is true, and a label for the kind of assumption it is.
 
-It covers seven languages: English, Shona, Ndebele, Nyanja, Tonga, Bemba and Lozi.
+It is part of [Zambezi NLU](../README.md), developed by Dawa Health.
 
-The dataset provides structured pregnancy and maternal health information to support multilingual conversational AI, question answering, semantic understanding and digital maternal health assistants. It also includes an English cervical cancer FAQ of 100 question-and-answer pairs, and an English benchmark for testing whether a system recognises the assumptions built into health questions. The benchmark covers maternal health, sexual and reproductive health, cervical cancer and neonatal health.
+**File:** `zambezi_nlu_benchmark.jsonl` (UTF-8, one JSON object per line)
+**Language:** English, in plain patient-style wording
+**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-| | |
-|---|---|
-| **Dataset format** | JSON and JSONL |
-| **License** | [Apache License 2.0](LICENSE) |
-| **Copyright** | © 2026 Dawa Health |
-| **Funding** | Grand Challenges Canada, UNICEF Femtech Ventures, and TogetHER for Health |
-| **Contact** | developers@dawa-health.com |
+## What it tests
 
-## Contents
+People asking health questions often build beliefs into the question itself. Some of those beliefs are false, and a few are dangerous. "Since the law only covers girls under 16, is there anything else I can do?" assumes something about the law before any answer is given.
 
-| Part | Location | Description |
-|---|---|---|
-| Pregnancy information (JSON) | `json/` | Week-by-week pregnancy information, one structured file per language |
-| Pregnancy information (JSONL) | `dawamom_<language>.jsonl` | The same content with one record per week (40 lines), one file per language |
-| Combined file | `combined_multilingual.jsonl` | All seven languages in a single JSONL file with one shared schema (280 lines) |
-| Cervical cancer FAQ | [`jsonl/cervical_cancer-faq.jsonl`](jsonl/cervical_cancer-faq.jsonl) | 100 English question-and-answer pairs on cervical cancer: 50 for the general public and 50 for health professionals |
-| Benchmark | [`benchmark/`](benchmark/README.md) | 821 assumptions from 657 questions on maternal health, SRH, cervical cancer and neonatal health, with veracity and assumption-type labels |
+A good health assistant should notice the assumption, check it, and correct it when it is wrong, instead of answering only the surface question. This benchmark supports three evaluations:
 
-## Languages and authors
+1. **Veracity:** given a question and an assumption, decide whether the assumption is true.
+2. **Assumption type:** classify the assumption as a presupposition, an implicature, or world knowledge.
+3. **Response quality:** given only the question, check whether a model's answer addresses the false assumptions listed for it.
 
-Each language set covers 40 weeks of pregnancy and was written and reviewed by first-language speakers. The authors are health and development professionals: medical doctors, midwives, medical licentiates, clinical officers, physiotherapists and development officers.
-
-| Language | Files | Authors |
-|---|---|---|
-| English | `DawaMom_English_dataset.json`, `dawamom_english.jsonl` | Tafadzwa K Munzwa, Takunda G Mugwagwa, Farai V Mutanga |
-| Shona | `DawaMom_Shona_dataset.json`, `dawamom_shona.jsonl` | Tinowimba Katsumbe, Tafadzwa Muchoza, Wisdom Mukoko, Charles Zhou |
-| Ndebele | `DawaMom_isiNdebele_dataset.json`, `dawamom_isindebele.jsonl` | Zanele Dube, Vezilizwi Maphosa, Sibongikhosi Moyo, Talent Mujombi, Nobukhosi Ndlovu |
-| Nyanja | `DawaMom_chiNyanja_dataset.json`, `dawamom_chinyanja.jsonl` | Charity S Phiri, Aaron Chiwala, Precious Milanzi |
-| Tonga | `DawaMom_chiTonga_dataset.json`, `dawamom_chitonga.jsonl` | Angela S Chikambwe, Mercy Musonda, Judy Mweemba |
-| Bemba | `DawaMom_Bemba_dataset.json`, `dawamom_bemba.jsonl` | Mumbi Chileshe, Audrine Chitalu |
-| Lozi | `DawaMom_lozi_dataset.json`, `dawamom_lozi.jsonl` | Hilda M Lifumbo, Kamutumwa S Imanga |
-
-English terms inside the local-language text were kept on purpose, because speakers code-switch.
-
-## Cervical cancer FAQ
-
-[`jsonl/cervical_cancer-faq.jsonl`](jsonl/cervical_cancer-faq.jsonl) holds 100 question-and-answer pairs on cervical cancer, written in English for the Zambian care context. It covers causes and HPV, vaccination, screening (Pap smear, VIA, HPV testing), diagnosis and staging, treatment, and prevention programmes.
-
-| | |
-|---|---|
-| File | `jsonl/cervical_cancer-faq.jsonl` |
-| Size | 100 question-and-answer pairs |
-| Audiences | `layman` (ids 1 to 50), `medical_professional` (ids 51 to 100) |
-| Language | English |
-
-Unlike the benchmark, the FAQ can be used as training data.
-
-## Benchmark
-
-The [Zambezi NLU Benchmark](benchmark/README.md) pairs each question with an assumption it carries, a label for whether that assumption is true, and a label for the kind of assumption it is. It is written in plain patient-style English for the Zambian care context.
-
-It is intended for evaluation only. Do not use it as training data, or results on it will no longer be meaningful.
-
-| | |
-|---|---|
-| File | `benchmark/zambezi_nlu_benchmark.jsonl` |
-| Size | 821 assumptions from 657 questions |
-| Topics | Maternal health, sexual and reproductive health, cervical cancer, neonatal health |
-| Language | English |
-| Annotators | Tafadzwa K Munzwa (Medical Doctor), Tariro F Munzwa (AI Engineer) |
-
-See the [benchmark README](benchmark/README.md) for the record format, labels, sources and suggested evaluation.
-
-## Data format
-
-**JSON.** Each file holds the dataset name, language, authors and license, followed by a list of 40 weekly entries with baby development, maternal changes, tips and a plan for the week.
-
-**Combined JSONL.** `combined_multilingual.jsonl` has one record per language per week (7 × 40 = 280 lines), ordered English, Bemba, Tonga, Nyanja, Lozi, Shona, Ndebele. Every record has the same fields, with English field names:
+## Record format
 
 ```json
 {
-  "language": "English",
-  "week": 12,
-  "baby_development": {
-    "length": "3.15 inches (8 centimeters) long [cite: 419]",
-    "weight": "1 ounce (about 28 grams) [cite: 419]",
-    "summary": "The eyes move closer together ..."
-  },
-  "maternal_changes": {
-    "body_changes": "Your healthcare provider can now feel your uterus ...",
-    "tips": "Many women benefit from Kegel exercises ...",
-    "plan": "Now is a great time to look at your diet. ..."
-  }
+  "assumption_id": "pv.24.1",
+  "question_id": "pv.24",
+  "subset": "pv",
+  "question": "Since the government fixed the maternal death problem, why is my sister's clinic still turning women away?",
+  "assumption": "Maternal mortality in Zambia has been resolved.",
+  "veracity": "False",
+  "assumption_type": "presupposition",
+  "assumption_type_annotator_1": "presupposition",
+  "assumption_type_annotator_2": "presupposition",
+  "persona": "adult woman",
+  "assumption_category": "overstated_progress",
+  "source_reference": "Brief p5 - MMR 398/100,000, among the world's highest"
 }
 ```
 
-A field is `null` where the source has no value, for example length and weight in the first weeks.
+| Field | Description |
+|---|---|
+| `assumption_id` | Unique ID for the record. Starts with the `question_id`. |
+| `question_id` | ID of the question. Shared by all assumptions from the same question. |
+| `subset` | Source group, taken from the first part of the ID. See [Subsets](#subsets). |
+| `question` | The question as a patient or member of the public might ask it. |
+| `assumption` | One belief the question carries or implies. |
+| `veracity` | Whether the assumption is true. See [Labels](#labels). |
+| `assumption_type` | Final (adjudicated) assumption type. |
+| `assumption_type_annotator_1` | Assumption type from the first annotator. |
+| `assumption_type_annotator_2` | Assumption type from the second annotator. |
+| `persona` | Who is asking. Filled for the `pv` subset only, otherwise `null`. |
+| `assumption_category` | Kind of belief or barrier involved. `pv` subset only. |
+| `source_reference` | Law, regulation or brief the veracity label rests on. `pv` subset only. |
 
-**Per-language JSONL.** Each `dawamom_<language>.jsonl` file has one record per week (40 lines). A record is the weekly entry from that language's JSON file, unchanged, so it keeps the source's own field names and nesting. The English, Bemba and Tonga files use the English field names shown above. The other four use field names in their own language:
+A question with several assumptions appears on several lines: 559 questions have one assumption, 32 have two and 66 have three.
 
-| Shared name | Shona | Ndebele | Nyanja | Lozi |
-|---|---|---|---|---|
-| `week` | `vhiki` | `iviki` | `sabata` | `sunda` |
-| `baby_development` | `kukura_kwemwana` | `ukukhula_komntwana` | `kukula_kwa_mwana` | `kuhula_kwa_mbututu` |
-| `length` | `urefu` | `ubude` | `utali` | `butelele` |
-| `weight` | `uremu` | `isisindo` | `kulemera` / `ulemera` | `buima` |
-| `summary` | `pfupiso` | `isifingqo` | `pfupiso` | `pfupiso` |
-| `maternal_changes` | `shanduko_kuna_amai` | `untshintsho_kuma` | `zosintha_kwa_mayi` | `linchincheho_kwa_mahe` |
-| `body_changes` | `kushanduka_kwemuviri` | `untshintsho_emzimbeni` | `zosintha_za_thupi` | `linchincheho_za_mubili` |
-| `tips` | `zvingabatsire` | `izixwayiso` | `malangizo` | `mikwa_yakumbweshafaza` |
-| `plan` | `zvekuronga_pavhiki` | `okuhlelelwe_iviki` | `zakukonzekera` | `zakuitukiseza_sunda_ye` |
+## Labels
 
-Three per-language files also differ in nesting; see Limitations. Use the combined file if you need one schema across languages.
+### Veracity
 
-The JSONL records do not carry the dataset name, authors or license. Those apply to every record and are given in this README and in the JSON files.
+| Value | Records | Meaning |
+|---|---|---|
+| `True` | 489 | The assumption is correct. |
+| `False` | 305 | The assumption is incorrect. |
+| `false_unsure` | 24 | The assumption is false or cannot be confirmed as true. Used in the `obgyn` subset only. |
+| `UNVERIFIABLE` | 3 | The sources neither confirm nor refute the assumption. Used in the `pv` subset only. |
 
-Text fields contain source markers of the form `[cite: N]`, which point to passages in the authors' source documents. Strip them before training or display if they are not wanted.
+### Assumption type
 
-**Cervical cancer FAQ.** One record per question-and-answer pair:
+| Value | Records | Meaning |
+|---|---|---|
+| `presupposition` | 391 | Something the question takes for granted in order to make sense. |
+| `implicature` | 320 | Something the question suggests without stating it outright. |
+| `world knowledge` | 110 | A background fact the question relies on. |
 
-```json
-{
-  "id": 1,
-  "audience": "layman",
-  "question": "What is cervical cancer?",
-  "answer": "Cervical cancer is a disease of the cervix, the lower part of the uterus that connects to the vagina. ..."
-}
+The two annotators gave the same type for 799 of the 821 records (97.3%). The 22 disagreements were resolved against the source protocols, with the outcome in `assumption_type` (see [Adjudication](#adjudication)).
+
+## Subsets
+
+| Subset | Questions | Records | True | False | Other | Content |
+|---|---|---|---|---|---|---|
+| `obgyn` | 94 | 94 | 70 | 0 | 24 `false_unsure` | Obstetric and gynaecological instruments, procedures and conditions |
+| `obs` | 143 | 143 | 70 | 73 | | Obstetrics: pregnancy, labour, delivery and the period after birth |
+| `gyn` | 100 | 100 | 63 | 37 | | Gynaecology: periods, fertility, contraception, infections, cancers |
+| `surg` | 3 | 3 | 3 | 0 | | Gynaecological surgery and care around operations |
+| `repro` | 1 | 1 | 1 | 0 | | Reproductive biology |
+| `gen` | 13 | 13 | 7 | 6 | | General emergencies: sepsis, clotting failure, wounds, fluid on the lungs |
+| `uth` | 46 | 46 | 22 | 24 | | Medical conditions in pregnancy and specialist obstetric care |
+| `stg` | 139 | 139 | 67 | 72 | | Antenatal care, labour, bleeding, pre-eclampsia, malaria, HIV and abortion care |
+| `zsti` | 45 | 126 | 89 | 37 | | Sexually transmitted infections in Zambia |
+| `whocx` | 49 | 128 | 88 | 40 | | Cervical cancer screening and treatment of pre-cancer |
+| `pv` | 24 | 28 | 9 | 16 | 3 `UNVERIFIABLE` | Termination of pregnancy law and access to family planning in Zambia |
+| **Total** | **657** | **821** | **489** | **305** | **27** | |
+
+### Sources: how to read the IDs
+
+The source of every record is encoded in its `question_id` and `assumption_id`, so no separate source field is needed.
+
+```
+stg.preeclampsia.3.0
+│   │            │ └─ assumption number within the question
+│   │            └─── question number within the topic
+│   └──────────────── topic (present in obs, gyn, surg, repro, gen, uth, stg)
+└──────────────────── source (same value as the `subset` field)
 ```
 
-`audience` is `layman` for questions a member of the public might ask and `medical_professional` for clinical and programme questions.
+| ID prefix | Source the labels were checked against |
+|---|---|
+| `obgyn`, `obs`, `gyn`, `surg`, `repro`, `gen` | Obstetrics and gynaecology clinical protocols, grouped by area: instruments and procedures, obstetrics, gynaecology, surgery, reproductive biology, general emergencies |
+| `uth` | UTH obstetric protocols |
+| `stg` | Zambian Standard Treatment Guidelines (STG) |
+| `zsti` | Zambian STI guidelines |
+| `whocx` | WHO guideline on cervical cancer screening and treatment of pre-cancer |
+| `pv` | Termination of Pregnancy Act and Regulations, and a policy brief. The exact section or page is in `source_reference`. |
+
+The topic part of the ID names the condition or protocol chapter, for example `stg.anc` (antenatal care), `stg.emtct` (preventing mother-to-child HIV transmission), `stg.pac` (post-abortion care), `obs.pph` (postpartum haemorrhage), `obs.iol` (induction of labour), `gyn.pid` (pelvic inflammatory disease), `uth.vbac` (vaginal birth after caesarean). The `obgyn`, `zsti`, `whocx` and `pv` IDs have no topic part and use numbers only (`zsti.1.4.2`, `pv.7.1`).
+
+Two question styles are present. Most subsets use full first-person questions ("My waters broke at 32 weeks, will I be sent home to rest?"). The `zsti` and `whocx` subsets use short lowercase search-style queries with no question mark ("what percentage of women with gonorrhoea have no symptoms").
 
 ## Loading
 
 ```python
 import json
 
-# One language
-with open("dawamom_english.jsonl", encoding="utf-8") as f:
+with open("zambezi_nlu_benchmark.jsonl", encoding="utf-8") as f:
     records = [json.loads(line) for line in f]
-
-# All languages, then filter
-with open("combined_multilingual.jsonl", encoding="utf-8") as f:
-    combined = [json.loads(line) for line in f]
-
-shona = [r for r in combined if r["language"] == "Shona"]
-
-# Cervical cancer FAQ, public-facing questions only
-with open("jsonl/cervical_cancer-faq.jsonl", encoding="utf-8") as f:
-    faq = [json.loads(line) for line in f]
-
-public_faq = [r for r in faq if r["audience"] == "layman"]
 ```
+
+```python
+from datasets import load_dataset
+
+ds = load_dataset("json", data_files="zambezi_nlu_benchmark.jsonl", split="train")
+```
+
+## Suggested evaluation
+
+- **Veracity:** report accuracy and macro-F1, overall and per subset. Because `false_unsure` and `UNVERIFIABLE` are each used in one subset only, either score a two-way task on the 794 `True`/`False` records, or state clearly how you mapped the other two values.
+- **Assumption type:** report accuracy and macro-F1 against `assumption_type`.
+- **Response quality:** send each distinct question once, then judge whether the answer corrects every assumption labelled `False` for that `question_id`. Group records by `question_id` to do this.
+
+There is no train/test split. The benchmark is intended for evaluation only; do not train on it and then report scores on it.
+
+## How it was built
+
+Questions were written to reflect how women and families in Zambia ask about maternal, sexual and reproductive health, with assumptions and veracity labels grounded in the clinical protocols and guidelines identified by each record's ID and, for the `pv` subset, in Zambian law and policy. Question wording was then simplified into everyday language while keeping the medical term in brackets where the question is about that term.
+
+The annotation scheme (assumptions extracted per question, veracity, and the presupposition / implicature distinction) follows Srikanth et al. (2024). No records from that dataset are included here.
+
+### Annotators
+
+| Annotator | Role |
+|---|---|
+| Tafadzwa K Munzwa | Medical Doctor |
+| Tariro F Munzwa | AI Engineer |
+
+Each record was labelled independently by both annotators (`assumption_type_annotator_1`, `assumption_type_annotator_2`).
+
+### Adjudication
+
+Where the two annotators disagreed (22 records), the record was checked against the source protocol identified by its `question_id` and `assumption_id`, and the label confirmed by the protocol was recorded as the final `assumption_type`.
+
+## Known limitations
+
+- **Mixed veracity schemes.** Four veracity values are in use across subsets, as described above.
+- **Plain-language rewording.** 287 questions were reworded into lay language and have not yet had clinical review.
+- **Two annotators.** Labels come from two annotators, one of them a clinician.
+- **Uneven subsets.** `surg` and `repro` are too small to report on separately.
+- **Context-specific answers.** Labels reflect Zambian guidelines and law at the time of writing. They may not hold in other countries or after guidelines are revised.
+- **English only.** The other Zambezi NLU languages are not yet covered.
 
 ## Intended use
 
-This dataset is for research and for developing and evaluating NLP systems. It is not medical advice and should not be used to make decisions about an individual's care.
-
-## Limitations
-
-- **Scope.** The pregnancy information covers the 40 weeks of pregnancy only. It is not a complete maternal or SRH health reference.
-- **Topic gaps.** Not every locally important topic is covered in every language. For example, malaria prevention, HIV testing and preeclampsia were not found in the Bemba set.
-- **Parallel, not identical.** Each language set was written by its own authors, so content and wording differ between languages. The sets are not sentence-aligned translations, and some figures differ between languages for the same week.
-- **Question-and-answer data.** The pregnancy information is structured prose, not question-and-answer pairs. Only the cervical cancer FAQ and the benchmark are in question form, and both are English only.
-- **Cervical cancer FAQ.** The answers are short summaries. Figures and guideline references in them, such as incidence statistics and screening intervals, reflect the sources available when they were written and may be out of date. Check them against current national guidelines before relying on them.
-- **Benchmark language.** The benchmark is English only and written for the Zambian care context.
-- **Expert authorship is not model validation.** A model trained on this data can still produce incorrect or unsafe health information. Its outputs need their own clinical and native-speaker review.
-
-### Known issues in the current files
-
-The JSONL files reproduce the source text exactly, so the following are present in both the JSON and JSONL files. The combined file fixes the structural differences but not the content.
-
-- **Lozi: text in other languages.** Some fields in weeks 30, 32, 33, 36 and 38 are in Ndebele, and the maternal fields for week 37 are in Nyanja. In the combined file these records are still labelled `Lozi`.
-- **Lozi: nesting and values.** From week 13 the body changes, tips and plan fields sit inside the baby development object instead of a separate maternal changes object. Week 17 has a weight ("0.5kgs") in the length field, and the week 14 weight ("0.5kgs") is too high.
-- **Tonga: values.** The week 23 baby summary is a placeholder ("Not provided in the document for this week."). The weights for weeks 17 ("11kg") and 22 ("4kg") are too high, and several lengths have no unit.
-- **Nyanja: field name.** The baby's weight is `kulemera` in weeks 1 to 10 and `ulemera` in weeks 11 to 40.
-- **Ndebele: nesting.** Tips and plan sit at the top level of each weekly entry, not inside the maternal changes object.
-- **Formatting.** Length and weight are free text and are not in a consistent unit or style across languages. A few fractions appear as garbled characters (Bemba, weeks 31 to 35) or as math markup (Tonga).
-
-## Related models
-
-The pregnancy information was used to train Dawa Health's MedGemma maternal health adapters:
-
-- [dawahealth/medgemma-maternal-lora](https://huggingface.co/dawahealth/medgemma-maternal-lora) (v1)
-- [dawahealth/medgemma-maternal-lora-v2](https://huggingface.co/dawahealth/medgemma-maternal-lora-v2) (v2)
-
-Those adapters were also trained on cervical cancer FAQs, and on material that is not part of this dataset and is not open source: question-and-answer pairs drawn from documents, a contraception question-and-answer set, and de-identified user conversations.
-
-## License
-
-Copyright 2026 Dawa Health.
-
-The dataset, the benchmark and any code in this repository are licensed under the [Apache License, Version 2.0](LICENSE). You may use, modify and redistribute them, including commercially, provided you keep the copyright and license notices and state any changes you make.
-
-## Contributing
-
-Corrections and additions are welcome, especially from first-language speakers and clinicians. Open an issue or pull request on this repository, or email developers@dawa-health.com. Contributions are accepted under the same Apache 2.0 license. Only contribute material you have the right to share, and never include personal or patient information.
+This benchmark is for research and for evaluating NLP systems. It is not medical or legal advice, and the labels should not be used to make decisions about an individual's care.
 
 ## Citation
 
-Munzwa, T. K., et al. (2026). *Zambezi NLU: Multilingual Maternal & SRH Health Dataset* [Data set]. Dawa Health. Apache License 2.0.
-
 ```bibtex
 @dataset{zambezi_nlu_2026,
-  author    = {Munzwa, Tafadzwa K. and others},
+  author    = {Munzwa, Tafadzwa K. et al},
   title     = {Zambezi NLU: Multilingual Maternal & SRH Health Dataset},
   year      = {2026},
   publisher = {Dawa Health},
-  license   = {Apache-2.0},
-  note      = {Multilingual maternal health dataset covering seven African languages}
+  license   = {CC-BY-4.0}
 }
 ```
+
+The annotation scheme is based on:
+
+```bibtex
+@inproceedings{srikanth-etal-2024-pregnant,
+  author    = {Srikanth, Neha and Sarkar, Rupak and Mane, Heran and Aparicio, Elizabeth and Nguyen, Quynh and Rudinger, Rachel and Boyd-Graber, Jordan},
+  title     = {Pregnant Questions: The Importance of Pragmatic Awareness in Maternal Health Question Answering},
+  booktitle = {Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)},
+  year      = {2024},
+  address   = {Mexico City, Mexico},
+  publisher = {Association for Computational Linguistics},
+  pages     = {7253--7268},
+  doi       = {10.18653/v1/2024.naacl-long.403},
+  url       = {https://aclanthology.org/2024.naacl-long.403/}
+}
+```
+
+## Funding
+
+Grand Challenges Canada, UNICEF Femtech Ventures, and TogetHER for Health.
+
+© 2026 Dawa Health.
