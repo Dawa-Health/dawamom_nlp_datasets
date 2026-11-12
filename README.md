@@ -193,7 +193,7 @@ Munzwa, T. K., et al. (2026). *Zambezi NLU: Multilingual Maternal & SRH Health D
 
 ```bibtex
 @dataset{zambezi_nlu_2026,
-  author    = {Munzwa, Tafadzwa K. and others},
+  author    = {Munzwa, Tafadzwa K., et al.},
   title     = {Zambezi NLU: Multilingual Maternal & SRH Health Dataset},
   year      = {2026},
   publisher = {Dawa Health},
