@@ -1,4 +1,4 @@
-# Zambezi NLU Benchmark: Assumptions in Maternal & SRH Questions
+# Zambezi NLU Benchmark: Assumptions in Maternal and SRH Questions
 
 A benchmark of 821 assumptions drawn from 657 maternal, sexual and reproductive health questions, written for the Zambian care context. Each record pairs a question with one assumption the question carries, a label saying whether that assumption is true, and a label for the kind of assumption it is.
 
@@ -29,8 +29,8 @@ A good health assistant should notice the assumption, check it, and correct it w
   "assumption": "Maternal mortality in Zambia has been resolved.",
   "veracity": "False",
   "assumption_type": "presupposition",
-  "assumption_type_neha": "presupposition",
-  "assumption_type_rupak": "presupposition",
+  "assumption_type_annotator_1": "presupposition",
+  "assumption_type_annotator_2": "presupposition",
   "persona": "adult woman",
   "assumption_category": "overstated_progress",
   "source_reference": "Brief p5 - MMR 398/100,000, among the world's highest"
@@ -46,8 +46,8 @@ A good health assistant should notice the assumption, check it, and correct it w
 | `assumption` | One belief the question carries or implies. |
 | `veracity` | Whether the assumption is true. See [Labels](#labels). |
 | `assumption_type` | Final (adjudicated) assumption type. |
-| `assumption_type_neha` | Assumption type from the first annotator. *TODO: rename, see [Known limitations](#known-limitations).* |
-| `assumption_type_rupak` | Assumption type from the second annotator. *TODO: rename.* |
+| `assumption_type_annotator_1` | Assumption type from the first annotator. |
+| `assumption_type_annotator_2` | Assumption type from the second annotator. |
 | `persona` | Who is asking. Filled for the `pv` subset only, otherwise `null`. |
 | `assumption_category` | Kind of belief or barrier involved. `pv` subset only. |
 | `source_reference` | Law, regulation or brief the veracity label rests on. `pv` subset only. |
@@ -73,7 +73,7 @@ A question with several assumptions appears on several lines: 559 questions have
 | `implicature` | 320 | Something the question suggests without stating it outright. |
 | `world knowledge` | 110 | A background fact the question relies on. |
 
-The two annotators gave the same type for 799 of the 821 records. The 22 disagreements were resolved in `assumption_type`.
+The two annotators gave the same type for 799 of the 821 records (97.3%). The 22 disagreements were resolved against the source protocols, with the outcome in `assumption_type` (see [Adjudication](#adjudication)).
 
 ## Subsets
 
@@ -92,7 +92,28 @@ The two annotators gave the same type for 799 of the 821 records. The 22 disagre
 | `pv` | 24 | 28 | 9 | 16 | 3 `UNVERIFIABLE` | Termination of pregnancy law and access to family planning in Zambia |
 | **Total** | **657** | **821** | **489** | **305** | **27** | |
 
-*TODO: add the source document for each subset (guideline title, edition and year) so users can verify the labels.*
+### Sources: how to read the IDs
+
+The source of every record is encoded in its `question_id` and `assumption_id`, so no separate source field is needed.
+
+```
+stg.preeclampsia.3.0
+│   │            │ └─ assumption number within the question
+│   │            └─── question number within the topic
+│   └──────────────── topic (present in obs, gyn, surg, repro, gen, uth, stg)
+└──────────────────── source (same value as the `subset` field)
+```
+
+| ID prefix | Source the labels were checked against |
+|---|---|
+| `obgyn`, `obs`, `gyn`, `surg`, `repro`, `gen` | Obstetrics and gynaecology clinical protocols, grouped by area: instruments and procedures, obstetrics, gynaecology, surgery, reproductive biology, general emergencies |
+| `uth` | UTH obstetric protocols |
+| `stg` | Zambian Standard Treatment Guidelines (STG) |
+| `zsti` | Zambian STI guidelines |
+| `whocx` | WHO guideline on cervical cancer screening and treatment of pre-cancer |
+| `pv` | Termination of Pregnancy Act and Regulations, and a policy brief. The exact section or page is in `source_reference`. |
+
+The topic part of the ID names the condition or protocol chapter, for example `stg.anc` (antenatal care), `stg.emtct` (preventing mother-to-child HIV transmission), `stg.pac` (post-abortion care), `obs.pph` (postpartum haemorrhage), `obs.iol` (induction of labour), `gyn.pid` (pelvic inflammatory disease), `uth.vbac` (vaginal birth after caesarean). The `obgyn`, `zsti`, `whocx` and `pv` IDs have no topic part and use numbers only (`zsti.1.4.2`, `pv.7.1`).
 
 Two question styles are present. Most subsets use full first-person questions ("My waters broke at 32 weeks, will I be sent home to rest?"). The `zsti` and `whocx` subsets use short lowercase search-style queries with no question mark ("what percentage of women with gonorrhoea have no symptoms").
 
@@ -121,19 +142,28 @@ There is no train/test split. The benchmark is intended for evaluation only; do 
 
 ## How it was built
 
-*TODO: confirm or correct this section.*
-
-Questions were written to reflect how women and families in Zambia ask about maternal, sexual and reproductive health, with assumptions and veracity labels grounded in clinical guidelines and, for the `pv` subset, in Zambian law and policy. Question wording was then simplified into everyday language while keeping the medical term in brackets where the question is about that term.
+Questions were written to reflect how women and families in Zambia ask about maternal, sexual and reproductive health, with assumptions and veracity labels grounded in the clinical protocols and guidelines identified by each record's ID and, for the `pv` subset, in Zambian law and policy. Question wording was then simplified into everyday language while keeping the medical term in brackets where the question is about that term.
 
 The annotation scheme (assumptions extracted per question, veracity, and the presupposition / implicature distinction) follows Srikanth et al. (2024). No records from that dataset are included here.
 
-*TODO: name the annotators and their roles, and describe how disagreements were adjudicated.*
+### Annotators
+
+| Annotator | Role |
+|---|---|
+| Tafadzwa K Munzwa | Medical Doctor |
+| Tariro F Munzwa | AI Engineer |
+
+Each record was labelled independently by both annotators (`assumption_type_annotator_1`, `assumption_type_annotator_2`).
+
+### Adjudication
+
+Where the two annotators disagreed (22 records), the record was checked against the source protocol identified by its `question_id` and `assumption_id`, and the label confirmed by the protocol was recorded as the final `assumption_type`.
 
 ## Known limitations
 
-- **Annotator field names.** `assumption_type_neha` and `assumption_type_rupak` are carried over from the template this benchmark was built on. They should be renamed to reflect who labelled these records.
 - **Mixed veracity schemes.** Four veracity values are in use across subsets, as described above.
 - **Plain-language rewording.** 287 questions were reworded into lay language and have not yet had clinical review.
+- **Two annotators.** Labels come from two annotators, one of them a clinician.
 - **Uneven subsets.** `surg` and `repro` are too small to report on separately.
 - **Context-specific answers.** Labels reflect Zambian guidelines and law at the time of writing. They may not hold in other countries or after guidelines are revised.
 - **English only.** The other Zambezi NLU languages are not yet covered.
@@ -146,9 +176,9 @@ This benchmark is for research and for evaluating NLP systems. It is not medical
 
 ```bibtex
 @dataset{zambezi_nlu_2025,
-  author    = {Munzwa, Tafadzwa K.},
+  author    = {Munzwa, Tafadzwa K. and others},
   title     = {Zambezi NLU: Multilingual Maternal & SRH Health Dataset},
-  year      = {2025},
+  year      = {2026},
   publisher = {Dawa Health},
   license   = {CC-BY-4.0}
 }
@@ -174,4 +204,4 @@ The annotation scheme is based on:
 
 Grand Challenges Canada, UNICEF Femtech Ventures and TogetHER for Health.
 
-© 2025 Dawa Health.
+© 2026 Dawa Health.
