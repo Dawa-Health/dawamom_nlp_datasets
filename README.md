@@ -10,9 +10,9 @@ The dataset provides structured pregnancy and maternal health information to sup
 
 **License:** CC BY 4.0.
 
-**Copyright:** © 2025 Dawa Health.
+**Copyright:** © 2026 Dawa Health.
 
-**Funding:** Grand Challenges Canada, UNICEF Femtech Ventures and TogetHER for Health.
+**Funding:** Grand Challenges Canada, UNICEF Femtech Ventures, and TogetHER for Health.
 
 ## Contents
 
