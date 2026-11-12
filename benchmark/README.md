@@ -1,4 +1,4 @@
-# Zambezi NLU Benchmark: Assumptions in Maternal and SRH Questions
+# Zambezi NLU Benchmark: Maternal and SRH Questions
 
 A benchmark of 821 assumptions drawn from 657 maternal, sexual and reproductive health questions, written for the Zambian care context. Each record pairs a question with one assumption the question carries, a label saying whether that assumption is true, and a label for the kind of assumption it is.
 
