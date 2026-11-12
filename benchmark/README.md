@@ -175,7 +175,7 @@ This benchmark is for research and for evaluating NLP systems. It is not medical
 ## Citation
 
 ```bibtex
-@dataset{zambezi_nlu_2025,
+@dataset{zambezi_nlu_2026,
   author    = {Munzwa, Tafadzwa K. et al},
   title     = {Zambezi NLU: Multilingual Maternal & SRH Health Dataset},
   year      = {2026},
@@ -202,6 +202,6 @@ The annotation scheme is based on:
 
 ## Funding
 
-Grand Challenges Canada, UNICEF Femtech Ventures and TogetHER for Health.
+Grand Challenges Canada, UNICEF Femtech Ventures, and TogetHER for Health.
 
 © 2026 Dawa Health.
