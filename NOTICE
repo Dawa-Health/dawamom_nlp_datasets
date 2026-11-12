@@ -1,0 +1,21 @@
+Zambezi NLU: Multilingual Maternal & SRH Health Dataset
+Copyright 2026 Dawa Health
+
+This work is licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0). The full license text is in the
+LICENSE file and at https://creativecommons.org/licenses/by/4.0/
+
+You may copy, redistribute and adapt this material for any purpose,
+including commercially, provided you give appropriate credit, link to
+the license and indicate if changes were made.
+
+Suggested credit:
+
+  Zambezi NLU: Multilingual Maternal & SRH Health Dataset,
+  (c) 2026 Dawa Health, licensed under CC BY 4.0.
+  https://github.com/Dawa-Health/zambezi-nlu
+
+The authors of each language set and the benchmark annotators are
+listed in README.md and benchmark/README.md.
+
+Contact: developers@dawa-health.com
