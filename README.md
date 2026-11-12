@@ -9,7 +9,7 @@ The dataset provides structured pregnancy and maternal health information to sup
 | | |
 |---|---|
 | **Dataset format** | JSON and JSONL |
-| **License** | CC BY 4.0 |
+| **License** | [Apache License 2.0](LICENSE) |
 | **Copyright** | © 2026 Dawa Health |
 | **Funding** | Grand Challenges Canada, UNICEF Femtech Ventures, and TogetHER for Health |
 | **Contact** | developers@dawa-health.com |
@@ -183,21 +183,27 @@ The pregnancy information was used to train Dawa Health's MedGemma maternal heal
 
 Those adapters were also trained on cervical cancer FAQs, and on material that is not part of this dataset and is not open source: question-and-answer pairs drawn from documents, a contraception question-and-answer set, and de-identified user conversations.
 
+## License
+
+Copyright 2026 Dawa Health.
+
+The dataset, the benchmark and any code in this repository are licensed under the [Apache License, Version 2.0](LICENSE). You may use, modify and redistribute them, including commercially, provided you keep the copyright and license notices and state any changes you make.
+
 ## Contributing
 
-Corrections and additions are welcome, especially from first-language speakers and clinicians. Open an issue or pull request on this repository, or email developers@dawa-health.com. Only contribute material you have the right to share, and never include personal or patient information.
+Corrections and additions are welcome, especially from first-language speakers and clinicians. Open an issue or pull request on this repository, or email developers@dawa-health.com. Contributions are accepted under the same Apache 2.0 license. Only contribute material you have the right to share, and never include personal or patient information.
 
 ## Citation
 
-Munzwa, T. K., et al. (2026). *Zambezi NLU: Multilingual Maternal & SRH Health Dataset* [Data set]. Dawa Health. CC BY 4.0.
+Munzwa, T. K., et al. (2026). *Zambezi NLU: Multilingual Maternal & SRH Health Dataset* [Data set]. Dawa Health. Apache License 2.0.
 
 ```bibtex
 @dataset{zambezi_nlu_2026,
-  author    = {Munzwa, Tafadzwa K., et al.},
+  author    = {Munzwa, Tafadzwa K. and others},
   title     = {Zambezi NLU: Multilingual Maternal & SRH Health Dataset},
   year      = {2026},
   publisher = {Dawa Health},
-  license   = {CC-BY-4.0},
+  license   = {Apache-2.0},
   note      = {Multilingual maternal health dataset covering seven African languages}
 }
 ```
